@@ -98,4 +98,5 @@ function draw(){
     y += dy;
 }
 
+//runs the game!
 setInterval(draw, 10);
