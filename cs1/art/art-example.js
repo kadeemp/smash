@@ -14,7 +14,7 @@ function drawLine(startX, startY, endX, endY, color){
     pen.closePath();
 }
 
-function drawCircle(x, y, radius, color, filled){
+function drawCircle(x, y, radius, color, filled = false){
     pen.beginPath();
     pen.arc(x, y, radius, 0, Math.PI * 2);
     if(filled){
@@ -28,7 +28,7 @@ function drawCircle(x, y, radius, color, filled){
     pen.closePath();
 }
 
-function drawRect(x, y, width, height, color, filled){
+function drawRect(x, y, width, height, color, filled = false){
     pen.beginPath();
     pen.rect(x, y, width, height);
     if(filled){
@@ -47,7 +47,7 @@ function run(){
     drawLine(w, 0, 0, h, "blue");
     drawLine(0, h / 2, w, h / 2, "green");
     drawLine(w / 2, 0, w / 2, h, "purple");
-    drawCircle(w / 2, h / 2, w / 2, "orange", false);
+    drawCircle(w / 2, h / 2, w / 2, "orange");
     drawRect(w / 2, h / 2, 40, 40, "blue", true);
     //some extra stuff for fun
     pen.font = "30px Arial";
