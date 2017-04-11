@@ -1,8 +1,6 @@
 //global variables
 var canvas = document.getElementById("myCanvas");
 var pen = canvas.getContext("2d");
-var w = canvas.width;
-var h = canvas.height;
 
 //draw a red line from top-left to bottom-right of canvas
 pen.beginPath(); //always start with this
