@@ -55,13 +55,6 @@ function run(){
     pen.textAlign = "center";
     pen.fillText("Hello World", canvas.width / 2, canvas.height / 2);
     pen.fillText("I'm a computer.", canvas.width / 2, (canvas.height / 2) + 30);
-    for(i = 0; i < canvas.width / 4; i++){
-        pen.beginPath();
-        pen.moveTo(i * 10, 0);
-        pen.lineTo(i * 10, canvas.height);
-        pen.strokeStyle = "green";
-        pen.stroke();
-    }
 }
 
 run();
