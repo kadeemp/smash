@@ -1,6 +1,7 @@
 //global variables
 var canvas = document.getElementById("myCanvas");
 var pen = canvas.getContext("2d");
+var score = document.getElementById("score").innerHTML;
 var x = canvas.width / 2;
 var y = canvas.height - 30;
 var dx = 2;
@@ -11,7 +12,6 @@ var paddleWidth = 75;
 var paddleX = (canvas.width - paddleWidth) / 2;
 var rightPressed = false;
 var leftPressed = false;
-var score = document.getElementById("score").innerHTML;
 
 //Don't ask what this stuff means yet, just copy!
 //You'll learn about all this in due time!
