@@ -1,0 +1,45 @@
+body{
+    background-color: cornsilk;
+    
+    font-family: sans-serif;
+}
+
+h1{
+    text-align: center;
+    font-family: serif;
+    font-weight: normal;
+    text-transform: uppercase;
+    border-bottom: 1px solid brown;
+}
+
+h2{
+    color: cornflowerblue;
+}
+
+p#intro{
+    text-align: center;
+}
+
+div#story{
+   float: left;
+   width: 25%;
+   margin: 0 5%;
+}
+
+div#food{
+    float: left;
+    width: 25%;
+    margin: 0 5% 14% 0;
+}
+
+div#movies{
+    float: left;
+    width: 25%;
+    margin: 0 5% 0 0;
+}
+
+div#games{
+    float: clear;
+    width: 25%;
+    margin: 10% 5% 0 5%;
+}
