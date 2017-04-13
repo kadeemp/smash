@@ -56,7 +56,7 @@ function handleDrawRect(){
     var color = prompt("What is the color?");
     var filled = prompt("Please enter true for filled, false for not filled.");
     alert("Here's your shape!");
-    drawRect(x, y, width, height, color, filled);
+    drawRect(x, y, width, height, color, filled == "true");
 }
 
 function handleDrawTriangle(){
