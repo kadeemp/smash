@@ -3,6 +3,7 @@ body{
     color: midnightblue;
     background-color: #455da3;
     background-image: url(img/background.jpeg);
+    background-attachment: fixed;
 }
 
 h1{
@@ -20,14 +21,14 @@ h2{
 }
 
 div{
-    background-color: #45a39b;
-    opacity: 0.95;
+    background-color: RGBA(69, 163, 155, 0.90);
     padding: 20px;
     margin: 0 20%;
     border: groove;
 }
 
 div.pics{
+    background-color: RGBA(69, 163, 155, 0);
     margin: auto;
     text-align: center;
     border: none;
