@@ -4,7 +4,6 @@ body{
     background-color: #455da3;
     background-image: url(img/background.jpeg);
     background-attachment: fixed;
-    background-size: 100% 100%;
 }
 
 h1{
@@ -16,12 +15,12 @@ h1{
 }
 
 h2{
-    text-align: center;
+    text-align: center; 
     color: #cedbe5;
     text-decoration: underline;
 }
 
-div{
+div#content{
     background-color: RGBA(69, 163, 155, 0.90);
     padding: 20px;
     margin: 0 20%;
@@ -36,7 +35,6 @@ div.pics{
 }
 
 img{
-    width: 40%;
     margin: 0 10px;
     box-shadow: 5px 5px midnightblue;
 }
