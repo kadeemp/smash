@@ -4,7 +4,7 @@ body{
     background-color: #455da3;
     background-image: url(img/background.jpeg);
     background-attachment: fixed;
-    background-size: cover;
+    background-size: 100% 100%;
 }
 
 h1{
