@@ -1,0 +1,101 @@
+body{
+    font-family: 'Lora', serif;
+    margin: 0 20%;
+    background-color: floralwhite;
+}
+
+header{
+    text-align: center;
+}
+
+h1{
+    font-size: 40px;
+    margin-bottom: 0;
+}
+
+h1 a:link, a:visited{
+    color: #191970;
+    text-decoration: none
+}
+
+/*Styles for the navigation bar*/
+nav{
+    background-color: #191970;
+    overflow: hidden;
+    width: 100%;
+}
+
+nav ul{
+    list-style-type: none;
+    padding: 0;
+    margin: 5px;
+}
+
+nav ul li{
+    display: inline;
+}
+
+nav ul li a{
+    display: inline-block;
+    text-decoration: none;
+    padding: 10px;
+    margin: 0.25px;
+    font-size: 1.1em;
+    font-weight: bold;
+    color: floralwhite;
+    border: 1px solid floralwhite;
+    border-radius: 5px;
+}
+
+nav ul li a:visited {
+    color: floralwhite; 	
+    border-color: floralwhite;
+}
+
+nav ul li a:focus {
+    color: #bc9b04;
+    border-color: #bc9b04;
+}
+
+nav ul li a:hover {
+    color: #bc9b04; 	
+    border-color: #bc9b04;
+}
+
+nav ul li a#currentPage {
+    color: lightblue;
+    border-color: lightblue;
+    text-decoration: underline;
+}
+
+img#profile, iframe#contactForm{
+    display: block;
+    margin: 0 auto;
+    overflow: hidden;
+}
+
+img#hiking{
+    float: right;
+    margin: 0 0 10px 10px;
+    max-width: 50%;
+}
+
+iframe#contactForm{
+    width: 75%;
+    height: 600px;
+    border-color: #191970;
+}
+
+div.content{
+    font-size: 1.10em;
+    text-align: left;
+}
+
+footer{
+    clear: both;
+    margin-top: 10px;
+    padding: 0.25em 0;
+    background-color: #191970;
+    color: floralwhite;
+    text-align: center;
+}
