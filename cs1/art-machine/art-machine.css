@@ -1,9 +1,0 @@
-#wrapper{
-  /*width: 600px;*/
-  /*margin: auto;*/
-}
-#myCanvas{
-  display: block;
-  margin: inherit;
-  border: 1px solid black;
-}
