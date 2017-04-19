@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html>
+    
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width">
+        <title>Amazing Art Machine</title>
+        <link rel="stylesheet" type="text/css" href="style.css">
+    </head>
+    
+    <body>
+        
+        <header>
+            <h1>Amazing Art Machine&trade;</h1>
+            <p>Welcome to the <b>Amazing Art Machine&trade;</b>!</p> 
+        </header>
+        
+        <div id="instructions">
+            <p>Enter your choices below to <em>auto-magically</em> generate <strong>AMAZING ART</strong> using our revolutionary HYPERSMASH&trade; technology!</p>
+            <input type="button" id="hyper" value="What is HYPERSMASH&trade; technology?">
+            <p id="hyper-desc">HYPERSMASH&trade; is a technology our researchers at Level Playing Field Institute have developed in order to take SMASH to the next level! Using state of the art engineering and only the highest quality ingredients, HYPERSMASH&trade; is guaranteed to SMASH you so hard you'll turn into a hamburger!</p>
+        </div>
+        
+        <hr>
+        
+        <div id="main">
+            <form name="art-form" action="" method="GET">
+                
+                <ul id="form-controls">
+                    
+                    <li>
+                        <label><b>Your name</b></label><br>
+                        <input type="text" name="name" id="user-name">
+                    </li>
+                    
+                    <li>
+                        <b>Choose shape</b><br>
+                        <select name="shape" id="shape-choice">
+                            <option value="rectangle">Rectangle</option>
+                            <option value="triangle">Triangle</option>
+                            <option value="circle">Circle</option>
+                        </select>
+                    </li>
+                    
+                    <li>
+                        <label><b>X coordinate</b></label><br>
+                        <input type="number" name="x" id="x" min="0" max="400">    
+                    </li>
+                    <li>
+                        <label><b>Y coordinate</b></label><br>
+                        <input type="number" name="y" id="y" min="0" max="400">    
+                    </li>
+                    
+                    <div id="rect">
+                        <li>
+                            <label><b>Width</b></label><br>
+                            <input type="number" name="width" id="width" min="1" max="400">    
+                        </li>
+                        <li>
+                            <label><b>Height</b></label><br>
+                            <input type="number" name="rect-height" id="rect-height" min="1" max="400">    
+                        </li>
+                    </div>
+                    
+                    <div id="tri">
+                        <li>
+                            <label><b>Base length</b></label><br>
+                            <input type="number" name="base" id="base" min="1" max="400">    
+                        </li>
+                        <li>
+                            <label><b>Height</b></label><br>
+                            <input type="number" name="tri-height" id="tri-height" min="1" max="400">    
+                        </li>
+                    </div>
+                    
+                    <div id="circ">
+                        <li>
+                            <label><b>Radius</b></label><br>
+                            <input type="number" name="radius" id="radius" min="1" max="200">    
+                        </li>
+                    </div>
+                    
+                    <li>
+                        <label><b>Color</b></label><br>
+                        <input type="color" name="color" id="color">    
+                    </li>
+                    
+                    <li>
+                        <label><b>Filled?</b></label><br>
+                        <input type="checkbox" name="check-filled" value="filled" id="filled"> 
+                    </li>    
+                                    
+                </ul>
+                
+                <p><input type="button" id="form-submit" value="Submit"></p>
+                
+            </form>
+            
+        </div>
+        
+        <!-- Canvas will created here by JavaScript! -->
+        <div id="myCanvas"></div>
+        
+        <script src="test.js"></script>  
+    </body>
+    
+</html>

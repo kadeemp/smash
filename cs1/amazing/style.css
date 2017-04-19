@@ -1,0 +1,45 @@
+div#main{
+    width: 75%;
+    margin: auto;
+    text-align: center;
+}
+
+ul#form-controls{
+    
+}
+
+ul#form-controls li{
+    list-style: none;
+    float: left;
+    display: block;
+    padding: 10px;
+}
+
+#form-submit{
+    clear: both;
+    display: block;
+    margin: auto;
+}
+
+#myCanvas{
+  display: block;
+  margin: inherit;
+  border: 1px solid black;
+}
+
+#hyper-desc{
+    display: none;
+}
+
+div#tri, div#circ{
+    display: none;
+}
+
+div#myCanvas{
+    width: 400px;
+    height: 400px;
+    margin: auto;
+    border: none;
+    text-align: center;
+}
+
