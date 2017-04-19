@@ -1,0 +1,12 @@
+#startButton{
+    display: block;
+    margin: 10px auto;
+}
+canvas{
+    background: #eee;
+    display: block;
+    margin: 0 auto;
+}
+p{
+    text-align: center;
+}
