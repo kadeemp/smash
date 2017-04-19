@@ -1,8 +1,55 @@
-//global variables
-var canvas = document.getElementById("myCanvas");
-var pen = canvas.getContext("2d");
+/**
+Initialize global variables, attach event handlers, etc
+**/
+var hyperButton = document.getElementById("hyper");
+hyperButton.addEventListener("click", revealDesc);
 
-//functions
+var shapeSelector = document.getElementById("shape-choice");
+shapeSelector.addEventListener("change", processShapeChoices);
+
+var submitButton = document.getElementById("form-submit");
+submitButton.addEventListener("click", processDrawing);
+
+var hyperButtonClicked = false;
+
+var canvas = null; //using this later
+var pen = null;
+
+function revealDesc(){
+    if(!hyperButtonClicked){
+        hyperButtonClicked = true;
+        document.getElementById("hyper-desc").style.display = "block";
+        hyperButton.value = unescape("HYPERSMASH%u2122 technology is cool!");
+    }
+    else{
+        hyperButtonClicked = false;
+        document.getElementById("hyper-desc").style.display = "none";
+        hyperButton.value = unescape("What is HYPERSMASH%u2122 technology?");
+    }
+}
+
+function processShapeChoices() {
+    var shape = shapeSelector.value;
+    if(shape == "rectangle"){
+        document.getElementById("rect").style.display = "block";
+    }
+    else{
+        document.getElementById("rect").style.display = "none";
+    }
+    if(shape == "triangle"){
+        document.getElementById("tri").style.display = "block";
+    }
+    else{
+        document.getElementById("tri").style.display = "none";
+    }
+    if(shape == "circle"){
+        document.getElementById("circ").style.display = "block";
+    }
+    else{
+        document.getElementById("circ").style.display = "none";
+    }
+}
+
 function drawRect(x, y, width, height, color, filled = false){
     pen.beginPath();
     pen.rect(x, y, width, height);
@@ -49,35 +96,32 @@ function drawCircle(x, y, radius, color, filled = false){
 }
 
 function handleDrawRect(){
-    var x = Number(prompt("What is the x coordinate?"));
-    var y = Number(prompt("what is the y coordinate?"));
-    var width = Number(prompt("What is the width?"));
-    var height = Number(prompt("What is the height?"));
-    var color = prompt("What is the color?");
-    var filled = prompt("Please enter true for filled, false for not filled.");
-    alert("Here's your shape!");
+    var x = Number(document.getElementById("x").value);
+    var y = Number(document.getElementById("y").value);
+    var width = Number(document.getElementById("width").value);
+    var height = Number(document.getElementById("rect-height").value);
+    var color = document.getElementById("color").value;
+    var filled = document.getElementById("filled").checked;
     drawRect(x, y, width, height, color, filled);
 }
 
 function handleDrawTriangle(){
-    var x = Number(prompt("What is the x coordinate?"));
-    var y = Number(prompt("what is the y coordinate?"));
-    var base = Number(prompt("What is the base length?"));
-    var height = Number(prompt("What is the height?"));
-    var color = prompt("What is the color?");
-    var filled = prompt("Please enter true for filled, false for not filled.");
-    alert("Here's your shape!");
-    drawTriangle(x, y, base, height, color, filled == "true");
+    var x = Number(document.getElementById("x").value);
+    var y = Number(document.getElementById("y").value);
+    var base = Number(document.getElementById("base").value);
+    var height = Number(document.getElementById("tri-height").value);
+    var color = document.getElementById("color").value;
+    var filled = document.getElementById("filled").checked;
+    drawTriangle(x, y, base, height, color, filled);
 }
 
 function handleDrawCircle(){
-    var x = Number(prompt("What is the x coordinate?"));
-    var y = Number(prompt("what is the y coordinate?"));
-    var radius = Number(prompt("What is the radius?"));
-    var color = prompt("What is the color?");
-    var filled = prompt("Please enter true for filled, false for not filled.");
-    alert("Here's your shape!");
-    drawCircle(x, y, radius, color, filled == "true");
+    var x = Number(document.getElementById("x").value);
+    var y = Number(document.getElementById("y").value);
+    var radius = Number(document.getElementById("radius").value);
+    var color = document.getElementById("color").value;
+    var filled = document.getElementById("filled").checked;
+    drawCircle(x, y, radius, color, filled);
 }
 
 function drawName(name){
@@ -91,63 +135,30 @@ function eraseCanvas(){
   pen.clearRect(0, 0, canvas.width, canvas.height);
 }
 
-/*
- This function runs the whole program! 
- Complete the three "draw" functions above first!
-*/
-function run(){
-    alert("Welcome to Canvas Art Machine!");
-    var name = prompt("What is your name?");
-    var running = true;
-    alert("Hi " + name + "!");
-    while(running){
-        var valid = false;
-        while(!valid){
-            drawName(name);
-            var choice = prompt("Enter a number for the shape you'd like me to draw." + 
-           "\n1: Rectangle" + 
-           "\n2: Triangle" + 
-           "\n3: Circle");
-            if(choice == 1){
-                valid = true;
-                handleDrawRect();
-            }
-            else if(choice == 2){
-                valid = true;
-                handleDrawTriangle();
-            }
-            else if(choice == 3){
-                valid = true;
-                handleDrawCircle();
-            }
-            else{
-                alert("That is not a valid choice!");
-            }
-        }
-        valid = false;
-        while(!valid){
-            var choice = prompt("What should I do next?" + 
-                               "\n1: Erase canvas and start over." + 
-                               "\n2: Draw another shape." + 
-                               "\n3: Shut down.");
-            if(choice == 1){
-                valid = true;
-                eraseCanvas();
-            }
-            else if(choice == 2){
-                valid = true;
-            }
-            else if(choice == 3){
-                valid = true;
-                running = false;
-            }
-            else{
-                alert("That is not a valid choice!");
-            }
-        }
-    }
-    alert("Goodbye!");
+function createCanvas(){
+    canvas = document.createElement("canvas");
+    canvas.width = "400";
+    canvas.height = "400";
+    pen = canvas.getContext("2d");
+    document.getElementById("myCanvas").appendChild(canvas);
 }
 
-//Calling the run function here! 
-run();
+
+function processDrawing(){
+    if(canvas == null){
+        createCanvas();
+        drawName(document.getElementById("user-name").value);
+    }
+    var shape = shapeSelector.value;
+    if(shape == "rectangle"){
+        handleDrawRect();
+    }
+    else if(shape == "triangle"){
+        handleDrawTriangle();
+    }
+    else if(shape == "circle"){
+        handleDrawCircle();
+    }
+}
+
+
