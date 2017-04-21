@@ -145,8 +145,8 @@ function createCanvas(){
 
 
 function processDrawing(){
-    var testX = Number(document.getElementById("x").value;
-    var testY = Number(document.getElementById("y").value;
+    var testX = Number(document.getElementById("x")).value;
+    var testY = Number(document.getElementById("y")).value;
     if((textX < 0 || textX > 400) || (testY < 30 || testY > 400)){
         alert("Please enter valid coordinates!");
     }
@@ -165,9 +165,8 @@ function processDrawing(){
         }
         else if(shape == "circle"){
             handleDrawCircle();
-        }
-
-        }
+        }  
+    }
 }
 
 
