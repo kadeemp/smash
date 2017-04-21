@@ -145,20 +145,29 @@ function createCanvas(){
 
 
 function processDrawing(){
-    if(canvas == null){
-        createCanvas();
-        drawName(document.getElementById("user-name").value);
+    var testX = Number(document.getElementById("x").value;
+    var testY = Number(document.getElementById("y").value;
+    if((textX < 0 || textX > 400) || (testY < 30 || testY > 400)){
+        alert("Please enter valid coordinates!");
     }
-    var shape = shapeSelector.value;
-    if(shape == "rectangle"){
-        handleDrawRect();
-    }
-    else if(shape == "triangle"){
-        handleDrawTriangle();
-    }
-    else if(shape == "circle"){
-        handleDrawCircle();
-    }
+    else{
+        if(canvas == null){
+            createCanvas();
+            drawName(document.getElementById("user-name").value);
+            document.getElementById("user-name").disabled = "disabled";
+        }
+        var shape = shapeSelector.value;
+        if(shape == "rectangle"){
+            handleDrawRect();
+        }
+        else if(shape == "triangle"){
+            handleDrawTriangle();
+        }
+        else if(shape == "circle"){
+            handleDrawCircle();
+        }
+
+        }
 }
 
 
