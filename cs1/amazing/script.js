@@ -1,3 +1,4 @@
+var node = require("NODE");
 /**
 Initialize global variables, attach event handlers, etc
 **/
