@@ -144,6 +144,7 @@ function processDrawing() {
     if (canvas === null) {
         createCanvas();
         drawName(document.getElementById("user-name").value);
+        document.getElementById("user-name").disabled = true;
     }
     var shape = shapeSelector.value;
     if (shape === "rectangle") {
