@@ -149,9 +149,9 @@ function processDrawing() {
     if (xValid < 0 || xValid > 400) {
       document.getElementById("x-text").firstChild.innerHTML = xText + text;
     } else if (yValid < 30 | yValid > 400) {
+      document.getElementById("x-text").firstChild.innerHTML = xText;
       document.getElementById("y-text").firstChild.innerHTML = yText + text;
     } else {
-        document.getElementById("x-text").firstChild.innerHTML = xText;
         document.getElementById("y-text").firstChild.innerHTML = yText;
         if (canvas === null) {
             createCanvas();
