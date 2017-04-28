@@ -4,6 +4,8 @@ Initialize global variables, attach event handlers, etc
 var hyperButton = document.getElementById("hyper");
 var shapeSelector = document.getElementById("shape-choice");
 var submitButton = document.getElementById("form-submit");
+var xText = document.getElementById("x-text").firstChild.innerHTML;
+var yText = document.getElementById("y-text").firstChild.innerHTML;
 var hyperButtonClicked = false;
 
 var canvas = null; //using this later
@@ -138,21 +140,32 @@ function createCanvas() {
     document.getElementById("myCanvas").appendChild(canvas);
 }
 
-
 function processDrawing() {
     "use strict";
-    if (canvas === null) {
-        createCanvas();
-        drawName(document.getElementById("user-name").value);
-        document.getElementById("user-name").disabled = true;
+    var xValid = document.getElementById("x").value,
+        yValid = document.getElementById("y").value,
+        shape = shapeSelector.value,
+        text = "<br>Invalid entry!";
+    if (xValid < 0 || xValid > 400) {
+      document.getElementById("x-text").firstChild.innerHTML = xText + text;
     }
-    var shape = shapeSelector.value;
-    if (shape === "rectangle") {
-        handleDrawRect();
-    } else if (shape === "triangle") {
-        handleDrawTriangle();
-    } else if (shape === "circle") {
-        handleDrawCircle();
+    if (yValid < 30 || yValid > 400) {
+      document.getElementById("y-text").firstChild.innerHTML = yText + text;
+    } else {
+        document.getElementById("x-text").firstChild.innerHTML = xText;
+        document.getElementById("y-text").firstChild.innerHTML = yText;
+        if (canvas === null) {
+            createCanvas();
+            drawName(document.getElementById("user-name").value);
+            document.getElementById("user-name").disabled = true;
+        }
+        if (shape === "rectangle") {
+            handleDrawRect();
+        } else if (shape === "triangle") {
+            handleDrawTriangle();
+        } else if (shape === "circle") {
+            handleDrawCircle();
+        }
     }
 }
 
