@@ -152,6 +152,7 @@ function processDrawing() {
       document.getElementById("x-text").firstChild.innerHTML = xText;
       document.getElementById("y-text").firstChild.innerHTML = yText + text;
     } else {
+        document.getElementById("x-text").firstChild.innerHTML = xText;
         document.getElementById("y-text").firstChild.innerHTML = yText;
         if (canvas === null) {
             createCanvas();
