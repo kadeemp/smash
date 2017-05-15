@@ -122,8 +122,6 @@ function run(){
             alert("That is not a valid choice!");
         }
     }
-    valid = false;
-    }
     alert("Goodbye!");
 }
 
