@@ -98,53 +98,31 @@ function eraseCanvas(){
 function run(){
     alert("Welcome to Canvas Art Machine!");
     var name = prompt("What is your name?");
-    var running = true;
     alert("Hi " + name + "!");
-    while(running){
-        var valid = false;
-        while(!valid){
-            drawName(name);
-            var choice = prompt("Enter a number for the shape you'd like me to draw." + 
-           "\n1: Rectangle" + 
-           "\n2: Triangle" + 
-           "\n3: Circle");
-            if(choice == 1){
-                valid = true;
-                handleDrawRect();
-            }
-            else if(choice == 2){
-                valid = true;
-                handleDrawTriangle();
-            }
-            else if(choice == 3){
-                valid = true;
-                handleDrawCircle();
-            }
-            else{
-                alert("That is not a valid choice!");
-            }
+    var valid = false;
+    while(!valid){
+        drawName(name);
+        var choice = prompt("Enter a number for the shape you'd like me to draw." + 
+       "\n1: Rectangle" + 
+       "\n2: Triangle" + 
+       "\n3: Circle");
+        if(choice === 1){
+            valid = true;
+            handleDrawRect();
         }
-        valid = false;
-        while(!valid){
-            var choice = prompt("What should I do next?" + 
-                               "\n1: Erase canvas and start over." + 
-                               "\n2: Draw another shape." + 
-                               "\n3: Shut down.");
-            if(choice == 1){
-                valid = true;
-                eraseCanvas();
-            }
-            else if(choice == 2){
-                valid = true;
-            }
-            else if(choice == 3){
-                valid = true;
-                running = false;
-            }
-            else{
-                alert("That is not a valid choice!");
-            }
+        else if(choice === 2){
+            valid = true;
+            handleDrawTriangle();
         }
+        else if(choice === 3){
+            valid = true;
+            handleDrawCircle();
+        }
+        else{
+            alert("That is not a valid choice!");
+        }
+    }
+    valid = false;
     }
     alert("Goodbye!");
 }
