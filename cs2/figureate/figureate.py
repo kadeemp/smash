@@ -49,6 +49,8 @@ def is_square(n):
     all that code to see if a number is even prime or not.
     Trial division is fine for a small limit like 100, but is horrifically slow
     for very long numbers. By the way, this is a multi-line comment! '''
+
+
 def is_prime_oblong(n):
     if n == 1:
         return False
