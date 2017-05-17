@@ -1,3 +1,7 @@
+# Turtles
+# By: Lucy Hobson and Linus Hobson
+# SMASH CS2 20XX
+
 import turtle
 from random import randint
 
