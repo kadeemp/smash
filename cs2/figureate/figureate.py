@@ -42,15 +42,15 @@ def is_square(n):
     return False
 
 
-''' Trial division again. First, we need to find all the prime factors of n.
-    If you end up with more than 2 factors, n is automatically disqualified and you
-    can "short-circuit" the function by simply returning "False" right away.
-    To help us solve this we can just call "is_prime(n)" rather than rewriting
-    all that code to see if a number is even prime or not.
-    Trial division is fine for a small limit like 100, but is horrifically slow
-    for very long numbers. By the way, this is a multi-line comment! '''
-
-
+''' 
+Trial division again. First, we need to find all the prime factors of n.
+If you end up with more than 2 factors, n is automatically disqualified and you
+can "short-circuit" the function by simply returning "False" right away.
+To help us solve this we can just call "is_prime(n)" rather than rewriting
+all that code to see if a number is even prime or not.
+Trial division is fine for a small limit like 100, but is horrifically slow
+for very long numbers. By the way, this is a multi-line comment! 
+'''
 def is_prime_oblong(n):
     if n == 1:
         return False
