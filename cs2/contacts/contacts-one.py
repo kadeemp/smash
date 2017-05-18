@@ -14,17 +14,22 @@ contacts_list = []
 Add a contact's phone number as an integer to your list while maintaining the numeric order of the list.
 The number should be expressed with 10-digits (area code + local). Assume no country codes, parentheses, or
 dashes/hyphens will appear.
+
 First, the function should check if the number entered is a valid 10-digit phone number. If the number is not
 exactly 10 digits, or if the number is negative, the function should print the message "invalid phone number"
 and do nothing. Note that leading 0's are considered "blank", meaning 0234 is actually 3 digits. Essentially, a
 valid phone number will within the range:
+
 1,000,000,000 <= n <= 9,999,999,999 (commas added here for readability)
+
 If the list already contains that contact's number, your function should *not* add that number to the list,
 but instead print the message "contact already exists".
+
 Don't forget: Your function should also maintain the numeric order of the list, keeping it sorted from
 least to greatest. You can't simply say append(number), since that just places the number
 at the end of the list. Instead, you'll need to use insert(index, number). And no, you may not use sort().
 No cheating. ^_^
+
 valid input: 1234567890
 invalid input: 0000000001 (leading 0's do not count)
 invalid input: 1234
