@@ -10,7 +10,7 @@ import csv
 
 
 # Create/Connect to a SQL database, and assign a "cursor"
-conn = sqlite3.connect("mydatabase.sqlite3")
+conn = sqlite3.connect("pokebase.sqlite3")
 cur = conn.cursor()
 
 
