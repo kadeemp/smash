@@ -11751,11 +11751,11 @@ div#notebook {
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p><h1>Matplotlib Bar Chart Guide</h1></p>
+<p><h1>Bar Chart Guide</h1></p>
 <p><b>For SMASH CS Fundamentals II: Data Analysis</b>
 <br>This guide teaches you how you create basic bar charts with <b>matplotlib</b>.</p>
 <p>matplotlib.pyplot API:
-<br><a href="https://matplotlib.org/api/pyplot_api.html">https://matplotlib.org/api/pyplot_api.html</a></p>
+<br>https://matplotlib.org/api/pyplot_api.html</p>
 </div>
 </div>
 </div>
@@ -11851,26 +11851,26 @@ div#notebook {
 
 <span class="c1"># This list corresponds with the number of months, which will be my x-axis.</span>
 <span class="n">x_range</span> <span class="o">=</span> <span class="p">[</span><span class="mi">0</span><span class="p">,</span> <span class="mi">1</span><span class="p">,</span> <span class="mi">2</span><span class="p">,</span> <span class="mi">3</span><span class="p">,</span> <span class="mi">4</span><span class="p">,</span> <span class="mi">5</span><span class="p">,</span> <span class="mi">6</span><span class="p">,</span> <span class="mi">7</span><span class="p">,</span> <span class="mi">8</span><span class="p">,</span> <span class="mi">9</span><span class="p">,</span> <span class="mi">10</span><span class="p">,</span> <span class="mi">11</span><span class="p">]</span>
-<span class="sd">&#39;&#39;&#39;</span>
-<span class="sd">Create y_range by specifiying values from 0 to a max value that makes sense.</span>
-<span class="sd">For degrees farenheit, a good max value might be 95.</span>
-<span class="sd">matplotlib will not actually draw a tick for 95 unless a temp gets that high, but I&#39;m </span>
-<span class="sd">still making sure I&#39;m giving it a realistic maximum. </span>
 
-<span class="sd">We&#39;ll start at 0 and increment 5 each tick until we hit 95. </span>
-<span class="sd">Just like you would with a for-loop.</span>
+<span class="c1"># Create y_range by specifiying values from 0 to a max value that makes sense.</span>
+<span class="c1"># For degrees farenheit, a good max value might be 95.</span>
+<span class="c1"># matplotlib will not actually draw a tick for 95 unless a temp gets that high, but I&#39;m </span>
+<span class="c1"># still making sure I&#39;m giving it a realistic maximum. </span>
 
-<span class="sd">y_range = range(0, 95, 5)</span>
+<span class="c1"># We&#39;ll start at 0 and increment 5 each tick until we hit 95. </span>
+<span class="c1"># Just like you would with a for-loop.</span>
 
-<span class="sd">You should transform that range into list by wrapping list() around it:</span>
+<span class="c1"># y_range = range(0, 95, 5)</span>
 
-<span class="sd">y_range = list(range(0, 95, 5))</span>
+<span class="c1"># You should transform that range into list by wrapping list() around it:</span>
 
-<span class="sd">As a general rule, the baseline for a bar chart should be 0.</span>
-<span class="sd">Otherwise you risk mischaracterizing your data.</span>
-<span class="sd">Starting at 0 ensures that the length of each bar represents the temperature.</span>
-<span class="sd">See here for more: https://flowingdata.com/2015/08/31/bar-chart-baselines-start-at-zero/</span>
-<span class="sd">&#39;&#39;&#39;</span>
+<span class="c1"># y_range = list(range(0, 95, 5))</span>
+
+<span class="c1"># As a general rule, the baseline for a bar chart should be 0.</span>
+<span class="c1"># Otherwise you risk mischaracterizing your data.</span>
+<span class="c1"># Starting at 0 ensures that the length of each bar represents the temperature.</span>
+<span class="c1"># See here for more: https://flowingdata.com/2015/08/31/bar-chart-baselines-start-at-zero/</span>
+
 <span class="n">y_range</span> <span class="o">=</span> <span class="nb">list</span><span class="p">(</span><span class="nb">range</span><span class="p">(</span><span class="mi">0</span><span class="p">,</span> <span class="mi">95</span><span class="p">,</span> <span class="mi">5</span><span class="p">))</span>
 
 <span class="c1">#Place this above all of your figures. </span>
@@ -11912,7 +11912,7 @@ div#notebook {
 
 
 <div class="output_text output_subarea output_execute_result">
-<pre>&lt;matplotlib.text.Text at 0x256e428dba8&gt;</pre>
+<pre>&lt;matplotlib.text.Text at 0x7f7c2ebaf978&gt;</pre>
 </div>
 
 </div>
@@ -12455,28 +12455,26 @@ hAu+mVlFuOCbmVXE/wfLKEhzu2BVmwAAAABJRU5ErkJggg==
 <span class="c1"># Label the y-axis</span>
 <span class="n">plt</span><span class="o">.</span><span class="n">ylabel</span><span class="p">(</span><span class="s1">&#39;Avg Temp (</span><span class="se">\N{DEGREE SIGN}</span><span class="s1">F)&#39;</span><span class="p">)</span>
 
-<span class="sd">&#39;&#39;&#39;</span>
-<span class="sd">Draw the the two sets of bars. </span>
+<span class="c1"># Draw the the two sets of bars. </span>
 
-<span class="sd">Our bars now need to be setup so that they appear side-by-side.</span>
+<span class="c1"># Our bars now need to be setup so that they appear side-by-side.</span>
 
-<span class="sd">For the low_avg_temps bars, we&#39;ll use x - (bar_width / 2). This will move those </span>
-<span class="sd">bars to the left of the tickmark by half of the width of the bar itself.</span>
+<span class="c1"># For the low_avg_temps bars, we&#39;ll use x - (bar_width / 2). This will move those </span>
+<span class="c1"># bars to the left of the tickmark by half of the width of the bar itself.</span>
 
-<span class="sd">Using this same logic, we&#39;ll use x + (bar_width / 2) for the high_avg_temps bars.</span>
+<span class="c1"># Using this same logic, we&#39;ll use x + (bar_width / 2) for the high_avg_temps bars.</span>
 
-<span class="sd">There are two ways to do either. Here&#39;s the longer way:</span>
+<span class="c1"># There are two ways to do either. Here&#39;s the longer way:</span>
 
-<span class="sd">low_range = []</span>
-<span class="sd">for x in x_range:</span>
-<span class="sd">    low_range.append(x - bar_width / 2)</span>
+<span class="c1"># low_range = []</span>
+<span class="c1"># for x in x_range:</span>
+<span class="c1">#     low_range.append(x - bar_width / 2)</span>
 
-<span class="sd">A slicker, more &quot;Pythonistic&quot; way of doing it:</span>
+<span class="c1"># A slicker, more &quot;Pythonistic&quot; way of doing it:</span>
 
-<span class="sd">low_range = [x - bar_width / 2 for x in x_range]</span>
+<span class="c1"># low_range = [x - bar_width / 2 for x in x_range]</span>
 
-<span class="sd">Choose whichever way you like. I&#39;m using the shorter way to save some typing.</span>
-<span class="sd">&#39;&#39;&#39;</span>
+<span class="c1"># Choose whichever way you like. I&#39;m using the shorter way to save some typing.</span>
 <span class="n">low_range</span> <span class="o">=</span> <span class="p">[</span><span class="n">x</span> <span class="o">-</span> <span class="n">bar_width</span> <span class="o">/</span> <span class="mi">2</span> <span class="k">for</span> <span class="n">x</span> <span class="ow">in</span> <span class="n">x_range</span><span class="p">]</span>
 <span class="n">high_range</span> <span class="o">=</span> <span class="p">[</span><span class="n">x</span> <span class="o">+</span> <span class="n">bar_width</span> <span class="o">/</span> <span class="mi">2</span> <span class="k">for</span> <span class="n">x</span> <span class="ow">in</span> <span class="n">x_range</span><span class="p">]</span>
 <span class="n">plt</span><span class="o">.</span><span class="n">bar</span><span class="p">(</span><span class="n">low_range</span><span class="p">,</span> <span class="n">low_avg_temps</span><span class="p">,</span> <span class="n">bar_width</span><span class="p">,</span> <span class="n">color</span><span class="o">=</span><span class="s1">&#39;blue&#39;</span><span class="p">,</span> <span class="n">label</span><span class="o">=</span><span class="s1">&#39;low&#39;</span><span class="p">)</span>
