@@ -11760,6 +11760,7 @@ div#notebook {
 <ul>
     <li>CREATE TABLE: <a href="https://www.tutorialspoint.com/sqlite/sqlite_create_table.htm">https://www.tutorialspoint.com/sqlite/sqlite_create_table.htm</a></li>
     <li>DROP TABLE: <a href="https://www.tutorialspoint.com/sqlite/sqlite_drop_table.htm">https://www.tutorialspoint.com/sqlite/sqlite_drop_table.htm</a></li>
+    <li>ALTER TABLE: <a href="https://www.tutorialspoint.com/sqlite/sqlite_alter_command.htm">https://www.tutorialspoint.com/sqlite/sqlite_alter_command.htm</a></li>
     <li>INSERT: <a href="https://www.tutorialspoint.com/sqlite/sqlite_insert_query.htm">https://www.tutorialspoint.com/sqlite/sqlite_insert_query.htm</a></li>
     <li>DELETE: <a href="https://www.tutorialspoint.com/sqlite/sqlite_delete_query.htm">https://www.tutorialspoint.com/sqlite/sqlite_delete_query.htm</a></li>
     <li>SELECT: <a href="https://www.tutorialspoint.com/sqlite/sqlite_select_query.htm">https://www.tutorialspoint.com/sqlite/sqlite_select_query.htm</a></li>
@@ -11989,7 +11990,7 @@ Before we get started, here's some context.</p>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
 <p><h2>Create a table</h2></p>
-<p><p>We'll make just one table called "artists".
+<p><p>We'll make just one table called "musicians".
 <br>Our SQL statements are passed as strings to the Python function <b>cur.execute()</b>
 <br>So get used to typing that.</p>
 
@@ -12003,7 +12004,7 @@ Before we get started, here's some context.</p>
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="c1"># Drop (i.e., delete) the table if it already exists. </span>
 <span class="c1"># Otherwise you&#39;ll get an error the second time you run your program.</span>
-<span class="n">cur</span><span class="o">.</span><span class="n">execute</span><span class="p">(</span><span class="s2">&quot;DROP TABLE IF EXISTS Artists&quot;</span><span class="p">)</span>
+<span class="n">cur</span><span class="o">.</span><span class="n">execute</span><span class="p">(</span><span class="s2">&quot;DROP TABLE IF EXISTS Musicians&quot;</span><span class="p">)</span>
 </pre></div>
 
 </div>
@@ -12018,7 +12019,7 @@ Before we get started, here's some context.</p>
 
 
 <div class="output_text output_subarea output_execute_result">
-<pre>&lt;sqlite3.Cursor at 0x7f85d0b5c7a0&gt;</pre>
+<pre>&lt;sqlite3.Cursor at 0x7f80701e97a0&gt;</pre>
 </div>
 
 </div>
@@ -12049,12 +12050,11 @@ There's also NULL, which I'll get to in a bit.</p>
 <div class="prompt input_prompt">In&nbsp;[5]:</div>
 <div class="inner_cell">
     <div class="input_area">
-<div class=" highlight hl-ipython3"><pre><span></span><span class="n">cur</span><span class="o">.</span><span class="n">execute</span><span class="p">(</span><span class="s2">&quot;CREATE TABLE Artists (&quot;</span>
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">cur</span><span class="o">.</span><span class="n">execute</span><span class="p">(</span><span class="s2">&quot;CREATE TABLE Musicians(&quot;</span>
             <span class="s2">&quot;artistId INTEGER PRIMARY KEY, &quot;</span>
             <span class="s2">&quot;name TEXT NOT NULL, &quot;</span>
             <span class="s2">&quot;genre TEXT, &quot;</span>
-            <span class="s2">&quot;hometown TEXT, &quot;</span>
-            <span class="s2">&quot;numAlbums INTEGER)&quot;</span><span class="p">)</span>
+            <span class="s2">&quot;hometown TEXT)&quot;</span><span class="p">)</span>
 </pre></div>
 
 </div>
@@ -12069,7 +12069,7 @@ There's also NULL, which I'll get to in a bit.</p>
 
 
 <div class="output_text output_subarea output_execute_result">
-<pre>&lt;sqlite3.Cursor at 0x7f85d0b5c7a0&gt;</pre>
+<pre>&lt;sqlite3.Cursor at 0x7f80701e97a0&gt;</pre>
 </div>
 
 </div>
@@ -12092,11 +12092,94 @@ There's also NULL, which I'll get to in a bit.</p>
 <br>So you'll typically see me break one statement into several lines for readability. 
 <br>The long way of writing the above: 
 <br>
-<br><b>cur.execute("CREATE TABLE Artists(artistId INTEGER PRIMARY KEY, name TEXT, genre TEXT, hometown TEXT, numAlbums INTEGER)")</b>
+<br><b>cur.execute("CREATE TABLE Musicians(artistId INTEGER PRIMARY KEY, name TEXT, genre TEXT, hometown TEXT)")</b>
 <br>
 <br>See how long that line is? Yeah.</p>
 </div>
 </div>
+</div>
+<div class="cell border-box-sizing text_cell rendered">
+<div class="prompt input_prompt">
+</div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<p><h2>Alter a table</h2></p>
+<p>Sometimes you wish to add fields to your records.
+<br>Perhaps, for instance, you have a table of basketball teams...
+<br>...and each column represents a year's # of games won. 
+<br>So you'd simply add one new column every year.
+<br>You can accomplish this using the <b>ALTER TABLE</b> query.</p>
+</div>
+</div>
+</div>
+<div class="cell border-box-sizing code_cell rendered">
+<div class="input">
+<div class="prompt input_prompt">In&nbsp;[6]:</div>
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">cur</span><span class="o">.</span><span class="n">execute</span><span class="p">(</span><span class="s2">&quot;ALTER TABLE Musicians ADD COLUMN numAlbums INTEGER&quot;</span><span class="p">)</span>
+</pre></div>
+
+</div>
+</div>
+</div>
+
+<div class="output_wrapper">
+<div class="output">
+
+
+<div class="output_area"><div class="prompt output_prompt">Out[6]:</div>
+
+
+<div class="output_text output_subarea output_execute_result">
+<pre>&lt;sqlite3.Cursor at 0x7f80701e97a0&gt;</pre>
+</div>
+
+</div>
+
+</div>
+</div>
+
+</div>
+<div class="cell border-box-sizing text_cell rendered">
+<div class="prompt input_prompt">
+</div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<p>You can also rename your table, like so.</p>
+</div>
+</div>
+</div>
+<div class="cell border-box-sizing code_cell rendered">
+<div class="input">
+<div class="prompt input_prompt">In&nbsp;[7]:</div>
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="c1"># Should drop the new name if it already exists.</span>
+<span class="n">cur</span><span class="o">.</span><span class="n">execute</span><span class="p">(</span><span class="s2">&quot;DROP TABLE IF EXISTS Artists&quot;</span><span class="p">)</span>
+<span class="n">cur</span><span class="o">.</span><span class="n">execute</span><span class="p">(</span><span class="s2">&quot;ALTER TABLE Musicians RENAME TO Artists&quot;</span><span class="p">)</span>
+</pre></div>
+
+</div>
+</div>
+</div>
+
+<div class="output_wrapper">
+<div class="output">
+
+
+<div class="output_area"><div class="prompt output_prompt">Out[7]:</div>
+
+
+<div class="output_text output_subarea output_execute_result">
+<pre>&lt;sqlite3.Cursor at 0x7f80701e97a0&gt;</pre>
+</div>
+
+</div>
+
+</div>
+</div>
+
 </div>
 <div class="cell border-box-sizing text_cell rendered">
 <div class="prompt input_prompt">
@@ -12115,7 +12198,7 @@ There's also NULL, which I'll get to in a bit.</p>
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[6]:</div>
+<div class="prompt input_prompt">In&nbsp;[8]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="n">conn</span><span class="o">.</span><span class="n">execute</span><span class="p">(</span><span class="s2">&quot;INSERT INTO &quot;</span>
@@ -12131,11 +12214,11 @@ There's also NULL, which I'll get to in a bit.</p>
 <div class="output">
 
 
-<div class="output_area"><div class="prompt output_prompt">Out[6]:</div>
+<div class="output_area"><div class="prompt output_prompt">Out[8]:</div>
 
 
 <div class="output_text output_subarea output_execute_result">
-<pre>&lt;sqlite3.Cursor at 0x7f85d0b5c880&gt;</pre>
+<pre>&lt;sqlite3.Cursor at 0x7f80701e9880&gt;</pre>
 </div>
 
 </div>
@@ -12170,7 +12253,7 @@ There's also NULL, which I'll get to in a bit.</p>
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[7]:</div>
+<div class="prompt input_prompt">In&nbsp;[9]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="n">conn</span><span class="o">.</span><span class="n">execute</span><span class="p">(</span><span class="s2">&quot;INSERT INTO Artists VALUES(null, &#39;Beethoven&#39;, &#39;Classical&#39;, &#39;Germany&#39;, 9)&quot;</span><span class="p">)</span>
@@ -12184,11 +12267,11 @@ There's also NULL, which I'll get to in a bit.</p>
 <div class="output">
 
 
-<div class="output_area"><div class="prompt output_prompt">Out[7]:</div>
+<div class="output_area"><div class="prompt output_prompt">Out[9]:</div>
 
 
 <div class="output_text output_subarea output_execute_result">
-<pre>&lt;sqlite3.Cursor at 0x7f85d0b5c810&gt;</pre>
+<pre>&lt;sqlite3.Cursor at 0x7f80701e9810&gt;</pre>
 </div>
 
 </div>
@@ -12218,7 +12301,7 @@ There's also NULL, which I'll get to in a bit.</p>
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[8]:</div>
+<div class="prompt input_prompt">In&nbsp;[10]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="n">conn</span><span class="o">.</span><span class="n">execute</span><span class="p">(</span><span class="s2">&quot;INSERT INTO Artists VALUES(?, ?, ?, ?, ?)&quot;</span><span class="p">,</span>
@@ -12233,11 +12316,11 @@ There's also NULL, which I'll get to in a bit.</p>
 <div class="output">
 
 
-<div class="output_area"><div class="prompt output_prompt">Out[8]:</div>
+<div class="output_area"><div class="prompt output_prompt">Out[10]:</div>
 
 
 <div class="output_text output_subarea output_execute_result">
-<pre>&lt;sqlite3.Cursor at 0x7f85d0b5ca40&gt;</pre>
+<pre>&lt;sqlite3.Cursor at 0x7f80701e9a40&gt;</pre>
 </div>
 
 </div>
@@ -12257,7 +12340,7 @@ There's also NULL, which I'll get to in a bit.</p>
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[9]:</div>
+<div class="prompt input_prompt">In&nbsp;[11]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="c1"># Insert multiple records </span>
@@ -12290,7 +12373,7 @@ There's also NULL, which I'll get to in a bit.</p>
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[10]:</div>
+<div class="prompt input_prompt">In&nbsp;[12]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="c1"># Give me everything!</span>
@@ -12305,11 +12388,11 @@ There's also NULL, which I'll get to in a bit.</p>
 <div class="output">
 
 
-<div class="output_area"><div class="prompt output_prompt">Out[10]:</div>
+<div class="output_area"><div class="prompt output_prompt">Out[12]:</div>
 
 
 <div class="output_text output_subarea output_execute_result">
-<pre>&lt;sqlite3.Cursor at 0x7f85d0b5c7a0&gt;</pre>
+<pre>&lt;sqlite3.Cursor at 0x7f80701e97a0&gt;</pre>
 </div>
 
 </div>
@@ -12330,7 +12413,7 @@ There's also NULL, which I'll get to in a bit.</p>
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[11]:</div>
+<div class="prompt input_prompt">In&nbsp;[13]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="c1"># Get one record as a tuple</span>
@@ -12368,7 +12451,7 @@ There's also NULL, which I'll get to in a bit.</p>
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[12]:</div>
+<div class="prompt input_prompt">In&nbsp;[14]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="c1"># Get as many rows as you specify, as a list of tuples</span>
@@ -12407,7 +12490,7 @@ There's also NULL, which I'll get to in a bit.</p>
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[13]:</div>
+<div class="prompt input_prompt">In&nbsp;[15]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="c1"># Get all rows as a list of tuples</span>
@@ -12453,7 +12536,7 @@ There's also NULL, which I'll get to in a bit.</p>
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[14]:</div>
+<div class="prompt input_prompt">In&nbsp;[16]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="n">cur</span><span class="o">.</span><span class="n">execute</span><span class="p">(</span><span class="s2">&quot;SELECT * FROM Artists&quot;</span><span class="p">)</span>
@@ -12499,7 +12582,7 @@ There's also NULL, which I'll get to in a bit.</p>
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[15]:</div>
+<div class="prompt input_prompt">In&nbsp;[17]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="c1"># Print the names of the first two records</span>
@@ -12554,7 +12637,7 @@ Beethoven
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[16]:</div>
+<div class="prompt input_prompt">In&nbsp;[18]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="c1"># Select the name of all artists.</span>
@@ -12590,7 +12673,7 @@ Coltrane
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[17]:</div>
+<div class="prompt input_prompt">In&nbsp;[19]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="c1"># Select the name and genre of all artists</span>
@@ -12637,7 +12720,7 @@ Coltrane : Jazz
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[18]:</div>
+<div class="prompt input_prompt">In&nbsp;[20]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="c1"># Select all fields from records whose name is &quot;Keebler Elf Lamar&quot;.</span>
@@ -12666,7 +12749,7 @@ Coltrane : Jazz
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[19]:</div>
+<div class="prompt input_prompt">In&nbsp;[21]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="c1"># Select the hometown of records whose artistId is between 2 and 5, inclusive.</span>
@@ -12710,7 +12793,7 @@ Iceland
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[20]:</div>
+<div class="prompt input_prompt">In&nbsp;[22]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="c1"># Select all fields from all artists, but order by hometown.</span>
@@ -12746,7 +12829,7 @@ Iceland
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[21]:</div>
+<div class="prompt input_prompt">In&nbsp;[23]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="c1"># Select genres and numAlbums from all artists with artistId &gt; 3, and order by numAlbums.</span>
@@ -12790,7 +12873,7 @@ Jazz : 45
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[22]:</div>
+<div class="prompt input_prompt">In&nbsp;[24]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="c1"># Select all fields from all records, but limit to the first 3 records.</span>
@@ -12833,7 +12916,7 @@ Jazz : 45
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[23]:</div>
+<div class="prompt input_prompt">In&nbsp;[25]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="c1"># Change Keebler Elf Lamar to Kendrick Lamar</span>
@@ -12872,7 +12955,7 @@ Jazz : 45
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[24]:</div>
+<div class="prompt input_prompt">In&nbsp;[26]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="c1"># Change IceJJFish&#39;s genre to R&amp;B, and his numAlbums to 2</span>
@@ -12918,7 +13001,7 @@ Jazz : 45
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[25]:</div>
+<div class="prompt input_prompt">In&nbsp;[27]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="c1"># Remove Debussy from the table</span>
@@ -12963,7 +13046,7 @@ Jazz : 45
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[26]:</div>
+<div class="prompt input_prompt">In&nbsp;[28]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="n">cur</span><span class="o">.</span><span class="n">execute</span><span class="p">(</span><span class="s2">&quot;DELETE FROM Artists&quot;</span><span class="p">)</span>
@@ -13014,7 +13097,7 @@ Jazz : 45
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[27]:</div>
+<div class="prompt input_prompt">In&nbsp;[29]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="c1"># Save all changes to the database.</span>
@@ -13044,24 +13127,6 @@ Jazz : 45
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p><h2>Adding/Deleting Fields</h2></p>
-<p><b>You can't.</b> That's a huge no-no. Against those "rules" I harped about earlier.
-<br>Instead, you would simply create a new table with the desired fields.
-<br>And copy the old table into that, omitting the field you want to delete, or adding the new field.
-<br>This shouldn't really happen often, if at all.
-<br>Best practice is to do a lot of thinking and planning before creating your database tables.
-<br>You should have a crystal clear idea of what constitutes a record in your table.
-<br>This way you won't have to do these potentially massive copy procedures.
-<br>For that reason I'm not even going to show you how to do it. 
-<br>It's for your own good.</p>
-</div>
-</div>
-</div>
-<div class="cell border-box-sizing text_cell rendered">
-<div class="prompt input_prompt">
-</div>
-<div class="inner_cell">
-<div class="text_cell_render border-box-sizing rendered_html">
 <p><h2>Closing your connection to the database</h2></p>
 <p>When you're done working with your database, you should close the connection.
 <br>If you didn't commit changes, they will be lost forever at this step.
@@ -13072,7 +13137,7 @@ Jazz : 45
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[28]:</div>
+<div class="prompt input_prompt">In&nbsp;[30]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="n">conn</span><span class="o">.</span><span class="n">close</span><span class="p">()</span>
