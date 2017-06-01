@@ -13,14 +13,18 @@ cur = conn.cursor()
 
 
 # Create a table
-cur.execute("DROP TABLE IF EXISTS Artists")
-cur.execute("CREATE TABLE Artists ("
+cur.execute("DROP TABLE IF EXISTS Musicians")
+cur.execute("CREATE TABLE Musicians ("
             "artistId INTEGER PRIMARY KEY, "
             "name TEXT NOT NULL, "
             "genre TEXT, "
-            "hometown TEXT, "
-            "numAlbums INTEGER)")
+            "hometown TEXT)")
 
+
+# Alter a table
+cur.execute("ALTER TABLE Musicians ADD COLUMN numAlbums INTEGER")
+cur.execute("DROP TABLE IF EXISTS Artists")
+cur.execute("ALTER TABLE Musicians RENAME TO Artists")
 
 # Insert some records
 conn.execute("INSERT INTO "
