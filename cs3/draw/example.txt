@@ -1,0 +1,29 @@
+// Java Drawing
+// By: Lucy Hobson and Linus Hobson
+// SMASH CS3 20XX
+
+void drawSquare(int x, int y, int size) {
+  line(x, y, x + size, y);
+  line(x + size, y, x + size, y + size);
+  line(x + size, y + size, x, y + size);
+  line(x, y + size, x, y);
+}
+
+void drawTriangle(int x, int y, int size){
+  line(x, y, x - size, y + size);
+  line(x - size, y + size, x + size, y + size);
+  line(x + size, y + size, x, y);
+}
+
+void squarePattern(int x, int y, int w, int h, int numSquares){
+  int counter = 0;
+  while(counter < numSquares){
+    rect(x + counter * 2, y + counter * 2, w + counter * 2, h + counter * 2);
+    counter++;
+  }
+}
+
+void setup(){
+  size(400, 400);
+  squarePattern(50, 50, 100, 100, 10);
+}
