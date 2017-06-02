@@ -1,0 +1,50 @@
+Processing cheat sheet #1
+Drawing static (nonmoving) images
+
+-- SETUP --
+
+size(w, h);  // sets the width and height of the window, in pixels; default is 100, 100
+smooth();    // turns on antialiasing (on by default)
+noSmooth();  // turns off antialiasing 
+
+-- SIMPLE FIGURES --
+
+point(x, y);  // x is pixels from left edge, y is pixels from top
+line(x1, y1, x2, y2);  // straight line from (x1, y1) to (x2, y2)
+rect(x, y,  width, height);  // (x, y) is top left corner
+ellipse(x, y, width, height); // (x, y) is the center of the ellipse
+triangle(x1, y1, x2, y2, x3, y3); // triangle
+quad(x1, y1, x2, y2, x3, y3, x4, y4); // quadralateral
+noStroke();  // says don't draw outlines of new figures
+strokeWeight(w);  // sets the thickness of new lines and outlines
+text(s, x, y);  // writes the string s at (x, y)
+
+-- COLORS --
+
+background(g);  // fill the window with a shade of gray; g is an integer between 0 (black) and 255 (white)
+background(red, green, blue);  // fill the window with a color; each color amount is between 0 and 255
+noFill();  // says don't fill the inside of new figures
+fill(g);  // sets the internal shade of gray for new figures
+fill(red, green, blue); // sets the internal color for new figures
+stroke(g);  // sets the shade of gray for outlines of new figures
+stroke(r, g, b) // sets the color for outlines of new figures
+
+-- SEGMENTS OF AN ELLIPSE --
+
+arc(x, y, width, height, start, stop);
+  // (x, y) is center, start and stop are in radians (0 = to the right, clockwise)
+arc(x, y, width, height, start, stop, mode); // mode is OPEN (default), CHORD, or PIE
+
+-- MULTILINE FIGURES --
+
+beginShape();  // Begin drawing shape consisting of many straight lines or curves
+  vertex(x, y);      // Two or more of these, defining end points of straight lines, OR
+  curveVertex(x, y); // Four or more of these, defining points along the curve
+                     // The first and last are not on the curve
+endShape();  // End drawing shape; 
+
+-- DIFFICULT --
+
+bezier(x1, y1, x2, y2, x3, y3, x4, y4)  // first and last points are anchor points
+                                        // others are control points
+ -> See Processing examples at http://pomax.github.io/bezierinfo/
