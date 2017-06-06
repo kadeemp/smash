@@ -106,15 +106,15 @@ function run(){
        "\n1: Rectangle" + 
        "\n2: Triangle" + 
        "\n3: Circle");
-        if(choice === 1){
+        if(choice == 1){
             valid = true;
             handleDrawRect();
         }
-        else if(choice === 2){
+        else if(choice == 2){
             valid = true;
             handleDrawTriangle();
         }
-        else if(choice === 3){
+        else if(choice == 3){
             valid = true;
             handleDrawCircle();
         }
