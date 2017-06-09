@@ -89,5 +89,12 @@ plt.barh(x_range, accidents_per_cause, height=bar_width, color="blue")
 # Show the bar chart.
 plt.show()
 
+
+# Bonus: How to write from SQlite table to CSV (just for completeness sake)
+with open("sql2csv.csv", "w", newline="") as file:
+    cur.execute("SELECT * FROM Accidents")
+    for row in cur:
+        csv.writer(file).writerow(row)
+
 # Close connection
 conn.close()
