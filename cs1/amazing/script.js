@@ -1,3 +1,5 @@
+/* jshint browser: true */
+
 /**
 Initialize global variables, attach event handlers, etc
 **/
