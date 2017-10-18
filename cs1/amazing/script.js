@@ -12,7 +12,6 @@ var canvas = null; //using this later
 var pen = null;
 
 function revealDesc() {
-    "use strict";
     if (!hyperButtonClicked) {
         hyperButtonClicked = true;
         document.getElementById("hyper-desc").style.display = "block";
@@ -25,7 +24,6 @@ function revealDesc() {
 }
 
 function processShapeChoices() {
-    "use strict";
     var shape = shapeSelector.value;
     if (shape === "rectangle") {
         document.getElementById("rect").style.display = "block";
@@ -45,7 +43,6 @@ function processShapeChoices() {
 }
 
 function drawRect(x, y, width, height, color, filled) {
-    "use strict";
     pen.beginPath();
     pen.rect(x, y, width, height);
     if (filled) {
@@ -59,7 +56,6 @@ function drawRect(x, y, width, height, color, filled) {
 }
 
 function drawTriangle(x, y, base, height, color, filled) {
-    "use strict";
     pen.beginPath();
     pen.moveTo(x, y);
     pen.lineTo(x + (base / 2), y + height);
@@ -76,7 +72,6 @@ function drawTriangle(x, y, base, height, color, filled) {
 }
 
 function drawCircle(x, y, radius, color, filled) {
-    "use strict";
     pen.beginPath();
     pen.arc(x, y, radius, 0, Math.PI * 2);
     if (filled) {
@@ -90,7 +85,6 @@ function drawCircle(x, y, radius, color, filled) {
 }
 
 function handleDrawRect() {
-    "use strict";
     var x = Number(document.getElementById("x").value),
         y = Number(document.getElementById("y").value),
         width = Number(document.getElementById("width").value),
@@ -101,7 +95,6 @@ function handleDrawRect() {
 }
 
 function handleDrawTriangle() {
-    "use strict";
     var x = Number(document.getElementById("x").value),
         y = Number(document.getElementById("y").value),
         base = Number(document.getElementById("base").value),
@@ -112,7 +105,6 @@ function handleDrawTriangle() {
 }
 
 function handleDrawCircle() {
-    "use strict";
     var x = Number(document.getElementById("x").value),
         y = Number(document.getElementById("y").value),
         radius = Number(document.getElementById("radius").value),
@@ -122,7 +114,6 @@ function handleDrawCircle() {
 }
 
 function drawName(name) {
-    "use strict";
     pen.font = "30px Arial";
     pen.fillStyle = "red";
     pen.textAlign = "center";
@@ -132,7 +123,6 @@ function drawName(name) {
 function eraseCanvas() { "use strict"; pen.clearRect(0, 0, canvas.width, canvas.height); }
 
 function createCanvas() {
-    "use strict";
     canvas = document.createElement("canvas");
     canvas.width = "400";
     canvas.height = "400";
@@ -141,7 +131,6 @@ function createCanvas() {
 }
 
 function processDrawing() {
-    "use strict";
     var xValid = document.getElementById("x").value,
         yValid = document.getElementById("y").value,
         shape = shapeSelector.value,
