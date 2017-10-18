@@ -55,9 +55,11 @@ function showMessage() {
         confirmedSites += "<p>Please enter zip code as 5 numbers: #####</p>";
     }
     else{
-        for( var i = 0; i < listOfZips.length; i++) {
-            if(listOfZips[i].includes(Number(zipCode))) {
-                confirmedSites += listOfConfirms[i];
+        if(school && grade) {
+            for( var i = 0; i < listOfZips.length; i++) {
+                if(listOfZips[i].includes(Number(zipCode))) {
+                    confirmedSites += listOfConfirms[i];
+                }
             }
         }
         if (confirmedSites.length == 0) {
