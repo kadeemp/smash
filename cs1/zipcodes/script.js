@@ -47,7 +47,7 @@ function showMessage() {
             confirmedSites += "<p>Sorry, only students attending public schools, or who receive financial assistance at private schools, are eligible to apply.</p>"
         }
         if(!grade) {
-            confirmedSites += "<p>Sorry, only 9th graders are elgible to apply.</p>"
+            confirmedSites += "<p>Sorry, only 9th graders are eligible to apply.</p>"
         }
     }
     //check zip code
