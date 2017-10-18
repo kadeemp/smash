@@ -1,5 +1,3 @@
-/* jshint browser: true */
-
 /**
 Initialize global variables, attach event handlers, etc
 **/
@@ -11,7 +9,7 @@ var yText = document.getElementById("y-text").firstChild.innerHTML;
 var hyperButtonClicked = false;
 
 var canvas = null; //using this later
-var pen = null;
+var pen = null; 
 
 function revealDesc() {
     if (!hyperButtonClicked) {

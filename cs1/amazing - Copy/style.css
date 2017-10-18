@@ -1,0 +1,12 @@
+div#main{
+    width: 75%;
+    margin: auto;
+    text-align: center;
+}
+ 
+
+#form-submit{
+    clear: both;
+    display: block;
+    margin: auto;
+}
