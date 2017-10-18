@@ -20,13 +20,32 @@
         <div id="main">
             
             <form name="form" action="" method="GET" onsubmit="return false;">
+
+            <ul id="form-controls">
+            
+                <li>
+                    <label>Check if you attend a public school, or if you attend a private school and receive financial assistance.</label><br>
+                    <input type= "checkbox" name="check-school" value="school" id="school">
+                </li>
+
+                <li>
+                    <label>Check if you are currently in 9th grade.</label><br>
+                    <input type= "checkbox" name="check-grade" value="grade" id="grade">
+                </li>
+
+                <li>
+                    <label><b>Enter Your Zip Code</b></label><br>
+                    <input type="text" name="zipcode" id="zip">
+                </li>
                 
-                <label><b>Enter Your Zip Code</b></label><br>
-                <input type="text" name="zipcode" id="zip">
+                <li>
+                    <input type="button" id="form-submit" value="Submit">
+                </li>
                 
-                <p><input type="button" id="form-submit" value="Submit"></p>
+            </ul>
                 
-            </form>
+        </form>
+            
             <p id="stuff"></p>
             
         </div>
