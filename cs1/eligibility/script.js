@@ -32,13 +32,13 @@ function getValues() {
 function showMessage() {
     getValues();
     document.getElementById("stuff").innerHTML = "";
-    var berkeleyConfirm = "<p>You can apply to <b>Berkeley</b>.";
-    var davisConfirm = "<p>You can apply to <b>Davis</b>.";
-    var morehouseConfirm = "<p>You can apply to <b>Morehouse</b>.";
-    var stanfordConfirm = "<p>You can apply to <b>Stanford</b>.";
-    var uclaConfirm = "<p>You can apply to <b>UCLA</b>.";
-    var upennConfirm = "<p>You can apply to <b>UPenn</b>.";
-    var wayneConfirm = "<p>You can apply to <b>Wayne State</b>.";
+    var berkeleyConfirm = "<p>You can apply to <b>Berkeley.</b></p>";
+    var davisConfirm = "<p>You can apply to <b>Davis.</b></p>";
+    var morehouseConfirm = "<p>You can <b>Morehouse.</b></p>";
+    var stanfordConfirm = "<p>You can apply to <b>Stanford.</b></p>";
+    var uclaConfirm = "<p>You can apply to <b>UCLA.</b></p>";
+    var upennConfirm = "<p>You can apply to <b>UPenn.</b></p>";
+    var wayneConfirm = "<p>You can apply to <b>Wayne State.</b></p>";
     var listOfConfirms = [berkeleyConfirm, davisConfirm, morehouseConfirm, stanfordConfirm, uclaConfirm, upennConfirm, wayneConfirm];
     var confirmedSites = "";
     //check school and grade
@@ -55,15 +55,23 @@ function showMessage() {
         confirmedSites += "<p>Please enter zip code as 5 numbers: #####</p>";
     }
     else{
+        var count = 0;
         if(school && grade) {
             for( var i = 0; i < listOfZips.length; i++) {
                 if(listOfZips[i].includes(Number(zipCode))) {
                     confirmedSites += listOfConfirms[i];
+                    count++;
                 }
             }
-        }
-        if (confirmedSites.length == 0) {
-            confirmedSites += "<p>Your zip code is not within range of a SMASH site!</p>";
+            if (count == 0) {
+                confirmedSites += "<p>Sorry, your zip code is not within 50 miles of a SMASH site!</p>";
+            }
+            else {
+                if(count > 1){
+                    confirmedSites += "<p>Please note: You may only apply to <strong>ONE</strong> of the above sites.</p>";
+                }
+                confirmedSites += "<p><a href=\"https://smash.lpfi.org\">Click here to apply!</a></p>";
+            }   
         }
     }
     document.getElementById("stuff").innerHTML = confirmedSites;

@@ -18,3 +18,7 @@ ul#form-controls {
 ul#form-controls li{
     padding: 10px;
 } 
+
+input[type=checkbox] {
+    transform: scale(1.25);
+}
