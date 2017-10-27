@@ -1,0 +1,8 @@
+1: logo on top
+2: Under the title (for Laura). Please complete this form to determine if you are eligible to apply to SMASH. 
+3: Put the check stuff in a table and wrap inside. 
+4: If one site, please be sure to select this site in application In same sentence.
+5: If it is two or more, please be sure to choose one of these sites in your application. 
+6: Source sans font
+
+
