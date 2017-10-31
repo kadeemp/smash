@@ -67,8 +67,11 @@ function showMessage() {
                 confirmedSites += "<p>Sorry, your zip code is not within 50 miles of a SMASH site!</p>";
             }
             else {
-                if(count > 1){
-                    confirmedSites += "<p>Please note: You may only apply to <strong>ONE</strong> of the above sites.</p>";
+                if(count == 1){
+                    confirmedSites += "<p>Please be sure to select this site in your application.</p>"
+                }
+                else if(count > 1){
+                    confirmedSites += "<p>Please be sure to select <strong>ONE</strong> of the above sites in your application.</p>";
                 }
                 confirmedSites += "<p><a href=\"https://smash.lpfi.org\">Click here to apply!</a></p>";
             }   

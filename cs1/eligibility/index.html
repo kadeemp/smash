@@ -6,13 +6,15 @@
         <meta name="viewport" content="width=device-width">
         <title>SMASH Eligibility Verifier</title> 
         <link rel="stylesheet" type="text/css" href="style.css">
+        <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro" rel="stylesheet">
     </head> 
     
     <body>
         
         <header>
-            <h1>SMASH Eligibility Verifier&trade;</h1>
-            <p>For Laura. =)</p>
+            <img id="logo" src="img/logo.png" alt="SMASH Logo 2016" title="SMASH Logo 2016">
+            <h1>SMASH Eligibility Verifier</h1>
+            <p>Please complete this form to determine if you are eligible to apply for SMASH.</p>
         </header>
         
         <hr>
@@ -21,28 +23,28 @@
             
             <form name="form" action="" method="GET" onsubmit="return false;">
 
-            <ul id="form-controls">
+            <table id="form-controls">
             
-                <li>
-                    <label>Check if you attend a public school, or if you attend a private school and receive financial assistance.</label><br>
-                    <input type= "checkbox" name="check-school" value="school" id="school">
-                </li>
+                <tr>
+                    <td><label>Check if you attend a public school, or if you attend a private school and receive financial assistance.</label></td>
 
-                <li>
-                    <label>Check if you are currently in 9th grade.</label><br>
-                    <input type= "checkbox" name="check-grade" value="grade" id="grade">
-                </li>
+                    <td><input type= "checkbox" name="check-school" value="school" id="school"></td>
+                </tr>
 
-                <li>
-                    <label><b>Enter Your Zip Code</b></label><br>
-                    <input type="text" name="zipcode" id="zip">
-                </li>
+                <tr>
+                    <td><label>Check if you are currently in 9th grade.</label></td>
+                    <td><input type= "checkbox" name="check-grade" value="grade" id="grade"></td>
+                </tr>
+
+                <tr>
+                    <td><label><b>Enter Your Zip Code</b></label><br>
+                    <td><input type="text" name="zipcode" id="zip"></td>
+                </tr>
                 
-                <li>
+            </table>    
+                <br>
                     <input type="button" id="form-submit" value="Submit">
-                </li>
-                
-            </ul>
+                <br>
                 
         </form>
             
