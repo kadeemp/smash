@@ -1,5 +1,5 @@
 /**
-Initialize global variables, attach event handlers, etc
+WHY YOU ALL UP IN MY CODE?!?!?
 **/
 
 var submitButton = document.getElementById("form-submit");
