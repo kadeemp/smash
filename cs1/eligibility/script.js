@@ -64,7 +64,7 @@ function showMessage() {
                 }
             }
             if (count == 0) {
-                confirmedSites += "<p>Sorry, your zip code is not within 50 miles of a SMASH site!</p>";
+                confirmedSites += "<p>Sorry, your zip code is not within 50 miles of a SMASH site.</p>";
             }
             else {
                 if(count == 1){
