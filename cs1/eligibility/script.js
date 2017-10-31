@@ -73,7 +73,7 @@ function showMessage() {
                 else if(count > 1){
                     confirmedSites += "<p>Please be sure to select <strong>ONE</strong> of the above sites in your application.</p>";
                 }
-                confirmedSites += "<p><a href=\"https://smash.lpfi.org\">Click here to apply!</a></p>";
+                confirmedSites += "<p><a href=\"https://app.smarterselect.com/programs/44358-Level-Playing-Field-Institute">Click here to apply!</a></p>";
             }   
         }
     }
