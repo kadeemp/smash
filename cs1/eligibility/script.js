@@ -32,13 +32,13 @@ function getValues() {
 function showMessage() {
     getValues();
     document.getElementById("stuff").innerHTML = "";
-    var berkeleyConfirm = "<p>You can apply to <b>Berkeley.</b></p>";
-    var davisConfirm = "<p>You can apply to <b>Davis.</b></p>";
-    var morehouseConfirm = "<p>You can <b>Morehouse.</b></p>";
-    var stanfordConfirm = "<p>You can apply to <b>Stanford.</b></p>";
-    var uclaConfirm = "<p>You can apply to <b>UCLA.</b></p>";
-    var upennConfirm = "<p>You can apply to <b>UPenn.</b></p>";
-    var wayneConfirm = "<p>You can apply to <b>Wayne State.</b></p>";
+    var berkeleyConfirm = "<p>You can apply to <b>SMASH Berkeley.</b></p>";
+    var davisConfirm = "<p>You can apply to <b>SMASH Davis.</b></p>";
+    var morehouseConfirm = "<p>You can <b>SMASH Morehouse.</b></p>";
+    var stanfordConfirm = "<p>You can apply to <b>SMASH Stanford.</b></p>";
+    var uclaConfirm = "<p>You can apply to <b>SMASH UCLA.</b></p>";
+    var upennConfirm = "<p>You can apply to <b>SMASH Wharton.</b></p>";
+    var wayneConfirm = "<p>You can apply to <b>SMASH Wayne State.</b></p>";
     var listOfConfirms = [berkeleyConfirm, davisConfirm, morehouseConfirm, stanfordConfirm, uclaConfirm, upennConfirm, wayneConfirm];
     var confirmedSites = "";
     //check school and grade
