@@ -78,7 +78,7 @@ function init() {
             }
         }
         document.getElementById("stuff").innerHTML = confirmedSites;
-        document.getElementById("stuff").innerHTML.scrollIntoView();
+        document.getElementById("stuff").innerHTML.scrollIntoView(true);
     }
 
     submitButton.addEventListener("click", showMessage);
