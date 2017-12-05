@@ -64,7 +64,7 @@ WHY YOU ALL UP IN MY CODE?!?!?
                         count++;
                     }
                 }
-                if (count === 0) {
+                if (count == 0) {
                     confirmedSites += "<p>Sorry, your zip code is not within 50 miles of a SMASH site.</p>";
                 }
                 else {
