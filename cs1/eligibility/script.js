@@ -58,11 +58,25 @@ WHY YOU ALL UP IN MY CODE?!?!?
         else{
             var count = 0;
             if(school && grade) {
-                for( var i = 0; i < listOfZips.length; i++) {
+                for(var i = 0; i < listOfZips.length; i++) {
+                    var dummy = 0;
+                    var found = false;
+                    while(dummy < listOfZips[i].length && !found) {
+                        if(listOfZips[i][dummy] == zipCode) {
+                            confirmedSites += listOfConfirms[i];
+                            count++;
+                            found = true;
+                        }
+                        else {
+                            dummy++;
+                        }
+                    }
+                    /** IE doesn't support includes, and I don't want a polyfill for this small thing.
                     if(listOfZips[i].includes(zipCode)) {
                         confirmedSites += listOfConfirms[i];
                         count++;
                     }
+                    */
                 }
                 if (count == 0) {
                     confirmedSites += "<p>Sorry, your zip code is not within 50 miles of a SMASH site.</p>";
