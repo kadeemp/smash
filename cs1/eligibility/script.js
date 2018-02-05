@@ -88,7 +88,7 @@ function init() {
 
   function showMessage() {
     getFormData();
-    document.getElementById("message-area").innerHTML = "";
+    document.getElementById("message-area").innerHTML = "Loading...";
     var zipCodeOkay = zipCode.length === 5 && !isNaN(Number(zipCode));
     var message = "";
     if(!school || !grade || zipCode.length != 5) {
