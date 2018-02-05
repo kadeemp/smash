@@ -46,15 +46,15 @@ function init() {
   var service = new google.maps.DistanceMatrixService();
 
   function getDistances(response) {
-    //console.log(response);
-    if(response.originAddresses[0].length === 0) {
-      message += "<p>Please enter a real zip code!</p>";
+    console.log(response);
+    if(response.originAddresses[0].length === 0 || response.rows[0].elements[0].status === "ZERO_RESULTS") {
+      message += "<p>Please enter a United States zip code!</p>";
     }
     else {
       for(var i = 0; i < distances.length; i++) {
         distances[i].distance = response.rows[0].elements[i].distance.value;
         distances[i].text = response.rows[0].elements[i].distance.text;
-        //console.log(distances[i].distance + " " + distances[i].text);
+        console.log(distances[i].distance + " " + distances[i].text);
       }
       var count = 0;
       for(var i = 0; i < distances.length; i++) {
