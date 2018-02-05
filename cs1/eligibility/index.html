@@ -1,31 +1,31 @@
 <!DOCTYPE html>
 <!-- For Laura -->
 <html>
-    
+
     <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width">
-        <title>SMASH Application Eligibility Verifier</title> 
+        <title>SMASH Application Eligibility Verifier</title>
         <link rel="stylesheet" type="text/css" href="style.css">
         <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro" rel="stylesheet">
-    </head> 
-    
+    </head>
+
     <body>
-        
+
         <header>
             <img id="logo" src="img/logo.png" alt="SMASH Logo 2016" title="SMASH Logo 2016">
             <h1>SMASH Application Eligibility Verifier</h1>
             <p>Please complete this form to determine if you are eligible to apply for SMASH. If you are eligible, you will receive the link to the application.</p>
         </header>
-        
+
         <hr>
-        
+
         <div id="main">
-            
+
             <form name="form" action="" method="GET" onsubmit="return false;">
 
             <table id="form-controls">
-            
+
                 <tr>
                     <td><label for="school">Check if you attend a public school, or if you attend a private school and receive financial assistance.</label></td>
 
@@ -41,20 +41,23 @@
                     <td><label for="zip">Enter your five-digit zip code.</label><br>
                     <td><input type="text" name="zipcode" maxlength="5" pattern="[0-9]{5}" id="zip" placeholder="e.g., 54321"></td>
                 </tr>
-                
+
             </table>
-                
+
                 <br>
                     <input type="button" id="form-submit" value="Submit">
                 <br>
-                
+
         </form>
-  
-            <p id="stuff"></p>
-            
+
+            <div id="message-area"></p>
+
         </div>
-        
-        <script src="script.js"></script>  
+        <script src="script.js"></script>
+        <script
+src="https://maps.googleapis.com/maps/api/js?callback=init">
+</script>
+
     </body>
-    
+
 </html>
