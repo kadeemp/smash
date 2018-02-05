@@ -48,7 +48,7 @@ function init() {
   function getDistances(response) {
     console.log(response);
     if(response.originAddresses[0].length === 0 || response.rows[0].elements[0].status === "ZERO_RESULTS") {
-      message += "<p>Please enter a United States zip code!</p>";
+      message += "<p>Sorry, your zip code is not within 50 miles of a SMASH site.</p>";
     }
     else {
       for(var i = 0; i < distances.length; i++) {
