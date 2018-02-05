@@ -77,6 +77,7 @@ function init() {
     }
     document.getElementById("message-area").innerHTML = message;
     window.scrollTo(0, document.body.scrollHeight);
+    submitButton.style.display = none;
   }
 
   function getFormData() {
