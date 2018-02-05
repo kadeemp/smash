@@ -76,7 +76,6 @@ function init() {
       }
     }
     document.getElementById("message-area").innerHTML = message;
-    window.scrollTo(0, document.body.scrollHeight);
     submitButton.style.display = "none";
   }
 
@@ -103,7 +102,6 @@ function init() {
         message += "<p>Please enter zip code as 5 numbers: #####</p>";
       }
       document.getElementById("message-area").innerHTML = message;
-      window.scrollTo(0, document.body.scrollHeight);
     }
     else {
       service.getDistanceMatrix(
