@@ -9,29 +9,34 @@ header {
     text-align: center;
 }
 
+#warning {
+  font-size: 1.5em;
+  color: #ff0000;
+}
+
 img#logo {
     min-width: 400px;
     max-width: 50%;
-    
+
 }
 
 div#main {
     width: 75%;
-    margin: auto; 
+    margin: auto;
     text-align: center;
 }
- 
+
 table#form-controls {
     margin: auto;
     max-width: 500px;
     min-width: 100px;
     border: 1px solid black;
-} 
+}
 
 table#form-controls td{
     padding: 10px;
     border: 1px solid black;
-} 
+}
 
 input[type=checkbox] {
     transform: scale(1.50);
