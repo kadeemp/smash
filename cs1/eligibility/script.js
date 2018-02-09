@@ -58,7 +58,6 @@
     }
     window.scrollTo(0, 0);
     document.getElementById("message-area").innerHTML = message;
-    //submitButton.style.display = "none";
   }
 
   function getFormData() {
