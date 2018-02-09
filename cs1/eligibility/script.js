@@ -48,12 +48,11 @@
       }
       if(validSites.length === 1) {
         message += "<p>Please be sure to select this site in your application.</p>";
-        message += "<p><a href=\"https://app.smarterselect.com/programs/44358-Level-Playing-Field-Institute\">Click here to apply!</a></p>";
       }
       else {
         message += "<p>Please be sure to select <strong>ONE</strong> of the above sites in your application.</p>";
-        message += "<p><a href=\"https://app.smarterselect.com/programs/44358-Level-Playing-Field-Institute\">Click here to apply!</a></p>";
       }
+      message += "<p><a href=\"https://app.smarterselect.com/programs/44358-Level-Playing-Field-Institute\">Click here to apply!</a></p>";
     }
     window.scrollTo(0, 0);
     document.getElementById("message-area").innerHTML = message;
