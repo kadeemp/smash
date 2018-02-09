@@ -7,13 +7,19 @@
   var sites;
   var validSites;
 
+  loadData();
+
+
   function loadData() {
     fetch("https://ahob85.github.io/smash/cs1/eligibility/smashzips.json")
     .then(function(response) {
       response.json()
       .then(function(jsonObj) {
         sites = jsonObj;
-      }).then(getDistances)
+      }).then(function() {
+        submitButton.addEventListener("click", showMessage);
+        submitButton.style.display = "block";
+      })
     });
   }
 
@@ -83,9 +89,8 @@
       document.getElementById("message-area").innerHTML = message;
     }
     else {
-      loadData();
+      getDistances();
     }
   }
 
-  submitButton.addEventListener("click", showMessage);
 })();
