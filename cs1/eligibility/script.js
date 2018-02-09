@@ -71,7 +71,7 @@
     getFormData();
     document.getElementById("message-area").innerHTML = "Loading...";
     var zipCodeOkay = zipCode.length === 5 && !isNaN(Number(zipCode));
-    if(!school || !grade || zipCode.length != 5) {
+    if(!school || !grade || !zipCodeOkay) {
       if(!school) {
         message += "<p>Sorry, only students attending public schools, or who receive financial assistance at private schools, are eligible to apply.</p>";
       }
