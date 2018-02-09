@@ -8,7 +8,7 @@
   var validSites;
 
   function loadData() {
-    fetch("https://ahob85.github.io/smash/cs1/eligibility/smashzipsmini.json")
+    fetch("https://ahob85.github.io/smash/cs1/eligibility/smashzips.json")
     .then(function(response) {
       response.json()
       .then(function(jsonObj) {
