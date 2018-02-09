@@ -1,72 +1,53 @@
-function init() {
+(function() {
   var submitButton = document.getElementById("form-submit");
   var zipCode;
   var school;
   var grade;
   var message;
+  var sites;
+  var validSites;
 
-  var berkeleyDistance = {
-    name:"SMASH UC Berkeley",
-    distance: -1,
-    text: ""
-  },
-    davisDistance = {
-    name:"SMASH UC Davis",
-    distance: -1,
-    text: ""
-  },
-  stanfordDistance = {
-    name:"SMASH Stanford",
-    distance: -1,
-    text: ""
-  },
-  uclaDistance = {
-    name:"SMASH UCLA",
-    distance: -1,
-    text: ""
-  },
-  morehouseDistance = {
-    name:"SMASH Morehouse",
-    distance: -1,
-    text: ""
-  },
-  wayneDistance = {
-    name:"SMASH Wayne State",
-    distance: -1,
-    text: ""
-  },
-  pennDistance = {
-    name:"SMASH Wharton",
-    distance: -1,
-    text: ""
-  };
-  var distances = [berkeleyDistance, davisDistance, stanfordDistance,
-    uclaDistance, morehouseDistance, wayneDistance, pennDistance];
+  function loadData() {
+    fetch("https://ahob85.github.io/smash/cs1/eligibility/smashzipsmini.json")
+    .then(function(response) {
+      response.json()
+      .then(function(jsonObj) {
+        sites = jsonObj;
+      }).then(getDistances)
+    });
+  }
 
-  var service = new google.maps.DistanceMatrixService();
-
-  function getDistances(response) {
-    console.log(response);
-    if(response.originAddresses[0].length === 0 || response.rows[0].elements[0].status === "ZERO_RESULTS") {
+  function getDistances() {
+    for(var site in sites) {
+      var found = false;
+      for(var i = 0; i < sites[site].length && !found; i++) {
+        if(sites[site][i].zip_code == zipCode) {
+          var valid = {name: site, distance: sites[site][i].distance};
+          if(validSites.length === 0) {
+            validSites.push(valid);
+          }
+          else {
+            var placed = false;
+            for(var j = 0; j < validSites.length && !placed; j++) {
+              if(validSites[j].distance > valid.distance) {
+                validSites.splice(j, 0, valid);
+                placed = true;
+              }
+            }
+          }
+          found = true;
+        }
+      }
+    }
+    if(validSites.length === 0) {
       message += "<p>Sorry, your zip code is not within 50 miles of a SMASH site.</p>";
     }
     else {
-      for(var i = 0; i < distances.length; i++) {
-        distances[i].distance = response.rows[0].elements[i].distance.value;
-        distances[i].text = response.rows[0].elements[i].distance.text;
-        console.log(distances[i].distance + " " + distances[i].text);
+      console.log("validSites length: " + validSites.length);
+      for(var i = 0; i < validSites.length; i++) {
+        message += "<p>You can apply to <b>" + validSites[i].name + " </b>(" + (Math.round(validSites[i].distance * 10) / 10) + " mi)</p>";
       }
-      var count = 0;
-      for(var i = 0; i < distances.length; i++) {
-        if(distances[i].distance <= 80467.2 || (i === 1 && distances[i].distance <= 120701)) {
-          message += "<p>You can apply to <b>" + distances[i].name + " </b>(" + distances[i].text + ")</p>";
-          count++;
-        }
-      }
-      if(count === 0) {
-        message += "<p>Sorry, your zip code is not within 50 miles of a SMASH site.</p>";
-      }
-      else if(count === 1) {
+      if(validSites.length === 1) {
         message += "<p>Please be sure to select this site in your application.</p>";
         message += "<p><a href=\"https://app.smarterselect.com/programs/44358-Level-Playing-Field-Institute\">Click here to apply!</a></p>";
       }
@@ -75,8 +56,9 @@ function init() {
         message += "<p><a href=\"https://app.smarterselect.com/programs/44358-Level-Playing-Field-Institute\">Click here to apply!</a></p>";
       }
     }
+    window.scrollTo(0, 0);
     document.getElementById("message-area").innerHTML = message;
-    submitButton.style.display = "none";
+    //submitButton.style.display = "none";
   }
 
   function getFormData() {
@@ -84,13 +66,13 @@ function init() {
     school = document.getElementById("school").checked;
     grade = document.getElementById("grade").checked;
     message = "";
+    validSites = [];
   }
 
   function showMessage() {
     getFormData();
     document.getElementById("message-area").innerHTML = "Loading...";
     var zipCodeOkay = zipCode.length === 5 && !isNaN(Number(zipCode));
-    var message = "";
     if(!school || !grade || zipCode.length != 5) {
       if(!school) {
         message += "<p>Sorry, only students attending public schools, or who receive financial assistance at private schools, are eligible to apply.</p>";
@@ -104,14 +86,9 @@ function init() {
       document.getElementById("message-area").innerHTML = message;
     }
     else {
-      service.getDistanceMatrix(
-      {
-        origins: [zipCode],
-        travelMode: 'DRIVING',
-        destinations: ["94720", "95616", "94305", "90095", "30314", "48202", "19104"],
-        unitSystem: google.maps.UnitSystem.IMPERIAL
-      }, getDistances);
+      loadData();
     }
   }
+
   submitButton.addEventListener("click", showMessage);
-}
+})();

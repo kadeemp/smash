@@ -1,61 +1,45 @@
 <!DOCTYPE html>
 <!-- For Laura -->
 <html>
-
-    <head>
-        <meta charset="utf-8">
-        <meta name="viewport" content="width=device-width">
-        <title>SMASH Application Eligibility Verifier</title>
-        <link rel="stylesheet" type="text/css" href="style.css">
-        <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro" rel="stylesheet">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>SMASH Application Eligibility Verifier</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro" rel="stylesheet">
     </head>
-
     <body>
-
-        <header>
-            <img id="logo" src="img/logo.png" alt="SMASH Logo 2016" title="SMASH Logo 2016">
-            <div id="message-area"><h1>SMASH Application Eligibility Verifier</h1>
-            <p><span id="warning">If you use an adblocker, please disable it on this site!!!</span> <br>Please complete this form to determine if you are eligible to apply for SMASH. <br>If you are eligible, you will receive the link to the application.</p>
-            </div>
-        </header>
-
-        <hr>
-
-        <div id="main">
-
-            <form name="form" action="" method="GET" onsubmit="return false;">
-
-            <table id="form-controls">
-
-                <tr>
-                    <td><label for="school">Check if you attend a public school, or if you attend a private school and receive financial assistance.</label></td>
-
-                    <td><input type= "checkbox" name="check-school" value="school" id="school"></td>
-                </tr>
-
-                <tr>
-                    <td><label for="grade">Check if you are currently in 9th grade.</label></td>
-                    <td><input type="checkbox" name="check-grade" value="grade" id="grade"></td>
-                </tr>
-
-                <tr>
-                    <td><label for="zip">Enter your five-digit zip code.</label><br>
-                    <td><input type="text" name="zipcode" maxlength="5" pattern="[0-9]{5}" id="zip" placeholder="e.g., 54321"></td>
-                </tr>
-
-            </table>
-                    <button id="form-submit">Submit</button>
-
-        </form>
-
-
-
+      <header>
+        <img id="logo" src="img/logo.png" alt="SMASH Logo 2016" title="SMASH Logo 2016">
+        <div id="message-area">
+          <h1>SMASH Application Eligibility Verifier</h1>
+          <p>
+            <!--<span id="warning">If you use an adblocker, please disable it on this site!!!</span> -->
+            Please complete this form to learn if you are eligible to apply for SMASH.
+            <br>If you are eligible, you will receive the link to the application.
+          </p>
         </div>
-        <script src="script.js"></script>
-        <script
-src="https://maps.googleapis.com/maps/api/js?callback=init&key=AIzaSyAw6URqaWBZgn69iIkdeSPoFEndzganKCU">
-</script>
-
+      </header>
+      <hr>
+      <div id="main">
+        <form name="form" action="" method="GET" onsubmit="return false;">
+          <table id="form-controls">
+          <tr>
+            <td><label for="school">Check if you attend a public school, or if you attend a private school and receive financial assistance.</label></td>
+            <td><input type= "checkbox" name="check-school" value="school" id="school"></td>
+          </tr>
+          <tr>
+            <td><label for="grade">Check if you are currently in 9th grade.</label></td>
+            <td><input type="checkbox" name="check-grade" value="grade" id="grade"></td>
+          </tr>
+          <tr>
+            <td><label for="zip">Enter your five-digit zip code.</label><br>
+            <td><input type="text" name="zipcode" maxlength="5" pattern="[0-9]{5}" id="zip" placeholder="e.g., 54321"></td>
+          </tr>
+         </table>
+         <button id="form-submit">Submit</button>
+       </form>
+      </div>
+      <script src="script.js"></script>
     </body>
-
 </html>
