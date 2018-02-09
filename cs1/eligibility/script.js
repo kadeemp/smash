@@ -43,7 +43,6 @@
       message += "<p>Sorry, your zip code is not within 50 miles of a SMASH site.</p>";
     }
     else {
-      console.log("validSites length: " + validSites.length);
       for(var i = 0; i < validSites.length; i++) {
         message += "<p>You can apply to <b>" + validSites[i].name + " </b>(" + (Math.round(validSites[i].distance * 10) / 10) + " mi)</p>";
       }
