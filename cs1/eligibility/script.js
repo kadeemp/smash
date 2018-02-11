@@ -9,7 +9,6 @@
 
   loadData();
 
-
   function loadData() {
     fetch("https://ahob85.github.io/smash/cs1/eligibility/smashzips.json")
     .then(function(response) {
@@ -39,6 +38,9 @@
                 validSites.splice(j, 0, valid);
                 placed = true;
               }
+            }
+            if(!placed) {
+              validSites.push(valid);
             }
           }
           found = true;
