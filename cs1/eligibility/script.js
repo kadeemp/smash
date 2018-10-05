@@ -1,11 +1,11 @@
 (function() {
-  var submitButton = document.getElementById("form-submit");
-  var zipCode;
-  var school;
-  var grade;
-  var message;
-  var sites;
-  var validSites;
+  let submitButton = document.getElementById("form-submit");
+  let zipCode;
+  let school;
+  let grade;
+  let message;
+  let sites;
+  let validSites;
 
   loadData();
 
@@ -23,17 +23,17 @@
   }
 
   function getDistances() {
-    for(var site in sites) {
-      var found = false;
-      for(var i = 0; i < sites[site].length && !found; i++) {
+    for(let site in sites) {
+      let found = false;
+      for(let i = 0; i < sites[site].length && !found; i++) {
         if(sites[site][i].zip_code == zipCode) {
-          var valid = {name: site, distance: sites[site][i].distance};
+          let valid = {name: site, distance: sites[site][i].distance};
           if(validSites.length === 0) {
             validSites.push(valid);
           }
           else {
-            var placed = false;
-            for(var j = 0; j < validSites.length && !placed; j++) {
+            let placed = false;
+            for(let j = 0; j < validSites.length && !placed; j++) {
               if(validSites[j].distance > valid.distance) {
                 validSites.splice(j, 0, valid);
                 placed = true;
@@ -51,7 +51,7 @@
       message += "<p>Sorry, your zip code is not within 50 miles of a SMASH site.</p>";
     }
     else {
-      for(var i = 0; i < validSites.length; i++) {
+      for(let i = 0; i < validSites.length; i++) {
         message += "<p>You can apply to <b>" + validSites[i].name + " </b>(" + (Math.round(validSites[i].distance * 10) / 10) + " mi)</p>";
       }
       if(validSites.length === 1) {
@@ -77,7 +77,7 @@
   function showMessage() {
     getFormData();
     document.getElementById("message-area").innerHTML = "Loading...";
-    var zipCodeOkay = zipCode.length === 5 && !isNaN(Number(zipCode));
+    let zipCodeOkay = zipCode.length === 5 && !isNaN(Number(zipCode));
     if(!school || !grade || !zipCodeOkay) {
       if(!school) {
         message += "<p>Sorry, only students attending public schools, or who receive financial assistance at private schools, are eligible to apply.</p>";
