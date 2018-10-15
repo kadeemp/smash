@@ -21270,5 +21270,2659 @@
             "city": "Easton",
             "state": "PA"
         }
+    ],
+  "SMASH Illinois Tech": [
+        {
+            "zip_code": "60915",
+            "distance": 49.798,
+            "city": "Bradley",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60954",
+            "distance": 48.17,
+            "city": "Momence",
+            "state": "IL"
+        },
+        {
+            "zip_code": "46379",
+            "distance": 47.735,
+            "city": "Sumava Resorts",
+            "state": "IN"
+        },
+        {
+            "zip_code": "46381",
+            "distance": 49.234,
+            "city": "Thayer",
+            "state": "IN"
+        },
+        {
+            "zip_code": "46376",
+            "distance": 46.258,
+            "city": "Schneider",
+            "state": "IN"
+        },
+        {
+            "zip_code": "60914",
+            "distance": 47.067,
+            "city": "Bourbonnais",
+            "state": "IL"
+        },
+        {
+            "zip_code": "46377",
+            "distance": 47.283,
+            "city": "Shelby",
+            "state": "IN"
+        },
+        {
+            "zip_code": "60940",
+            "distance": 41.131,
+            "city": "Grant Park",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60950",
+            "distance": 43.068,
+            "city": "Manteno",
+            "state": "IL"
+        },
+        {
+            "zip_code": "46356",
+            "distance": 41.968,
+            "city": "Lowell",
+            "state": "IN"
+        },
+        {
+            "zip_code": "60481",
+            "distance": 46.11,
+            "city": "Wilmington",
+            "state": "IL"
+        },
+        {
+            "zip_code": "46347",
+            "distance": 48.781,
+            "city": "Kouts",
+            "state": "IN"
+        },
+        {
+            "zip_code": "46341",
+            "distance": 42.612,
+            "city": "Hebron",
+            "state": "IN"
+        },
+        {
+            "zip_code": "60468",
+            "distance": 36.5,
+            "city": "Peotone",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60401",
+            "distance": 34.614,
+            "city": "Beecher",
+            "state": "IL"
+        },
+        {
+            "zip_code": "46302",
+            "distance": 42.665,
+            "city": "Boone Grove",
+            "state": "IN"
+        },
+        {
+            "zip_code": "46355",
+            "distance": 38.172,
+            "city": "Leroy",
+            "state": "IN"
+        },
+        {
+            "zip_code": "46303",
+            "distance": 33.411,
+            "city": "Cedar Lake",
+            "state": "IN"
+        },
+        {
+            "zip_code": "60442",
+            "distance": 35.82,
+            "city": "Manhattan",
+            "state": "IL"
+        },
+        {
+            "zip_code": "46307",
+            "distance": 34.143,
+            "city": "Crown Point",
+            "state": "IN"
+        },
+        {
+            "zip_code": "60449",
+            "distance": 30.586,
+            "city": "Monee",
+            "state": "IL"
+        },
+        {
+            "zip_code": "46390",
+            "distance": 48.316,
+            "city": "Wanatah",
+            "state": "IN"
+        },
+        {
+            "zip_code": "46308",
+            "distance": 32.587,
+            "city": "Crown Point",
+            "state": "IN"
+        },
+        {
+            "zip_code": "60417",
+            "distance": 28.898,
+            "city": "Crete",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60410",
+            "distance": 41.87,
+            "city": "Channahon",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60421",
+            "distance": 37.682,
+            "city": "Elwood",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60484",
+            "distance": 28.074,
+            "city": "University Park",
+            "state": "IL"
+        },
+        {
+            "zip_code": "46373",
+            "distance": 28.564,
+            "city": "Saint John",
+            "state": "IN"
+        },
+        {
+            "zip_code": "46385",
+            "distance": 36.838,
+            "city": "Valparaiso",
+            "state": "IN"
+        },
+        {
+            "zip_code": "46383",
+            "distance": 41.334,
+            "city": "Valparaiso",
+            "state": "IN"
+        },
+        {
+            "zip_code": "46311",
+            "distance": 26.908,
+            "city": "Dyer",
+            "state": "IN"
+        },
+        {
+            "zip_code": "46411",
+            "distance": 30.292,
+            "city": "Merrillville",
+            "state": "IN"
+        },
+        {
+            "zip_code": "46384",
+            "distance": 39.36,
+            "city": "Valparaiso",
+            "state": "IN"
+        },
+        {
+            "zip_code": "60475",
+            "distance": 25.729,
+            "city": "Steger",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60423",
+            "distance": 27.572,
+            "city": "Frankfort",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60466",
+            "distance": 25.546,
+            "city": "Park Forest",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60471",
+            "distance": 25.91,
+            "city": "Richton Park",
+            "state": "IL"
+        },
+        {
+            "zip_code": "46410",
+            "distance": 29.336,
+            "city": "Merrillville",
+            "state": "IN"
+        },
+        {
+            "zip_code": "60436",
+            "distance": 35.946,
+            "city": "Joliet",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60447",
+            "distance": 43.681,
+            "city": "Minooka",
+            "state": "IL"
+        },
+        {
+            "zip_code": "46375",
+            "distance": 26.018,
+            "city": "Schererville",
+            "state": "IN"
+        },
+        {
+            "zip_code": "60433",
+            "distance": 32.218,
+            "city": "Joliet",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60412",
+            "distance": 23.83,
+            "city": "Chicago Heights",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60443",
+            "distance": 24.524,
+            "city": "Matteson",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60451",
+            "distance": 29.073,
+            "city": "New Lenox",
+            "state": "IL"
+        },
+        {
+            "zip_code": "46393",
+            "distance": 32.736,
+            "city": "Wheeler",
+            "state": "IN"
+        },
+        {
+            "zip_code": "60411",
+            "distance": 23.287,
+            "city": "Chicago Heights",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60431",
+            "distance": 36.866,
+            "city": "Joliet",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60404",
+            "distance": 38.533,
+            "city": "Shorewood",
+            "state": "IL"
+        },
+        {
+            "zip_code": "46342",
+            "distance": 29.877,
+            "city": "Hobart",
+            "state": "IN"
+        },
+        {
+            "zip_code": "60434",
+            "distance": 34.027,
+            "city": "Joliet",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60461",
+            "distance": 22.649,
+            "city": "Olympia Fields",
+            "state": "IL"
+        },
+        {
+            "zip_code": "46319",
+            "distance": 24.401,
+            "city": "Griffith",
+            "state": "IN"
+        },
+        {
+            "zip_code": "60422",
+            "distance": 21.5,
+            "city": "Flossmoor",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60448",
+            "distance": 25.331,
+            "city": "Mokena",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60432",
+            "distance": 29.798,
+            "city": "Joliet",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60425",
+            "distance": 20.691,
+            "city": "Glenwood",
+            "state": "IL"
+        },
+        {
+            "zip_code": "46408",
+            "distance": 24.505,
+            "city": "Gary",
+            "state": "IN"
+        },
+        {
+            "zip_code": "46322",
+            "distance": 22.332,
+            "city": "Highland",
+            "state": "IN"
+        },
+        {
+            "zip_code": "46321",
+            "distance": 21.472,
+            "city": "Munster",
+            "state": "IN"
+        },
+        {
+            "zip_code": "46409",
+            "distance": 25.665,
+            "city": "Gary",
+            "state": "IN"
+        },
+        {
+            "zip_code": "60435",
+            "distance": 33.124,
+            "city": "Joliet",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60403",
+            "distance": 33.115,
+            "city": "Crest Hill",
+            "state": "IL"
+        },
+        {
+            "zip_code": "46391",
+            "distance": 41.564,
+            "city": "Westville",
+            "state": "IN"
+        },
+        {
+            "zip_code": "60430",
+            "distance": 19.87,
+            "city": "Homewood",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60487",
+            "distance": 22.311,
+            "city": "Tinley Park",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60478",
+            "distance": 20.137,
+            "city": "Country Club Hills",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60438",
+            "distance": 19.625,
+            "city": "Lansing",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60476",
+            "distance": 19.065,
+            "city": "Thornton",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60586",
+            "distance": 36.882,
+            "city": "Plainfield",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60477",
+            "distance": 20.677,
+            "city": "Tinley Park",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60429",
+            "distance": 18.964,
+            "city": "Hazel Crest",
+            "state": "IL"
+        },
+        {
+            "zip_code": "46405",
+            "distance": 26.392,
+            "city": "Lake Station",
+            "state": "IN"
+        },
+        {
+            "zip_code": "46407",
+            "distance": 23.847,
+            "city": "Gary",
+            "state": "IN"
+        },
+        {
+            "zip_code": "46324",
+            "distance": 19.161,
+            "city": "Hammond",
+            "state": "IN"
+        },
+        {
+            "zip_code": "46404",
+            "distance": 22.17,
+            "city": "Gary",
+            "state": "IN"
+        },
+        {
+            "zip_code": "46323",
+            "distance": 19.71,
+            "city": "Hammond",
+            "state": "IN"
+        },
+        {
+            "zip_code": "46401",
+            "distance": 22.913,
+            "city": "Gary",
+            "state": "IN"
+        },
+        {
+            "zip_code": "46368",
+            "distance": 28.831,
+            "city": "Portage",
+            "state": "IN"
+        },
+        {
+            "zip_code": "60441",
+            "distance": 28.033,
+            "city": "Lockport",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60473",
+            "distance": 17.151,
+            "city": "South Holland",
+            "state": "IL"
+        },
+        {
+            "zip_code": "46402",
+            "distance": 22.732,
+            "city": "Gary",
+            "state": "IN"
+        },
+        {
+            "zip_code": "60428",
+            "distance": 17.279,
+            "city": "Markham",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60467",
+            "distance": 21.586,
+            "city": "Orland Park",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60491",
+            "distance": 24.194,
+            "city": "Homer Glen",
+            "state": "IL"
+        },
+        {
+            "zip_code": "46406",
+            "distance": 20.086,
+            "city": "Gary",
+            "state": "IN"
+        },
+        {
+            "zip_code": "60452",
+            "distance": 17.741,
+            "city": "Oak Forest",
+            "state": "IL"
+        },
+        {
+            "zip_code": "46350",
+            "distance": 49.35,
+            "city": "La Porte",
+            "state": "IN"
+        },
+        {
+            "zip_code": "46403",
+            "distance": 24.827,
+            "city": "Gary",
+            "state": "IN"
+        },
+        {
+            "zip_code": "60560",
+            "distance": 44.616,
+            "city": "Yorkville",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60426",
+            "distance": 16.277,
+            "city": "Harvey",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60409",
+            "distance": 16.406,
+            "city": "Calumet City",
+            "state": "IL"
+        },
+        {
+            "zip_code": "46304",
+            "distance": 33.822,
+            "city": "Chesterton",
+            "state": "IN"
+        },
+        {
+            "zip_code": "60544",
+            "distance": 34.563,
+            "city": "Plainfield",
+            "state": "IL"
+        },
+        {
+            "zip_code": "46325",
+            "distance": 17.007,
+            "city": "Hammond",
+            "state": "IN"
+        },
+        {
+            "zip_code": "60462",
+            "distance": 18.594,
+            "city": "Orland Park",
+            "state": "IL"
+        },
+        {
+            "zip_code": "46327",
+            "distance": 16.332,
+            "city": "Hammond",
+            "state": "IN"
+        },
+        {
+            "zip_code": "60469",
+            "distance": 15.309,
+            "city": "Posen",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60419",
+            "distance": 14.961,
+            "city": "Dolton",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60446",
+            "distance": 28.933,
+            "city": "Romeoville",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60445",
+            "distance": 15.655,
+            "city": "Midlothian",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60472",
+            "distance": 14.594,
+            "city": "Robbins",
+            "state": "IL"
+        },
+        {
+            "zip_code": "46312",
+            "distance": 16.249,
+            "city": "East Chicago",
+            "state": "IN"
+        },
+        {
+            "zip_code": "60827",
+            "distance": 13.512,
+            "city": "Riverdale",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60406",
+            "distance": 13.458,
+            "city": "Blue Island",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60585",
+            "distance": 33.589,
+            "city": "Plainfield",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60463",
+            "distance": 15.223,
+            "city": "Palos Heights",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60464",
+            "distance": 17.52,
+            "city": "Palos Park",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60633",
+            "distance": 12.917,
+            "city": "Chicago",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60543",
+            "distance": 37.882,
+            "city": "Oswego",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60490",
+            "distance": 29.484,
+            "city": "Bolingbrook",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60803",
+            "distance": 13.148,
+            "city": "Alsip",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60439",
+            "distance": 21.578,
+            "city": "Lemont",
+            "state": "IL"
+        },
+        {
+            "zip_code": "46394",
+            "distance": 13.476,
+            "city": "Whiting",
+            "state": "IN"
+        },
+        {
+            "zip_code": "60545",
+            "distance": 48.449,
+            "city": "Plano",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60482",
+            "distance": 13.804,
+            "city": "Worth",
+            "state": "IL"
+        },
+        {
+            "zip_code": "46360",
+            "distance": 40.373,
+            "city": "Michigan City",
+            "state": "IN"
+        },
+        {
+            "zip_code": "60628",
+            "distance": 10.65,
+            "city": "Chicago",
+            "state": "IL"
+        },
+        {
+            "zip_code": "46301",
+            "distance": 34.902,
+            "city": "Beverly Shores",
+            "state": "IN"
+        },
+        {
+            "zip_code": "46320",
+            "distance": 12.086,
+            "city": "Hammond",
+            "state": "IN"
+        },
+        {
+            "zip_code": "60655",
+            "distance": 11.154,
+            "city": "Chicago",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60465",
+            "distance": 14.652,
+            "city": "Palos Hills",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60643",
+            "distance": 10.192,
+            "city": "Chicago",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60440",
+            "distance": 25.283,
+            "city": "Bolingbrook",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60512",
+            "distance": 43.192,
+            "city": "Bristol",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60415",
+            "distance": 12.637,
+            "city": "Chicago Ridge",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60564",
+            "distance": 30.958,
+            "city": "Naperville",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60454",
+            "distance": 11.359,
+            "city": "Oak Lawn",
+            "state": "IL"
+        },
+        {
+            "zip_code": "46361",
+            "distance": 39.953,
+            "city": "Michigan City",
+            "state": "IN"
+        },
+        {
+            "zip_code": "60503",
+            "distance": 33.772,
+            "city": "Aurora",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60453",
+            "distance": 11.234,
+            "city": "Oak Lawn",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60617",
+            "distance": 9.499,
+            "city": "Chicago",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60805",
+            "distance": 9.405,
+            "city": "Evergreen Park",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60457",
+            "distance": 13.394,
+            "city": "Hickory Hills",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60538",
+            "distance": 37.673,
+            "city": "Montgomery",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60480",
+            "distance": 15.477,
+            "city": "Willow Springs",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60565",
+            "distance": 26.948,
+            "city": "Naperville",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60456",
+            "distance": 9.597,
+            "city": "Hometown",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60517",
+            "distance": 22.725,
+            "city": "Woodridge",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60620",
+            "distance": 7.362,
+            "city": "Chicago",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60455",
+            "distance": 11.864,
+            "city": "Bridgeview",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60527",
+            "distance": 17.205,
+            "city": "Willowbrook",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60619",
+            "distance": 7.059,
+            "city": "Chicago",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60459",
+            "distance": 10.172,
+            "city": "Burbank",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60561",
+            "distance": 19.652,
+            "city": "Darien",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60504",
+            "distance": 32.347,
+            "city": "Aurora",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60652",
+            "distance": 8.162,
+            "city": "Chicago",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60458",
+            "distance": 12.211,
+            "city": "Justice",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60511",
+            "distance": 48.144,
+            "city": "Big Rock",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60507",
+            "distance": 34.789,
+            "city": "Aurora",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60568",
+            "distance": 34.789,
+            "city": "Aurora",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60572",
+            "distance": 34.789,
+            "city": "Aurora",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60598",
+            "distance": 34.789,
+            "city": "Aurora",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60597",
+            "distance": 31.246,
+            "city": "Fox Valley",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60566",
+            "distance": 27.718,
+            "city": "Naperville",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60567",
+            "distance": 27.718,
+            "city": "Naperville",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60499",
+            "distance": 10.352,
+            "city": "Bedford Park",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60516",
+            "distance": 20.853,
+            "city": "Downers Grove",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60649",
+            "distance": 6.384,
+            "city": "Chicago",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60505",
+            "distance": 34.969,
+            "city": "Aurora",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60540",
+            "distance": 27.419,
+            "city": "Naperville",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60506",
+            "distance": 38.487,
+            "city": "Aurora",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60599",
+            "distance": 32.14,
+            "city": "Fox Valley",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60636",
+            "distance": 5.304,
+            "city": "Chicago",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60629",
+            "distance": 6.548,
+            "city": "Chicago",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60621",
+            "distance": 4.801,
+            "city": "Chicago",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60554",
+            "distance": 43.16,
+            "city": "Sugar Grove",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60519",
+            "distance": 32.173,
+            "city": "Eola",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60501",
+            "distance": 11.171,
+            "city": "Summit Argo",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60638",
+            "distance": 8.707,
+            "city": "Chicago",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60637",
+            "distance": 4.543,
+            "city": "Chicago",
+            "state": "IL"
+        },
+        {
+            "zip_code": "49117",
+            "distance": 46.411,
+            "city": "New Buffalo",
+            "state": "MI"
+        },
+        {
+            "zip_code": "60525",
+            "distance": 13.427,
+            "city": "La Grange",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60532",
+            "distance": 23.999,
+            "city": "Lisle",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60563",
+            "distance": 30.096,
+            "city": "Naperville",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60502",
+            "distance": 32.933,
+            "city": "Aurora",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60559",
+            "distance": 18.303,
+            "city": "Westmont",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60514",
+            "distance": 17.735,
+            "city": "Clarendon Hills",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60522",
+            "distance": 15.535,
+            "city": "Hinsdale",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60521",
+            "distance": 15.959,
+            "city": "Hinsdale",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60615",
+            "distance": 3.32,
+            "city": "Chicago",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60558",
+            "distance": 14.505,
+            "city": "Western Springs",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60542",
+            "distance": 37.572,
+            "city": "North Aurora",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60632",
+            "distance": 5.19,
+            "city": "Chicago",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60515",
+            "distance": 20.668,
+            "city": "Downers Grove",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60569",
+            "distance": 30.615,
+            "city": "Aurora",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60609",
+            "distance": 2.789,
+            "city": "Chicago",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60534",
+            "distance": 10.492,
+            "city": "Lyons",
+            "state": "IL"
+        },
+        {
+            "zip_code": "49129",
+            "distance": 48.095,
+            "city": "Union Pier",
+            "state": "MI"
+        },
+        {
+            "zip_code": "60653",
+            "distance": 1.964,
+            "city": "Chicago",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60555",
+            "distance": 28.683,
+            "city": "Warrenville",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60513",
+            "distance": 11.584,
+            "city": "Brookfield",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60539",
+            "distance": 36.682,
+            "city": "Mooseheart",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60664",
+            "distance": 3.04,
+            "city": "Chicago",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60668",
+            "distance": 3.04,
+            "city": "Chicago",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60669",
+            "distance": 3.04,
+            "city": "Chicago",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60670",
+            "distance": 3.04,
+            "city": "Chicago",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60673",
+            "distance": 3.04,
+            "city": "Chicago",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60674",
+            "distance": 3.04,
+            "city": "Chicago",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60675",
+            "distance": 3.04,
+            "city": "Chicago",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60677",
+            "distance": 3.04,
+            "city": "Chicago",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60678",
+            "distance": 3.04,
+            "city": "Chicago",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60680",
+            "distance": 3.04,
+            "city": "Chicago",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60681",
+            "distance": 3.04,
+            "city": "Chicago",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60684",
+            "distance": 3.04,
+            "city": "Chicago",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60685",
+            "distance": 3.04,
+            "city": "Chicago",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60687",
+            "distance": 3.04,
+            "city": "Chicago",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60690",
+            "distance": 3.04,
+            "city": "Chicago",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60691",
+            "distance": 3.04,
+            "city": "Chicago",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60693",
+            "distance": 3.04,
+            "city": "Chicago",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60694",
+            "distance": 3.04,
+            "city": "Chicago",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60697",
+            "distance": 3.04,
+            "city": "Chicago",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60699",
+            "distance": 3.04,
+            "city": "Chicago",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60701",
+            "distance": 3.04,
+            "city": "Chicago",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60526",
+            "distance": 12.891,
+            "city": "La Grange Park",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60402",
+            "distance": 8.638,
+            "city": "Berwyn",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60144",
+            "distance": 46.16,
+            "city": "Kaneville",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60523",
+            "distance": 16.938,
+            "city": "Oak Brook",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60546",
+            "distance": 10.186,
+            "city": "Riverside",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60804",
+            "distance": 7.006,
+            "city": "Cicero",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60570",
+            "distance": 14.19,
+            "city": "Hinsdale",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60189",
+            "distance": 25.63,
+            "city": "Wheaton",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60510",
+            "distance": 35.125,
+            "city": "Batavia",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60616",
+            "distance": 0,
+            "city": "Chicago",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60608",
+            "distance": 2.393,
+            "city": "Chicago",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60154",
+            "distance": 13.773,
+            "city": "Westchester",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60623",
+            "distance": 4.815,
+            "city": "Chicago",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60147",
+            "distance": 41.464,
+            "city": "Lafox",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60290",
+            "distance": 1.373,
+            "city": "Chicago",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60686",
+            "distance": 1.373,
+            "city": "Chicago",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60688",
+            "distance": 1.373,
+            "city": "Chicago",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60695",
+            "distance": 1.373,
+            "city": "Chicago",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60696",
+            "distance": 1.373,
+            "city": "Chicago",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60119",
+            "distance": 43.882,
+            "city": "Elburn",
+            "state": "IL"
+        },
+        {
+            "zip_code": "49116",
+            "distance": 49.456,
+            "city": "Lakeside",
+            "state": "MI"
+        },
+        {
+            "zip_code": "60155",
+            "distance": 11.976,
+            "city": "Broadview",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60141",
+            "distance": 11.035,
+            "city": "Hines",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60138",
+            "distance": 22.464,
+            "city": "Glen Ellyn",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60682",
+            "distance": 9.611,
+            "city": "Chicago",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60137",
+            "distance": 22.542,
+            "city": "Glen Ellyn",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60130",
+            "distance": 10.047,
+            "city": "Forest Park",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60162",
+            "distance": 14.386,
+            "city": "Hillside",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60605",
+            "distance": 1.607,
+            "city": "Chicago",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60663",
+            "distance": 1.759,
+            "city": "Chicago",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60679",
+            "distance": 1.759,
+            "city": "Chicago",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60689",
+            "distance": 1.759,
+            "city": "Chicago",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60190",
+            "distance": 27.484,
+            "city": "Winfield",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60304",
+            "distance": 8.73,
+            "city": "Oak Park",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60187",
+            "distance": 25.194,
+            "city": "Wheaton",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60148",
+            "distance": 20.499,
+            "city": "Lombard",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60607",
+            "distance": 2.511,
+            "city": "Chicago",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60181",
+            "distance": 18.267,
+            "city": "Villa Park",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60604",
+            "distance": 2.308,
+            "city": "Chicago",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60134",
+            "distance": 37.014,
+            "city": "Geneva",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60153",
+            "distance": 11.51,
+            "city": "Maywood",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60186",
+            "distance": 30.758,
+            "city": "West Chicago",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60303",
+            "distance": 8.378,
+            "city": "Oak Park",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60644",
+            "distance": 7.231,
+            "city": "Chicago",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60603",
+            "distance": 2.439,
+            "city": "Chicago",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60612",
+            "distance": 4.086,
+            "city": "Chicago",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60624",
+            "distance": 5.717,
+            "city": "Chicago",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60606",
+            "distance": 2.657,
+            "city": "Chicago",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60104",
+            "distance": 13.235,
+            "city": "Bellwood",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60661",
+            "distance": 2.831,
+            "city": "Chicago",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60602",
+            "distance": 2.654,
+            "city": "Chicago",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60601",
+            "distance": 2.797,
+            "city": "Chicago",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60301",
+            "distance": 9.484,
+            "city": "Oak Park",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60163",
+            "distance": 14.963,
+            "city": "Berkeley",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60654",
+            "distance": 3.343,
+            "city": "Chicago",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60302",
+            "distance": 9.186,
+            "city": "Oak Park",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60305",
+            "distance": 10.601,
+            "city": "River Forest",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60611",
+            "distance": 3.551,
+            "city": "Chicago",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60185",
+            "distance": 30.398,
+            "city": "West Chicago",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60126",
+            "distance": 16.693,
+            "city": "Elmhurst",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60161",
+            "distance": 12.728,
+            "city": "Melrose Park",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60642",
+            "distance": 4.329,
+            "city": "Chicago",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60651",
+            "distance": 7.197,
+            "city": "Chicago",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60622",
+            "distance": 4.989,
+            "city": "Chicago",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60165",
+            "distance": 13.807,
+            "city": "Stone Park",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60160",
+            "distance": 12.844,
+            "city": "Melrose Park",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60610",
+            "distance": 4.295,
+            "city": "Chicago",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60116",
+            "distance": 26.413,
+            "city": "Carol Stream",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60128",
+            "distance": 26.413,
+            "city": "Carol Stream",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60132",
+            "distance": 26.413,
+            "city": "Carol Stream",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60197",
+            "distance": 26.413,
+            "city": "Carol Stream",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60199",
+            "distance": 26.413,
+            "city": "Carol Stream",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60125",
+            "distance": 25.89,
+            "city": "Carol Stream",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60188",
+            "distance": 26.454,
+            "city": "Carol Stream",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60164",
+            "distance": 15.095,
+            "city": "Melrose Park",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60151",
+            "distance": 49.16,
+            "city": "Maple Park",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60139",
+            "distance": 23.896,
+            "city": "Glendale Heights",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60639",
+            "distance": 8.562,
+            "city": "Chicago",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60647",
+            "distance": 6.588,
+            "city": "Chicago",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60707",
+            "distance": 10.827,
+            "city": "Elmwood Park",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60614",
+            "distance": 5.53,
+            "city": "Chicago",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60171",
+            "distance": 12.336,
+            "city": "River Grove",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60101",
+            "distance": 21.066,
+            "city": "Addison",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60174",
+            "distance": 35.19,
+            "city": "Saint Charles",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60131",
+            "distance": 14.868,
+            "city": "Franklin Park",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60183",
+            "distance": 41.951,
+            "city": "Wasco",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60117",
+            "distance": 24.36,
+            "city": "Bloomingdale",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60657",
+            "distance": 6.696,
+            "city": "Chicago",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60634",
+            "distance": 11.696,
+            "city": "Chicago",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60641",
+            "distance": 9.441,
+            "city": "Chicago",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60618",
+            "distance": 8.128,
+            "city": "Chicago",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60175",
+            "distance": 39.952,
+            "city": "Saint Charles",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60108",
+            "distance": 25.118,
+            "city": "Bloomingdale",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60105",
+            "distance": 17.787,
+            "city": "Bensenville",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60184",
+            "distance": 33.182,
+            "city": "Wayne",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60613",
+            "distance": 7.899,
+            "city": "Chicago",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60176",
+            "distance": 14.815,
+            "city": "Schiller Park",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60106",
+            "distance": 18.149,
+            "city": "Bensenville",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60399",
+            "distance": 18.078,
+            "city": "Wood Dale",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60706",
+            "distance": 12.862,
+            "city": "Harwood Heights",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60191",
+            "distance": 20.181,
+            "city": "Wood Dale",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60630",
+            "distance": 11.115,
+            "city": "Chicago",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60640",
+            "distance": 9.061,
+            "city": "Chicago",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60625",
+            "distance": 9.698,
+            "city": "Chicago",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60656",
+            "distance": 13.736,
+            "city": "Chicago",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60157",
+            "distance": 23.97,
+            "city": "Medinah",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60143",
+            "distance": 22.372,
+            "city": "Itasca",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60133",
+            "distance": 28.228,
+            "city": "Hanover Park",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60018",
+            "distance": 16.726,
+            "city": "Des Plaines",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60172",
+            "distance": 25.675,
+            "city": "Roselle",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60666",
+            "distance": 16.968,
+            "city": "Chicago",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60103",
+            "distance": 31.28,
+            "city": "Bartlett",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60177",
+            "distance": 36.63,
+            "city": "South Elgin",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60660",
+            "distance": 10.299,
+            "city": "Chicago",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60659",
+            "distance": 10.927,
+            "city": "Chicago",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60646",
+            "distance": 12.371,
+            "city": "Chicago",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60631",
+            "distance": 14.206,
+            "city": "Chicago",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60009",
+            "distance": 21.659,
+            "city": "Elk Grove Village",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60712",
+            "distance": 12.424,
+            "city": "Lincolnwood",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60007",
+            "distance": 22.261,
+            "city": "Elk Grove Village",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60645",
+            "distance": 11.876,
+            "city": "Chicago",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60193",
+            "distance": 26.834,
+            "city": "Schaumburg",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60626",
+            "distance": 11.621,
+            "city": "Chicago",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60068",
+            "distance": 16.131,
+            "city": "Park Ridge",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60170",
+            "distance": 43.138,
+            "city": "Plato Center",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60124",
+            "distance": 41.702,
+            "city": "Elgin",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60107",
+            "distance": 30.932,
+            "city": "Streamwood",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60714",
+            "distance": 15.885,
+            "city": "Niles",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60121",
+            "distance": 36.062,
+            "city": "Elgin",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60122",
+            "distance": 36.062,
+            "city": "Carol Stream",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60159",
+            "distance": 26.703,
+            "city": "Schaumburg",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60168",
+            "distance": 26.703,
+            "city": "Schaumburg",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60196",
+            "distance": 26.703,
+            "city": "Schaumburg",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60017",
+            "distance": 19.085,
+            "city": "Des Plaines",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60019",
+            "distance": 19.085,
+            "city": "Des Plaines",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60202",
+            "distance": 13.196,
+            "city": "Evanston",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60120",
+            "distance": 34.177,
+            "city": "Elgin",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60077",
+            "distance": 14.791,
+            "city": "Skokie",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60194",
+            "distance": 28.209,
+            "city": "Schaumburg",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60076",
+            "distance": 14.238,
+            "city": "Skokie",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60204",
+            "distance": 13.779,
+            "city": "Evanston",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60208",
+            "distance": 13.779,
+            "city": "Evanston",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60209",
+            "distance": 13.779,
+            "city": "Evanston",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60123",
+            "distance": 37.808,
+            "city": "Elgin",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60053",
+            "distance": 16.063,
+            "city": "Morton Grove",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60203",
+            "distance": 14.899,
+            "city": "Evanston",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60016",
+            "distance": 19.85,
+            "city": "Des Plaines",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60109",
+            "distance": 49.446,
+            "city": "Burlington",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60169",
+            "distance": 29.047,
+            "city": "Hoffman Estates",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60173",
+            "distance": 26.371,
+            "city": "Schaumburg",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60201",
+            "distance": 15.014,
+            "city": "Evanston",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60029",
+            "distance": 16.794,
+            "city": "Golf",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60179",
+            "distance": 29.946,
+            "city": "Hoffman Estates",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60192",
+            "distance": 33.371,
+            "city": "Hoffman Estates",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60005",
+            "distance": 23.986,
+            "city": "Arlington Heights",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60056",
+            "distance": 22.148,
+            "city": "Mount Prospect",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60008",
+            "distance": 25.434,
+            "city": "Rolling Meadows",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60195",
+            "distance": 28.585,
+            "city": "Schaumburg",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60025",
+            "distance": 18.863,
+            "city": "Glenview",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60091",
+            "distance": 16.835,
+            "city": "Wilmette",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60140",
+            "distance": 48.466,
+            "city": "Hampshire",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60043",
+            "distance": 17.486,
+            "city": "Kenilworth",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60006",
+            "distance": 24.918,
+            "city": "Arlington Heights",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60026",
+            "distance": 20.296,
+            "city": "Glenview",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60070",
+            "distance": 23.768,
+            "city": "Prospect Heights",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60136",
+            "distance": 42.818,
+            "city": "Gilberts",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60118",
+            "distance": 39.326,
+            "city": "Dundee",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60067",
+            "distance": 28.934,
+            "city": "Palatine",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60093",
+            "distance": 19.327,
+            "city": "Winnetka",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60038",
+            "distance": 28.143,
+            "city": "Palatine",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60055",
+            "distance": 28.143,
+            "city": "Palatine",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60078",
+            "distance": 28.143,
+            "city": "Palatine",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60094",
+            "distance": 28.143,
+            "city": "Palatine",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60095",
+            "distance": 28.143,
+            "city": "Palatine",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60082",
+            "distance": 20.424,
+            "city": "Techny",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60004",
+            "distance": 25.992,
+            "city": "Arlington Heights",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60110",
+            "distance": 39.025,
+            "city": "Carpentersville",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60065",
+            "distance": 21.748,
+            "city": "Northbrook",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60062",
+            "distance": 22.516,
+            "city": "Northbrook",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60090",
+            "distance": 24.903,
+            "city": "Wheeling",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60074",
+            "distance": 28.614,
+            "city": "Palatine",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60022",
+            "distance": 21.281,
+            "city": "Glencoe",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60010",
+            "distance": 34.698,
+            "city": "Barrington",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60011",
+            "distance": 33.046,
+            "city": "Barrington",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60102",
+            "distance": 41.539,
+            "city": "Algonquin",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60089",
+            "distance": 28.29,
+            "city": "Buffalo Grove",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60049",
+            "distance": 29.289,
+            "city": "Lake Zurich",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60015",
+            "distance": 26.198,
+            "city": "Deerfield",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60142",
+            "distance": 47.866,
+            "city": "Huntley",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60035",
+            "distance": 25.344,
+            "city": "Highland Park",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60021",
+            "distance": 38.867,
+            "city": "Fox River Grove",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60069",
+            "distance": 28.793,
+            "city": "Lincolnshire",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60047",
+            "distance": 32.824,
+            "city": "Lake Zurich",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60156",
+            "distance": 43.51,
+            "city": "Lake In The Hills",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60040",
+            "distance": 26.795,
+            "city": "Highwood",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60037",
+            "distance": 26.964,
+            "city": "Fort Sheridan",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60013",
+            "distance": 40.846,
+            "city": "Cary",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60039",
+            "distance": 44.947,
+            "city": "Crystal Lake",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60014",
+            "distance": 44.927,
+            "city": "Crystal Lake",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60061",
+            "distance": 31.968,
+            "city": "Vernon Hills",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60045",
+            "distance": 29.71,
+            "city": "Lake Forest",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60084",
+            "distance": 39.551,
+            "city": "Wauconda",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60060",
+            "distance": 36.293,
+            "city": "Mundelein",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60012",
+            "distance": 46.099,
+            "city": "Crystal Lake",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60042",
+            "distance": 41.934,
+            "city": "Island Lake",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60092",
+            "distance": 34.401,
+            "city": "Libertyville",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60044",
+            "distance": 32.736,
+            "city": "Lake Bluff",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60048",
+            "distance": 35.348,
+            "city": "Libertyville",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60088",
+            "distance": 34.034,
+            "city": "Great Lakes",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60086",
+            "distance": 34.159,
+            "city": "North Chicago",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60064",
+            "distance": 35.19,
+            "city": "North Chicago",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60050",
+            "distance": 48.086,
+            "city": "Mchenry",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60030",
+            "distance": 40.25,
+            "city": "Grayslake",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60073",
+            "distance": 42.793,
+            "city": "Round Lake",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60085",
+            "distance": 37.204,
+            "city": "Waukegan",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60051",
+            "distance": 46.947,
+            "city": "Mchenry",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60041",
+            "distance": 44.937,
+            "city": "Ingleside",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60079",
+            "distance": 38.246,
+            "city": "Waukegan",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60031",
+            "distance": 39.939,
+            "city": "Gurnee",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60020",
+            "distance": 46.977,
+            "city": "Fox Lake",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60087",
+            "distance": 40.281,
+            "city": "Waukegan",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60046",
+            "distance": 45.335,
+            "city": "Lake Villa",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60083",
+            "distance": 43.979,
+            "city": "Wadsworth",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60075",
+            "distance": 44.827,
+            "city": "Russell",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60099",
+            "distance": 44.252,
+            "city": "Zion",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60002",
+            "distance": 49.308,
+            "city": "Antioch",
+            "state": "IL"
+        },
+        {
+            "zip_code": "60096",
+            "distance": 45.049,
+            "city": "Winthrop Harbor",
+            "state": "IL"
+        },
+        {
+            "zip_code": "53158",
+            "distance": 48.815,
+            "city": "Pleasant Prairie",
+            "state": "WI"
+        }
     ]
 }
