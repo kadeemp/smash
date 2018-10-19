@@ -1,3894 +1,1758 @@
 {
   "SMASH UC Davis": [
-        {
-            "zip_code": "94538",
-            "distance": 73.253,
-            "city": "Fremont",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94560",
-            "distance": 73.642,
-            "city": "Newark",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94539",
-            "distance": 71.931,
-            "city": "Fremont",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94550",
-            "distance": 72.477,
-            "city": "Livermore",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94065",
-            "distance": 74.595,
-            "city": "Redwood City",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94555",
-            "distance": 71.397,
-            "city": "Fremont",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94537",
-            "distance": 70.333,
-            "city": "Fremont",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94404",
-            "distance": 73.539,
-            "city": "San Mateo",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94497",
-            "distance": 74.326,
-            "city": "San Mateo",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94011",
-            "distance": 74.117,
-            "city": "Burlingame",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94010",
-            "distance": 74.667,
-            "city": "Burlingame",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94536",
-            "distance": 68.687,
-            "city": "Fremont",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94586",
-            "distance": 67.79,
-            "city": "Sunol",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94401",
-            "distance": 73.175,
-            "city": "San Mateo",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94030",
-            "distance": 73.718,
-            "city": "Millbrae",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94587",
-            "distance": 66.794,
-            "city": "Union City",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94545",
-            "distance": 67.915,
-            "city": "Hayward",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95385",
-            "distance": 71.734,
-            "city": "Vernalis",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94557",
-            "distance": 66.599,
-            "city": "Hayward",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94066",
-            "distance": 72.899,
-            "city": "San Bruno",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94128",
-            "distance": 71.614,
-            "city": "San Francisco",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94544",
-            "distance": 65.13,
-            "city": "Hayward",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94083",
-            "distance": 71.389,
-            "city": "South San Francisco",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94566",
-            "distance": 62.666,
-            "city": "Pleasanton",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94540",
-            "distance": 64.454,
-            "city": "Hayward",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94080",
-            "distance": 70.755,
-            "city": "South San Francisco",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94542",
-            "distance": 63.139,
-            "city": "Hayward",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94543",
-            "distance": 62.98,
-            "city": "Hayward",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95304",
-            "distance": 64.625,
-            "city": "Tracy",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95350",
-            "distance": 74.584,
-            "city": "Modesto",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94541",
-            "distance": 62.78,
-            "city": "Hayward",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95377",
-            "distance": 62.704,
-            "city": "Tracy",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94580",
-            "distance": 63.358,
-            "city": "San Lorenzo",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94015",
-            "distance": 70.805,
-            "city": "Daly City",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94579",
-            "distance": 63.051,
-            "city": "San Leandro",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94005",
-            "distance": 68.387,
-            "city": "Brisbane",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94017",
-            "distance": 69.978,
-            "city": "Daly City",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94014",
-            "distance": 69.301,
-            "city": "Daly City",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94013",
-            "distance": 68.839,
-            "city": "Daly City",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94016",
-            "distance": 68.839,
-            "city": "Daly City",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94578",
-            "distance": 61.213,
-            "city": "San Leandro",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94160",
-            "distance": 66.863,
-            "city": "San Francisco",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94577",
-            "distance": 61.462,
-            "city": "San Leandro",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95368",
-            "distance": 69.828,
-            "city": "Salida",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94568",
-            "distance": 58.308,
-            "city": "Dublin",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94546",
-            "distance": 59.84,
-            "city": "Castro Valley",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95356",
-            "distance": 71.189,
-            "city": "Modesto",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94614",
-            "distance": 61.63,
-            "city": "Oakland",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94112",
-            "distance": 67.421,
-            "city": "San Francisco",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94134",
-            "distance": 66.568,
-            "city": "San Francisco",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94132",
-            "distance": 68.506,
-            "city": "San Francisco",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94552",
-            "distance": 58.715,
-            "city": "Castro Valley",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94124",
-            "distance": 65.268,
-            "city": "San Francisco",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95367",
-            "distance": 73.546,
-            "city": "Riverbank",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94125",
-            "distance": 65.124,
-            "city": "San Francisco",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94127",
-            "distance": 66.968,
-            "city": "San Francisco",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94603",
-            "distance": 60.166,
-            "city": "Oakland",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95376",
-            "distance": 59.83,
-            "city": "Tracy",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94502",
-            "distance": 61.436,
-            "city": "Alameda",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94188",
-            "distance": 64.521,
-            "city": "San Francisco",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94622",
-            "distance": 60.149,
-            "city": "Oakland",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94624",
-            "distance": 59.772,
-            "city": "Oakland",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95337",
-            "distance": 63.766,
-            "city": "Manteca",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94116",
-            "distance": 67.235,
-            "city": "San Francisco",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94131",
-            "distance": 65.883,
-            "city": "San Francisco",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94621",
-            "distance": 60.15,
-            "city": "Oakland",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94146",
-            "distance": 65.315,
-            "city": "San Francisco",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94110",
-            "distance": 64.893,
-            "city": "San Francisco",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94140",
-            "distance": 64.748,
-            "city": "San Francisco",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94617",
-            "distance": 58.587,
-            "city": "Oakland",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94551",
-            "distance": 55.594,
-            "city": "Livermore",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94583",
-            "distance": 56.019,
-            "city": "San Ramon",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94114",
-            "distance": 64.991,
-            "city": "San Francisco",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94122",
-            "distance": 66.431,
-            "city": "San Francisco",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94172",
-            "distance": 66.205,
-            "city": "San Francisco",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94143",
-            "distance": 65.313,
-            "city": "San Francisco",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94141",
-            "distance": 64.157,
-            "city": "San Francisco",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94107",
-            "distance": 63.841,
-            "city": "San Francisco",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94605",
-            "distance": 58.012,
-            "city": "Oakland",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94582",
-            "distance": 55.093,
-            "city": "San Ramon",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95366",
-            "distance": 65.783,
-            "city": "Ripon",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94158",
-            "distance": 63.019,
-            "city": "San Francisco",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95391",
-            "distance": 55.259,
-            "city": "Tracy",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94117",
-            "distance": 64.679,
-            "city": "San Francisco",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94101",
-            "distance": 63.565,
-            "city": "San Francisco",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94106",
-            "distance": 63.565,
-            "city": "San Francisco",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94135",
-            "distance": 63.565,
-            "city": "San Francisco",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94136",
-            "distance": 63.565,
-            "city": "San Francisco",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94150",
-            "distance": 63.565,
-            "city": "San Francisco",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94152",
-            "distance": 63.565,
-            "city": "San Francisco",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94153",
-            "distance": 63.565,
-            "city": "San Francisco",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94154",
-            "distance": 63.565,
-            "city": "San Francisco",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94155",
-            "distance": 63.565,
-            "city": "San Francisco",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94171",
-            "distance": 63.565,
-            "city": "San Francisco",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94175",
-            "distance": 63.565,
-            "city": "San Francisco",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94199",
-            "distance": 63.565,
-            "city": "San Francisco",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94620",
-            "distance": 58.62,
-            "city": "Piedmont",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94103",
-            "distance": 63.411,
-            "city": "San Francisco",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94501",
-            "distance": 59.895,
-            "city": "Alameda",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94601",
-            "distance": 58.445,
-            "city": "Oakland",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94121",
-            "distance": 65.707,
-            "city": "San Francisco",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94102",
-            "distance": 63.265,
-            "city": "San Francisco",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94144",
-            "distance": 64.447,
-            "city": "San Francisco",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94119",
-            "distance": 64.154,
-            "city": "San Francisco",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94159",
-            "distance": 64.154,
-            "city": "San Francisco",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94164",
-            "distance": 63.258,
-            "city": "San Francisco",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94142",
-            "distance": 62.977,
-            "city": "San Francisco",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94156",
-            "distance": 62.683,
-            "city": "San Francisco",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94162",
-            "distance": 62.683,
-            "city": "San Francisco",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94163",
-            "distance": 62.683,
-            "city": "San Francisco",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94118",
-            "distance": 64.527,
-            "city": "San Francisco",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94613",
-            "distance": 57.367,
-            "city": "Oakland",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94115",
-            "distance": 63.412,
-            "city": "San Francisco",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94105",
-            "distance": 61.919,
-            "city": "San Francisco",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94120",
-            "distance": 62.092,
-            "city": "San Francisco",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94137",
-            "distance": 62.092,
-            "city": "San Francisco",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94138",
-            "distance": 62.092,
-            "city": "San Francisco",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94139",
-            "distance": 62.092,
-            "city": "San Francisco",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94145",
-            "distance": 62.092,
-            "city": "San Francisco",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94161",
-            "distance": 62.092,
-            "city": "San Francisco",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94126",
-            "distance": 61.815,
-            "city": "San Francisco",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94151",
-            "distance": 61.815,
-            "city": "San Francisco",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94177",
-            "distance": 61.815,
-            "city": "San Francisco",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94660",
-            "distance": 58.682,
-            "city": "Oakland",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94619",
-            "distance": 55.952,
-            "city": "Oakland",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94104",
-            "distance": 62.073,
-            "city": "San Francisco",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94606",
-            "distance": 57.992,
-            "city": "Oakland",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94108",
-            "distance": 62.221,
-            "city": "San Francisco",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94588",
-            "distance": 52.721,
-            "city": "Pleasanton",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94109",
-            "distance": 62.426,
-            "city": "San Francisco",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94129",
-            "distance": 63.594,
-            "city": "San Francisco",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94111",
-            "distance": 61.51,
-            "city": "San Francisco",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94147",
-            "distance": 62.398,
-            "city": "San Francisco",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94625",
-            "distance": 59.056,
-            "city": "Oakland",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94615",
-            "distance": 58.551,
-            "city": "Oakland",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94623",
-            "distance": 58.551,
-            "city": "Oakland",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94604",
-            "distance": 57.831,
-            "city": "Oakland",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94649",
-            "distance": 57.831,
-            "city": "Oakland",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94666",
-            "distance": 57.831,
-            "city": "Oakland",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95378",
-            "distance": 53.823,
-            "city": "Tracy",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94123",
-            "distance": 62.583,
-            "city": "San Francisco",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94602",
-            "distance": 56.371,
-            "city": "Oakland",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94133",
-            "distance": 61.555,
-            "city": "San Francisco",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94607",
-            "distance": 58.396,
-            "city": "Oakland",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94612",
-            "distance": 57.502,
-            "city": "Oakland",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95330",
-            "distance": 57.845,
-            "city": "Lathrop",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94506",
-            "distance": 51.819,
-            "city": "Danville",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94659",
-            "distance": 57.207,
-            "city": "Oakland",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94610",
-            "distance": 56.701,
-            "city": "Oakland",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94526",
-            "distance": 52.158,
-            "city": "Danville",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94661",
-            "distance": 55.214,
-            "city": "Oakland",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94130",
-            "distance": 59.42,
-            "city": "San Francisco",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95320",
-            "distance": 66.245,
-            "city": "Escalon",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94514",
-            "distance": 51.183,
-            "city": "Byron",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94611",
-            "distance": 54.696,
-            "city": "Oakland",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95336",
-            "distance": 59.603,
-            "city": "Manteca",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94516",
-            "distance": 53.601,
-            "city": "Canyon",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94609",
-            "distance": 55.807,
-            "city": "Oakland",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94608",
-            "distance": 56.276,
-            "city": "Emeryville",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94662",
-            "distance": 56.099,
-            "city": "Emeryville",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94556",
-            "distance": 52.214,
-            "city": "Moraga",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94575",
-            "distance": 52.094,
-            "city": "Moraga",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94618",
-            "distance": 54.534,
-            "city": "Oakland",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94528",
-            "distance": 49.652,
-            "city": "Diablo",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94507",
-            "distance": 50.108,
-            "city": "Alamo",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94965",
-            "distance": 63.25,
-            "city": "Sausalito",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94966",
-            "distance": 60.909,
-            "city": "Sausalito",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94701",
-            "distance": 54.365,
-            "city": "Berkeley",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94712",
-            "distance": 54.118,
-            "city": "Berkeley",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94710",
-            "distance": 55.097,
-            "city": "Berkeley",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94703",
-            "distance": 54.275,
-            "city": "Berkeley",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94705",
-            "distance": 53.262,
-            "city": "Berkeley",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94702",
-            "distance": 54.449,
-            "city": "Berkeley",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94704",
-            "distance": 53.675,
-            "city": "Berkeley",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94529",
-            "distance": 49.06,
-            "city": "Concord",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94505",
-            "distance": 48.4,
-            "city": "Discovery Bay",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94595",
-            "distance": 49.379,
-            "city": "Walnut Creek",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95231",
-            "distance": 54.508,
-            "city": "French Camp",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94720",
-            "distance": 53.142,
-            "city": "Berkeley",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94709",
-            "distance": 53.122,
-            "city": "Berkeley",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94563",
-            "distance": 51.086,
-            "city": "Orinda",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94920",
-            "distance": 58.802,
-            "city": "Belvedere Tiburon",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94596",
-            "distance": 47.753,
-            "city": "Walnut Creek",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94706",
-            "distance": 53.258,
-            "city": "Albany",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94517",
-            "distance": 46.08,
-            "city": "Clayton",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94549",
-            "distance": 48.54,
-            "city": "Lafayette",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94941",
-            "distance": 61.491,
-            "city": "Mill Valley",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94707",
-            "distance": 52.297,
-            "city": "Berkeley",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94598",
-            "distance": 46.5,
-            "city": "Walnut Creek",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94942",
-            "distance": 59.817,
-            "city": "Mill Valley",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95201",
-            "distance": 55.021,
-            "city": "Stockton",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94850",
-            "distance": 53.128,
-            "city": "Richmond",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94708",
-            "distance": 51.55,
-            "city": "Berkeley",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94970",
-            "distance": 63.828,
-            "city": "Stinson Beach",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94804",
-            "distance": 53.006,
-            "city": "Richmond",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94597",
-            "distance": 46.378,
-            "city": "Walnut Creek",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95206",
-            "distance": 48.521,
-            "city": "Stockton",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94976",
-            "distance": 58.777,
-            "city": "Corte Madera",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94807",
-            "distance": 53.07,
-            "city": "Richmond",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94530",
-            "distance": 51.451,
-            "city": "El Cerrito",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94513",
-            "distance": 44.228,
-            "city": "Brentwood",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95234",
-            "distance": 45.833,
-            "city": "Holt",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94977",
-            "distance": 58.62,
-            "city": "Larkspur",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94802",
-            "distance": 52.501,
-            "city": "Richmond",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94808",
-            "distance": 52.202,
-            "city": "Richmond",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94925",
-            "distance": 57.708,
-            "city": "Corte Madera",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94939",
-            "distance": 58.343,
-            "city": "Larkspur",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94914",
-            "distance": 58.11,
-            "city": "Kentfield",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94805",
-            "distance": 50.943,
-            "city": "Richmond",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94924",
-            "distance": 65.6,
-            "city": "Bolinas",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94964",
-            "distance": 56.559,
-            "city": "San Quentin",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94930",
-            "distance": 61.224,
-            "city": "Fairfax",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94904",
-            "distance": 58.976,
-            "city": "Greenbrae",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95215",
-            "distance": 54.37,
-            "city": "Stockton",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94974",
-            "distance": 57.994,
-            "city": "San Quentin",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94915",
-            "distance": 56.505,
-            "city": "San Rafael",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95208",
-            "distance": 46.284,
-            "city": "Stockton",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95213",
-            "distance": 46.284,
-            "city": "Stockton",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94518",
-            "distance": 43.452,
-            "city": "Concord",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95203",
-            "distance": 48.735,
-            "city": "Stockton",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94801",
-            "distance": 52.246,
-            "city": "Richmond",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94523",
-            "distance": 44.113,
-            "city": "Pleasant Hill",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94521",
-            "distance": 42.21,
-            "city": "Concord",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94803",
-            "distance": 48.796,
-            "city": "El Sobrante",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95202",
-            "distance": 49.521,
-            "city": "Stockton",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95297",
-            "distance": 49.16,
-            "city": "Stockton",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94957",
-            "distance": 58.244,
-            "city": "Ross",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95205",
-            "distance": 50.131,
-            "city": "Stockton",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94531",
-            "distance": 40.67,
-            "city": "Antioch",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94979",
-            "distance": 57.777,
-            "city": "San Anselmo",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94912",
-            "distance": 55.489,
-            "city": "San Rafael",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94820",
-            "distance": 48.378,
-            "city": "El Sobrante",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94524",
-            "distance": 42.608,
-            "city": "Concord",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94527",
-            "distance": 42.608,
-            "city": "Concord",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95204",
-            "distance": 47.785,
-            "city": "Stockton",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94548",
-            "distance": 40.849,
-            "city": "Knightsen",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94901",
-            "distance": 54.991,
-            "city": "San Rafael",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95211",
-            "distance": 47.637,
-            "city": "Stockton",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94978",
-            "distance": 58.061,
-            "city": "Fairfax",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94806",
-            "distance": 49.242,
-            "city": "San Pablo",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94519",
-            "distance": 40.785,
-            "city": "Concord",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94553",
-            "distance": 42.835,
-            "city": "Martinez",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94561",
-            "distance": 39.142,
-            "city": "Oakley",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94564",
-            "distance": 46.769,
-            "city": "Pinole",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94520",
-            "distance": 40.79,
-            "city": "Concord",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94960",
-            "distance": 57.245,
-            "city": "San Anselmo",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94509",
-            "distance": 38.538,
-            "city": "Antioch",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95267",
-            "distance": 46.552,
-            "city": "Stockton",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95230",
-            "distance": 62.023,
-            "city": "Farmington",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95207",
-            "distance": 45.976,
-            "city": "Stockton",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94522",
-            "distance": 39.473,
-            "city": "Concord",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95269",
-            "distance": 45.681,
-            "city": "Stockton",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94547",
-            "distance": 45.217,
-            "city": "Hercules",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94933",
-            "distance": 61.04,
-            "city": "Forest Knolls",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94973",
-            "distance": 58.995,
-            "city": "Woodacre",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94963",
-            "distance": 60.257,
-            "city": "San Geronimo",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94565",
-            "distance": 37.739,
-            "city": "Pittsburg",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94913",
-            "distance": 54.601,
-            "city": "San Rafael",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95296",
-            "distance": 45.749,
-            "city": "Stockton",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94903",
-            "distance": 55.113,
-            "city": "San Rafael",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94950",
-            "distance": 63.71,
-            "city": "Olema",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94511",
-            "distance": 37.282,
-            "city": "Bethel Island",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94938",
-            "distance": 62.047,
-            "city": "Lagunitas",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95236",
-            "distance": 55.452,
-            "city": "Linden",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95210",
-            "distance": 45.237,
-            "city": "Stockton",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94572",
-            "distance": 43.626,
-            "city": "Rodeo",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94569",
-            "distance": 41.384,
-            "city": "Port Costa",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94956",
-            "distance": 67.488,
-            "city": "Point Reyes Station",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95209",
-            "distance": 42.559,
-            "city": "Stockton",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95212",
-            "distance": 46.409,
-            "city": "Stockton",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95219",
-            "distance": 38.691,
-            "city": "Stockton",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94525",
-            "distance": 41.861,
-            "city": "Crockett",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94949",
-            "distance": 51.45,
-            "city": "Novato",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95222",
-            "distance": 71.502,
-            "city": "Angels Camp",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94946",
-            "distance": 57.454,
-            "city": "Nicasio",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94592",
-            "distance": 41.278,
-            "city": "Vallejo",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94510",
-            "distance": 36.436,
-            "city": "Benicia",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94998",
-            "distance": 52.294,
-            "city": "Novato",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94590",
-            "distance": 39.598,
-            "city": "Vallejo",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94570",
-            "distance": 35.567,
-            "city": "Moraga",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94947",
-            "distance": 54.636,
-            "city": "Novato",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95240",
-            "distance": 46.674,
-            "city": "Lodi",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94937",
-            "distance": 68.406,
-            "city": "Inverness",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94591",
-            "distance": 36.809,
-            "city": "Vallejo",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94948",
-            "distance": 50.637,
-            "city": "Novato",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94945",
-            "distance": 49.012,
-            "city": "Novato",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94512",
-            "distance": 29.036,
-            "city": "Birds Landing",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95242",
-            "distance": 36.511,
-            "city": "Lodi",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95253",
-            "distance": 43.236,
-            "city": "Victor",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95641",
-            "distance": 30.743,
-            "city": "Isleton",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94571",
-            "distance": 28.197,
-            "city": "Rio Vista",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95252",
-            "distance": 58.647,
-            "city": "Valley Springs",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95241",
-            "distance": 38.85,
-            "city": "Lodi",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95686",
-            "distance": 31.252,
-            "city": "Thornton",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95237",
-            "distance": 44.379,
-            "city": "Lockeford",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94589",
-            "distance": 35.813,
-            "city": "Vallejo",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95258",
-            "distance": 37.208,
-            "city": "Woodbridge",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94940",
-            "distance": 64.26,
-            "city": "Marshall",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94503",
-            "distance": 35.792,
-            "city": "American Canyon",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95249",
-            "distance": 67.692,
-            "city": "San Andreas",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94585",
-            "distance": 25.953,
-            "city": "Suisun City",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95254",
-            "distance": 51.932,
-            "city": "Wallace",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95225",
-            "distance": 55.828,
-            "city": "Burson",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95690",
-            "distance": 26.368,
-            "city": "Walnut Grove",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95220",
-            "distance": 39.097,
-            "city": "Acampo",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95227",
-            "distance": 46.924,
-            "city": "Clements",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94955",
-            "distance": 46.802,
-            "city": "Petaluma",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95246",
-            "distance": 73.087,
-            "city": "Mountain Ranch",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95226",
-            "distance": 55.712,
-            "city": "Campo Seco",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94971",
-            "distance": 65.12,
-            "city": "Tomales",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94559",
-            "distance": 35.492,
-            "city": "Napa",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94952",
-            "distance": 56.58,
-            "city": "Petaluma",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94954",
-            "distance": 46.65,
-            "city": "Petaluma",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95680",
-            "distance": 24.501,
-            "city": "Ryde",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94534",
-            "distance": 28.12,
-            "city": "Fairfield",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95476",
-            "distance": 41.882,
-            "city": "Sonoma",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95487",
-            "distance": 41.087,
-            "city": "Vineburg",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94929",
-            "distance": 66.396,
-            "city": "Dillon Beach",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94953",
-            "distance": 49.416,
-            "city": "Petaluma",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95632",
-            "distance": 35.007,
-            "city": "Galt",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94533",
-            "distance": 21.992,
-            "city": "Fairfield",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94535",
-            "distance": 19.999,
-            "city": "Travis Afb",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94972",
-            "distance": 65.991,
-            "city": "Valley Ford",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95433",
-            "distance": 41.173,
-            "city": "El Verano",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94581",
-            "distance": 31.834,
-            "city": "Napa",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95245",
-            "distance": 65.822,
-            "city": "Mokelumne Hill",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95416",
-            "distance": 40.575,
-            "city": "Boyes Hot Springs",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95696",
-            "distance": 18.115,
-            "city": "Vacaville",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95638",
-            "distance": 40.109,
-            "city": "Herald",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95248",
-            "distance": 74.195,
-            "city": "Rail Road Flat",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95615",
-            "distance": 20.941,
-            "city": "Courtland",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94926",
-            "distance": 51.419,
-            "city": "Rohnert Park",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94975",
-            "distance": 48.339,
-            "city": "Petaluma",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94999",
-            "distance": 48.339,
-            "city": "Petaluma",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94951",
-            "distance": 48.641,
-            "city": "Penngrove",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94931",
-            "distance": 52.066,
-            "city": "Cotati",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95640",
-            "distance": 48.247,
-            "city": "Ione",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95687",
-            "distance": 16.639,
-            "city": "Vacaville",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94923",
-            "distance": 68.532,
-            "city": "Bodega Bay",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94927",
-            "distance": 50.461,
-            "city": "Rohnert Park",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95642",
-            "distance": 57.981,
-            "city": "Jackson",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95757",
-            "distance": 24.576,
-            "city": "Elk Grove",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94922",
-            "distance": 63.909,
-            "city": "Bodega",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94928",
-            "distance": 50.568,
-            "city": "Rohnert Park",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95431",
-            "distance": 41.425,
-            "city": "Eldridge",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95232",
-            "distance": 66.596,
-            "city": "Glencoe",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95625",
-            "distance": 14.872,
-            "city": "Elmira",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95654",
-            "distance": 56.185,
-            "city": "Martell",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95442",
-            "distance": 39.366,
-            "city": "Glen Ellen",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95257",
-            "distance": 74.044,
-            "city": "Wilseyville",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95612",
-            "distance": 16.672,
-            "city": "Clarksburg",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95639",
-            "distance": 19.781,
-            "city": "Hood",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95407",
-            "distance": 52.422,
-            "city": "Santa Rosa",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95472",
-            "distance": 58.543,
-            "city": "Sebastopol",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95693",
-            "distance": 33.55,
-            "city": "Wilton",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95473",
-            "distance": 56.275,
-            "city": "Sebastopol",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95759",
-            "distance": 25.484,
-            "city": "Elk Grove",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95665",
-            "distance": 63.097,
-            "city": "Pine Grove",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95688",
-            "distance": 15.772,
-            "city": "Vacaville",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94599",
-            "distance": 32.052,
-            "city": "Yountville",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95620",
-            "distance": 10.036,
-            "city": "Dixon",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95255",
-            "distance": 72.178,
-            "city": "West Point",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95419",
-            "distance": 62.97,
-            "city": "Camp Meeker",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94562",
-            "distance": 33.831,
-            "city": "Oakville",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95465",
-            "distance": 69.056,
-            "city": "Occidental",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95452",
-            "distance": 40.826,
-            "city": "Kenwood",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95601",
-            "distance": 53.315,
-            "city": "Amador City",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95624",
-            "distance": 27.576,
-            "city": "Elk Grove",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95758",
-            "distance": 21.017,
-            "city": "Elk Grove",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95444",
-            "distance": 58.509,
-            "city": "Graton",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95685",
-            "distance": 56.657,
-            "city": "Sutter Creek",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95699",
-            "distance": 51.518,
-            "city": "Drytown",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95405",
-            "distance": 47.631,
-            "city": "Santa Rosa",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94558",
-            "distance": 25.025,
-            "city": "Napa",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95832",
-            "distance": 17.925,
-            "city": "Sacramento",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95401",
-            "distance": 54.331,
-            "city": "Santa Rosa",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95406",
-            "distance": 50.364,
-            "city": "Santa Rosa",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95644",
-            "distance": 69.491,
-            "city": "Kit Carson",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94573",
-            "distance": 34.737,
-            "city": "Rutherford",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95430",
-            "distance": 67.835,
-            "city": "Duncans Mills",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95462",
-            "distance": 66.288,
-            "city": "Monte Rio",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95409",
-            "distance": 42.722,
-            "city": "Santa Rosa",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95402",
-            "distance": 43.724,
-            "city": "Santa Rosa",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94205",
-            "distance": 20.215,
-            "city": "Sacramento",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94230",
-            "distance": 20.215,
-            "city": "Sacramento",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94283",
-            "distance": 20.215,
-            "city": "Sacramento",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95486",
-            "distance": 66.517,
-            "city": "Villa Grande",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95823",
-            "distance": 19.956,
-            "city": "Sacramento",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95689",
-            "distance": 64.328,
-            "city": "Volcano",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95669",
-            "distance": 48.849,
-            "city": "Plymouth",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95436",
-            "distance": 60.05,
-            "city": "Forestville",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95828",
-            "distance": 22.207,
-            "city": "Sacramento",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95829",
-            "distance": 26.061,
-            "city": "Sacramento",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94206",
-            "distance": 19.346,
-            "city": "Sacramento",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95830",
-            "distance": 28.128,
-            "city": "Sacramento",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95439",
-            "distance": 53.097,
-            "city": "Fulton",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95831",
-            "distance": 15.14,
-            "city": "Sacramento",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95813",
-            "distance": 21.329,
-            "city": "Sacramento",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95450",
-            "distance": 74.292,
-            "city": "Jenner",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95403",
-            "distance": 51.774,
-            "city": "Santa Rosa",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95683",
-            "distance": 38.047,
-            "city": "Sloughhouse",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95822",
-            "distance": 16.721,
-            "city": "Sacramento",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95629",
-            "distance": 60.038,
-            "city": "Fiddletown",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95824",
-            "distance": 19.488,
-            "city": "Sacramento",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95471",
-            "distance": 63.294,
-            "city": "Rio Nido",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95404",
-            "distance": 48.251,
-            "city": "Santa Rosa",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95446",
-            "distance": 65.391,
-            "city": "Guerneville",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95492",
-            "distance": 55.33,
-            "city": "Windsor",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95799",
-            "distance": 13.511,
-            "city": "West Sacramento",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95820",
-            "distance": 19.181,
-            "city": "Sacramento",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95617",
-            "distance": 4.354,
-            "city": "Davis",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94574",
-            "distance": 33.602,
-            "city": "Saint Helena",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95618",
-            "distance": 6.361,
-            "city": "Davis",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95826",
-            "distance": 22.737,
-            "city": "Sacramento",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95675",
-            "distance": 57.156,
-            "city": "River Pines",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95655",
-            "distance": 28.083,
-            "city": "Mather",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94576",
-            "distance": 36.657,
-            "city": "Deer Park",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94232",
-            "distance": 16.659,
-            "city": "Sacramento",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94239",
-            "distance": 16.659,
-            "city": "Sacramento",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94259",
-            "distance": 16.659,
-            "city": "Sacramento",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94269",
-            "distance": 16.659,
-            "city": "Sacramento",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94284",
-            "distance": 16.659,
-            "city": "Sacramento",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94285",
-            "distance": 16.659,
-            "city": "Sacramento",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94286",
-            "distance": 16.659,
-            "city": "Sacramento",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94290",
-            "distance": 16.659,
-            "city": "Sacramento",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94291",
-            "distance": 16.659,
-            "city": "Sacramento",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94293",
-            "distance": 16.659,
-            "city": "Sacramento",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94294",
-            "distance": 16.659,
-            "city": "Sacramento",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94297",
-            "distance": 16.659,
-            "city": "Sacramento",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95894",
-            "distance": 16.659,
-            "city": "Sacramento",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95817",
-            "distance": 18.484,
-            "city": "Sacramento",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95616",
-            "distance": 0,
-            "city": "Davis",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95818",
-            "distance": 16.284,
-            "city": "Sacramento",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95827",
-            "distance": 25.603,
-            "city": "Sacramento",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94299",
-            "distance": 18.27,
-            "city": "Sacramento",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95656",
-            "distance": 58.788,
-            "city": "Mount Aukum",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95694",
-            "distance": 15.233,
-            "city": "Winters",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95819",
-            "distance": 19.378,
-            "city": "Sacramento",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95798",
-            "distance": 12.924,
-            "city": "West Sacramento",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95899",
-            "distance": 15.084,
-            "city": "Sacramento",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94296",
-            "distance": 16.165,
-            "city": "Sacramento",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94249",
-            "distance": 18.296,
-            "city": "Sacramento",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94278",
-            "distance": 18.296,
-            "city": "Sacramento",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95816",
-            "distance": 17.963,
-            "city": "Sacramento",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94508",
-            "distance": 34.949,
-            "city": "Angwin",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95742",
-            "distance": 32.264,
-            "city": "Rancho Cordova",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94203",
-            "distance": 16.748,
-            "city": "Sacramento",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94207",
-            "distance": 16.748,
-            "city": "Sacramento",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94208",
-            "distance": 16.748,
-            "city": "Sacramento",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94209",
-            "distance": 16.748,
-            "city": "Sacramento",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94211",
-            "distance": 16.748,
-            "city": "Sacramento",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94229",
-            "distance": 16.748,
-            "city": "Sacramento",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94234",
-            "distance": 16.748,
-            "city": "Sacramento",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94235",
-            "distance": 16.748,
-            "city": "Sacramento",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94236",
-            "distance": 16.748,
-            "city": "Sacramento",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94237",
-            "distance": 16.748,
-            "city": "Sacramento",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94240",
-            "distance": 16.748,
-            "city": "Sacramento",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94244",
-            "distance": 16.748,
-            "city": "Sacramento",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94245",
-            "distance": 16.748,
-            "city": "Sacramento",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94246",
-            "distance": 16.748,
-            "city": "Sacramento",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94247",
-            "distance": 16.748,
-            "city": "Sacramento",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94248",
-            "distance": 16.748,
-            "city": "Sacramento",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94250",
-            "distance": 16.748,
-            "city": "Sacramento",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94252",
-            "distance": 16.748,
-            "city": "Sacramento",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94254",
-            "distance": 16.748,
-            "city": "Sacramento",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94256",
-            "distance": 16.748,
-            "city": "Sacramento",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94257",
-            "distance": 16.748,
-            "city": "Sacramento",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94258",
-            "distance": 16.748,
-            "city": "Sacramento",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94261",
-            "distance": 16.748,
-            "city": "Sacramento",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94262",
-            "distance": 16.748,
-            "city": "Sacramento",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94263",
-            "distance": 16.748,
-            "city": "Sacramento",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94267",
-            "distance": 16.748,
-            "city": "Sacramento",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94268",
-            "distance": 16.748,
-            "city": "Sacramento",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94271",
-            "distance": 16.748,
-            "city": "Sacramento",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94273",
-            "distance": 16.748,
-            "city": "Sacramento",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94274",
-            "distance": 16.748,
-            "city": "Sacramento",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94277",
-            "distance": 16.748,
-            "city": "Sacramento",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94279",
-            "distance": 16.748,
-            "city": "Sacramento",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94280",
-            "distance": 16.748,
-            "city": "Sacramento",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94282",
-            "distance": 16.748,
-            "city": "Sacramento",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94287",
-            "distance": 16.748,
-            "city": "Sacramento",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94288",
-            "distance": 16.748,
-            "city": "Sacramento",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94289",
-            "distance": 16.748,
-            "city": "Sacramento",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94295",
-            "distance": 16.748,
-            "city": "Sacramento",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94298",
-            "distance": 16.748,
-            "city": "Sacramento",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95812",
-            "distance": 16.748,
-            "city": "Sacramento",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95840",
-            "distance": 16.748,
-            "city": "Sacramento",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95867",
-            "distance": 16.748,
-            "city": "Sacramento",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95741",
-            "distance": 26.988,
-            "city": "Rancho Cordova",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95814",
-            "distance": 16.445,
-            "city": "Sacramento",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95811",
-            "distance": 17.419,
-            "city": "Sacramento",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95864",
-            "distance": 22.905,
-            "city": "Sacramento",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95865",
-            "distance": 21.653,
-            "city": "Sacramento",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95866",
-            "distance": 21.653,
-            "city": "Sacramento",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95825",
-            "distance": 21.208,
-            "city": "Sacramento",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95684",
-            "distance": 65.605,
-            "city": "Somerset",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95605",
-            "distance": 14.221,
-            "city": "West Sacramento",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94204",
-            "distance": 19.601,
-            "city": "Sacramento",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95851",
-            "distance": 19.601,
-            "city": "Sacramento",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95852",
-            "distance": 19.601,
-            "city": "Sacramento",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95853",
-            "distance": 19.601,
-            "city": "Sacramento",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95623",
-            "distance": 50.962,
-            "city": "El Dorado",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95670",
-            "distance": 28.19,
-            "city": "Rancho Cordova",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95815",
-            "distance": 19.268,
-            "city": "Sacramento",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95860",
-            "distance": 22.918,
-            "city": "Sacramento",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95887",
-            "distance": 23.987,
-            "city": "Sacramento",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95682",
-            "distance": 45.204,
-            "city": "Shingle Springs",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95833",
-            "distance": 15.813,
-            "city": "Sacramento",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95609",
-            "distance": 26.236,
-            "city": "Carmichael",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95448",
-            "distance": 59.107,
-            "city": "Healdsburg",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95608",
-            "distance": 26.013,
-            "city": "Carmichael",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95821",
-            "distance": 22.851,
-            "city": "Sacramento",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95691",
-            "distance": 12.195,
-            "city": "West Sacramento",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95421",
-            "distance": 73.757,
-            "city": "Cazadero",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94515",
-            "distance": 44.472,
-            "city": "Calistoga",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95834",
-            "distance": 16.105,
-            "city": "Sacramento",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95838",
-            "distance": 20.081,
-            "city": "Sacramento",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95628",
-            "distance": 30.129,
-            "city": "Fair Oaks",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95841",
-            "distance": 25.429,
-            "city": "Sacramento",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95652",
-            "distance": 22.718,
-            "city": "Mcclellan",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95630",
-            "distance": 36.291,
-            "city": "Folsom",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95763",
-            "distance": 34.835,
-            "city": "Folsom",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95671",
-            "distance": 36.433,
-            "city": "Represa",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95835",
-            "distance": 16.753,
-            "city": "Sacramento",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95660",
-            "distance": 24.161,
-            "city": "North Highlands",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95619",
-            "distance": 53.823,
-            "city": "Diamond Springs",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95762",
-            "distance": 40.671,
-            "city": "El Dorado Hills",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95842",
-            "distance": 25.923,
-            "city": "Sacramento",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95695",
-            "distance": 9.718,
-            "city": "Woodland",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95662",
-            "distance": 32.661,
-            "city": "Orangevale",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95673",
-            "distance": 20.553,
-            "city": "Rio Linda",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95837",
-            "distance": 14.454,
-            "city": "Sacramento",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95610",
-            "distance": 30.041,
-            "city": "Citrus Heights",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95621",
-            "distance": 28.194,
-            "city": "Citrus Heights",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95653",
-            "distance": 13.855,
-            "city": "Madison",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95776",
-            "distance": 11.316,
-            "city": "Woodland",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95611",
-            "distance": 29.718,
-            "city": "Citrus Heights",
-            "state": "CA"
-        },
-        {
-            "zip_code": "94567",
-            "distance": 33.849,
-            "city": "Pope Valley",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95836",
-            "distance": 17.62,
-            "city": "Sacramento",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95843",
-            "distance": 25.982,
-            "city": "Antelope",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95672",
-            "distance": 45.721,
-            "city": "Rescue",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95441",
-            "distance": 61.074,
-            "city": "Geyserville",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95697",
-            "distance": 12.329,
-            "city": "Yolo",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95626",
-            "distance": 21.676,
-            "city": "Elverta",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95627",
-            "distance": 17.47,
-            "city": "Esparto",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95667",
-            "distance": 55.833,
-            "city": "Placerville",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95661",
-            "distance": 32.398,
-            "city": "Roseville",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95746",
-            "distance": 35.935,
-            "city": "Granite Bay",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95709",
-            "distance": 62.089,
-            "city": "Camino",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95461",
-            "distance": 43.201,
-            "city": "Middletown",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95606",
-            "distance": 25.565,
-            "city": "Brooks",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95678",
-            "distance": 31.128,
-            "city": "Roseville",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95747",
-            "distance": 27.821,
-            "city": "Roseville",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95677",
-            "distance": 34.511,
-            "city": "Rocklin",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95613",
-            "distance": 52.372,
-            "city": "Coloma",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95726",
-            "distance": 71.857,
-            "city": "Pollock Pines",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95664",
-            "distance": 44.423,
-            "city": "Pilot Hill",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95467",
-            "distance": 43.701,
-            "city": "Hidden Valley Lake",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95650",
-            "distance": 38.125,
-            "city": "Loomis",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95765",
-            "distance": 33.265,
-            "city": "Rocklin",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95698",
-            "distance": 19.101,
-            "city": "Zamora",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95651",
-            "distance": 50.293,
-            "city": "Lotus",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95425",
-            "distance": 70.741,
-            "city": "Cloverdale",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95607",
-            "distance": 26.057,
-            "city": "Capay",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95426",
-            "distance": 54.02,
-            "city": "Cobb",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95668",
-            "distance": 25.194,
-            "city": "Pleasant Grove",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95637",
-            "distance": 30.566,
-            "city": "Guinda",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95633",
-            "distance": 55.831,
-            "city": "Garden Valley",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95659",
-            "distance": 23.348,
-            "city": "Nicolaus",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95663",
-            "distance": 39.209,
-            "city": "Penryn",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95658",
-            "distance": 40.753,
-            "city": "Newcastle",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95457",
-            "distance": 45.652,
-            "city": "Lower Lake",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95645",
-            "distance": 22.874,
-            "city": "Knights Landing",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95937",
-            "distance": 25.303,
-            "city": "Dunnigan",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95614",
-            "distance": 49.745,
-            "city": "Cool",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95679",
-            "distance": 37.95,
-            "city": "Rumsey",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95604",
-            "distance": 46.403,
-            "city": "Auburn",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95635",
-            "distance": 53.918,
-            "city": "Greenwood",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95603",
-            "distance": 46.062,
-            "city": "Auburn",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95451",
-            "distance": 59.161,
-            "city": "Kelseyville",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95648",
-            "distance": 36.552,
-            "city": "Lincoln",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95634",
-            "distance": 61.296,
-            "city": "Georgetown",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95676",
-            "distance": 26.844,
-            "city": "Robbins",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95674",
-            "distance": 32.468,
-            "city": "Rio Oso",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95424",
-            "distance": 54.598,
-            "city": "Clearlake Park",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95422",
-            "distance": 53.065,
-            "city": "Clearlake",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95703",
-            "distance": 53.272,
-            "city": "Applegate",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95602",
-            "distance": 47.567,
-            "city": "Auburn",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95991",
-            "distance": 32.314,
-            "city": "Yuba City",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95681",
-            "distance": 38.778,
-            "city": "Sheridan",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95435",
-            "distance": 65.651,
-            "city": "Finley",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95722",
-            "distance": 51.8,
-            "city": "Meadow Vista",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95912",
-            "distance": 34.982,
-            "city": "Arbuckle",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95992",
-            "distance": 33.748,
-            "city": "Yuba City",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95736",
-            "distance": 55.439,
-            "city": "Weimar",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95961",
-            "distance": 35.948,
-            "city": "Olivehurst",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95692",
-            "distance": 39.732,
-            "city": "Wheatland",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95950",
-            "distance": 34.417,
-            "city": "Grimes",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95453",
-            "distance": 70.305,
-            "city": "Lakeport",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95631",
-            "distance": 64.068,
-            "city": "Foresthill",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95443",
-            "distance": 61.845,
-            "city": "Glenhaven",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95957",
-            "distance": 35.051,
-            "city": "Meridian",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95423",
-            "distance": 56.856,
-            "city": "Clearlake Oaks",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95993",
-            "distance": 37.053,
-            "city": "Yuba City",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95949",
-            "distance": 51.752,
-            "city": "Grass Valley",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95987",
-            "distance": 46.149,
-            "city": "Williams",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95903",
-            "distance": 44.617,
-            "city": "Beale Afb",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95713",
-            "distance": 62.748,
-            "city": "Colfax",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95464",
-            "distance": 69.078,
-            "city": "Nice",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95717",
-            "distance": 65.205,
-            "city": "Gold Run",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95712",
-            "distance": 61.918,
-            "city": "Chicago Park",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95458",
-            "distance": 66,
-            "city": "Lucerne",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95982",
-            "distance": 42.741,
-            "city": "Sutter",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95977",
-            "distance": 50.913,
-            "city": "Smartsville",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95924",
-            "distance": 60.68,
-            "city": "Cedar Ridge",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95945",
-            "distance": 62.801,
-            "city": "Grass Valley",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95714",
-            "distance": 68.164,
-            "city": "Dutch Flat",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95946",
-            "distance": 55.781,
-            "city": "Penn Valley",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95901",
-            "distance": 49.085,
-            "city": "Marysville",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95975",
-            "distance": 57.917,
-            "city": "Rough And Ready",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95701",
-            "distance": 72.348,
-            "city": "Alta",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95953",
-            "distance": 48.714,
-            "city": "Live Oak",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95932",
-            "distance": 50.163,
-            "city": "Colusa",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95955",
-            "distance": 55.56,
-            "city": "Maxwell",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95918",
-            "distance": 57.236,
-            "city": "Browns Valley",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95979",
-            "distance": 64.326,
-            "city": "Stonyford",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95948",
-            "distance": 54.267,
-            "city": "Gridley",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95962",
-            "distance": 61.69,
-            "city": "Oregon House",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95959",
-            "distance": 72.389,
-            "city": "Nevada City",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95935",
-            "distance": 65.659,
-            "city": "Dobbins",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95970",
-            "distance": 60.018,
-            "city": "Princeton",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95960",
-            "distance": 71.585,
-            "city": "North San Juan",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95917",
-            "distance": 59.155,
-            "city": "Biggs",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95919",
-            "distance": 67.212,
-            "city": "Brownsville",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95968",
-            "distance": 62.295,
-            "city": "Palermo",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95914",
-            "distance": 66.73,
-            "city": "Bangor",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95920",
-            "distance": 62.326,
-            "city": "Butte City",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95972",
-            "distance": 67.216,
-            "city": "Rackerby",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95966",
-            "distance": 66.902,
-            "city": "Oroville",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95974",
-            "distance": 64.022,
-            "city": "Richvale",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95925",
-            "distance": 72.01,
-            "city": "Challenge",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95988",
-            "distance": 69.398,
-            "city": "Willows",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95940",
-            "distance": 67.373,
-            "city": "Feather Falls",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95941",
-            "distance": 72.676,
-            "city": "Forbestown",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95958",
-            "distance": 68.824,
-            "city": "Nelson",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95943",
-            "distance": 72.311,
-            "city": "Glenn",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95965",
-            "distance": 72.777,
-            "city": "Oroville",
-            "state": "CA"
-        },
-        {
-            "zip_code": "95938",
-            "distance": 72.588,
-            "city": "Durham",
-            "state": "CA"
-        }
-    ],
+      {
+          "zip_code": "94505",
+          "distance": 48.4,
+          "city": "Discovery Bay",
+          "state": "CA"
+      },
+      {
+          "zip_code": "94596",
+          "distance": 47.753,
+          "city": "Walnut Creek",
+          "state": "CA"
+      },
+      {
+          "zip_code": "94517",
+          "distance": 46.08,
+          "city": "Clayton",
+          "state": "CA"
+      },
+      {
+          "zip_code": "94549",
+          "distance": 48.54,
+          "city": "Lafayette",
+          "state": "CA"
+      },
+      {
+          "zip_code": "94598",
+          "distance": 46.5,
+          "city": "Walnut Creek",
+          "state": "CA"
+      },
+      {
+          "zip_code": "94597",
+          "distance": 46.378,
+          "city": "Walnut Creek",
+          "state": "CA"
+      },
+      {
+          "zip_code": "95206",
+          "distance": 48.521,
+          "city": "Stockton",
+          "state": "CA"
+      },
+      {
+          "zip_code": "94513",
+          "distance": 44.228,
+          "city": "Brentwood",
+          "state": "CA"
+      },
+      {
+          "zip_code": "95234",
+          "distance": 45.833,
+          "city": "Holt",
+          "state": "CA"
+      },
+      {
+          "zip_code": "95208",
+          "distance": 46.284,
+          "city": "Stockton",
+          "state": "CA"
+      },
+      {
+          "zip_code": "95213",
+          "distance": 46.284,
+          "city": "Stockton",
+          "state": "CA"
+      },
+      {
+          "zip_code": "94518",
+          "distance": 43.452,
+          "city": "Concord",
+          "state": "CA"
+      },
+      {
+          "zip_code": "95203",
+          "distance": 48.735,
+          "city": "Stockton",
+          "state": "CA"
+      },
+      {
+          "zip_code": "94523",
+          "distance": 44.113,
+          "city": "Pleasant Hill",
+          "state": "CA"
+      },
+      {
+          "zip_code": "94521",
+          "distance": 42.21,
+          "city": "Concord",
+          "state": "CA"
+      },
+      {
+          "zip_code": "94803",
+          "distance": 48.796,
+          "city": "El Sobrante",
+          "state": "CA"
+      },
+      {
+          "zip_code": "94531",
+          "distance": 40.67,
+          "city": "Antioch",
+          "state": "CA"
+      },
+      {
+          "zip_code": "94820",
+          "distance": 48.378,
+          "city": "El Sobrante",
+          "state": "CA"
+      },
+      {
+          "zip_code": "94524",
+          "distance": 42.608,
+          "city": "Concord",
+          "state": "CA"
+      },
+      {
+          "zip_code": "94527",
+          "distance": 42.608,
+          "city": "Concord",
+          "state": "CA"
+      },
+      {
+          "zip_code": "95204",
+          "distance": 47.785,
+          "city": "Stockton",
+          "state": "CA"
+      },
+      {
+          "zip_code": "94548",
+          "distance": 40.849,
+          "city": "Knightsen",
+          "state": "CA"
+      },
+      {
+          "zip_code": "95211",
+          "distance": 47.637,
+          "city": "Stockton",
+          "state": "CA"
+      },
+      {
+          "zip_code": "94519",
+          "distance": 40.785,
+          "city": "Concord",
+          "state": "CA"
+      },
+      {
+          "zip_code": "94553",
+          "distance": 42.835,
+          "city": "Martinez",
+          "state": "CA"
+      },
+      {
+          "zip_code": "94561",
+          "distance": 39.142,
+          "city": "Oakley",
+          "state": "CA"
+      },
+      {
+          "zip_code": "94564",
+          "distance": 46.769,
+          "city": "Pinole",
+          "state": "CA"
+      },
+      {
+          "zip_code": "94520",
+          "distance": 40.79,
+          "city": "Concord",
+          "state": "CA"
+      },
+      {
+          "zip_code": "94509",
+          "distance": 38.538,
+          "city": "Antioch",
+          "state": "CA"
+      },
+      {
+          "zip_code": "95267",
+          "distance": 46.552,
+          "city": "Stockton",
+          "state": "CA"
+      },
+      {
+          "zip_code": "95207",
+          "distance": 45.976,
+          "city": "Stockton",
+          "state": "CA"
+      },
+      {
+          "zip_code": "94522",
+          "distance": 39.473,
+          "city": "Concord",
+          "state": "CA"
+      },
+      {
+          "zip_code": "95269",
+          "distance": 45.681,
+          "city": "Stockton",
+          "state": "CA"
+      },
+      {
+          "zip_code": "94547",
+          "distance": 45.217,
+          "city": "Hercules",
+          "state": "CA"
+      },
+      {
+          "zip_code": "94565",
+          "distance": 37.739,
+          "city": "Pittsburg",
+          "state": "CA"
+      },
+      {
+          "zip_code": "95296",
+          "distance": 45.749,
+          "city": "Stockton",
+          "state": "CA"
+      },
+      {
+          "zip_code": "94511",
+          "distance": 37.282,
+          "city": "Bethel Island",
+          "state": "CA"
+      },
+      {
+          "zip_code": "95210",
+          "distance": 45.237,
+          "city": "Stockton",
+          "state": "CA"
+      },
+      {
+          "zip_code": "94572",
+          "distance": 43.626,
+          "city": "Rodeo",
+          "state": "CA"
+      },
+      {
+          "zip_code": "94569",
+          "distance": 41.384,
+          "city": "Port Costa",
+          "state": "CA"
+      },
+      {
+          "zip_code": "95209",
+          "distance": 42.559,
+          "city": "Stockton",
+          "state": "CA"
+      },
+      {
+          "zip_code": "95212",
+          "distance": 46.409,
+          "city": "Stockton",
+          "state": "CA"
+      },
+      {
+          "zip_code": "95219",
+          "distance": 38.691,
+          "city": "Stockton",
+          "state": "CA"
+      },
+      {
+          "zip_code": "94525",
+          "distance": 41.861,
+          "city": "Crockett",
+          "state": "CA"
+      },
+      {
+          "zip_code": "94592",
+          "distance": 41.278,
+          "city": "Vallejo",
+          "state": "CA"
+      },
+      {
+          "zip_code": "94510",
+          "distance": 36.436,
+          "city": "Benicia",
+          "state": "CA"
+      },
+      {
+          "zip_code": "94590",
+          "distance": 39.598,
+          "city": "Vallejo",
+          "state": "CA"
+      },
+      {
+          "zip_code": "94570",
+          "distance": 35.567,
+          "city": "Moraga",
+          "state": "CA"
+      },
+      {
+          "zip_code": "95240",
+          "distance": 46.674,
+          "city": "Lodi",
+          "state": "CA"
+      },
+      {
+          "zip_code": "94591",
+          "distance": 36.809,
+          "city": "Vallejo",
+          "state": "CA"
+      },
+      {
+          "zip_code": "94512",
+          "distance": 29.036,
+          "city": "Birds Landing",
+          "state": "CA"
+      },
+      {
+          "zip_code": "95242",
+          "distance": 36.511,
+          "city": "Lodi",
+          "state": "CA"
+      },
+      {
+          "zip_code": "95253",
+          "distance": 43.236,
+          "city": "Victor",
+          "state": "CA"
+      },
+      {
+          "zip_code": "95641",
+          "distance": 30.743,
+          "city": "Isleton",
+          "state": "CA"
+      },
+      {
+          "zip_code": "94571",
+          "distance": 28.197,
+          "city": "Rio Vista",
+          "state": "CA"
+      },
+      {
+          "zip_code": "95241",
+          "distance": 38.85,
+          "city": "Lodi",
+          "state": "CA"
+      },
+      {
+          "zip_code": "95686",
+          "distance": 31.252,
+          "city": "Thornton",
+          "state": "CA"
+      },
+      {
+          "zip_code": "95237",
+          "distance": 44.379,
+          "city": "Lockeford",
+          "state": "CA"
+      },
+      {
+          "zip_code": "94589",
+          "distance": 35.813,
+          "city": "Vallejo",
+          "state": "CA"
+      },
+      {
+          "zip_code": "95258",
+          "distance": 37.208,
+          "city": "Woodbridge",
+          "state": "CA"
+      },
+      {
+          "zip_code": "94503",
+          "distance": 35.792,
+          "city": "American Canyon",
+          "state": "CA"
+      },
+      {
+          "zip_code": "94585",
+          "distance": 25.953,
+          "city": "Suisun City",
+          "state": "CA"
+      },
+      {
+          "zip_code": "95690",
+          "distance": 26.368,
+          "city": "Walnut Grove",
+          "state": "CA"
+      },
+      {
+          "zip_code": "95220",
+          "distance": 39.097,
+          "city": "Acampo",
+          "state": "CA"
+      },
+      {
+          "zip_code": "95227",
+          "distance": 46.924,
+          "city": "Clements",
+          "state": "CA"
+      },
+      {
+          "zip_code": "94955",
+          "distance": 46.802,
+          "city": "Petaluma",
+          "state": "CA"
+      },
+      {
+          "zip_code": "94559",
+          "distance": 35.492,
+          "city": "Napa",
+          "state": "CA"
+      },
+      {
+          "zip_code": "94954",
+          "distance": 46.65,
+          "city": "Petaluma",
+          "state": "CA"
+      },
+      {
+          "zip_code": "95680",
+          "distance": 24.501,
+          "city": "Ryde",
+          "state": "CA"
+      },
+      {
+          "zip_code": "94534",
+          "distance": 28.12,
+          "city": "Fairfield",
+          "state": "CA"
+      },
+      {
+          "zip_code": "95476",
+          "distance": 41.882,
+          "city": "Sonoma",
+          "state": "CA"
+      },
+      {
+          "zip_code": "95487",
+          "distance": 41.087,
+          "city": "Vineburg",
+          "state": "CA"
+      },
+      {
+          "zip_code": "95632",
+          "distance": 35.007,
+          "city": "Galt",
+          "state": "CA"
+      },
+      {
+          "zip_code": "94533",
+          "distance": 21.992,
+          "city": "Fairfield",
+          "state": "CA"
+      },
+      {
+          "zip_code": "94535",
+          "distance": 19.999,
+          "city": "Travis Afb",
+          "state": "CA"
+      },
+      {
+          "zip_code": "95433",
+          "distance": 41.173,
+          "city": "El Verano",
+          "state": "CA"
+      },
+      {
+          "zip_code": "94581",
+          "distance": 31.834,
+          "city": "Napa",
+          "state": "CA"
+      },
+      {
+          "zip_code": "95416",
+          "distance": 40.575,
+          "city": "Boyes Hot Springs",
+          "state": "CA"
+      },
+      {
+          "zip_code": "95696",
+          "distance": 18.115,
+          "city": "Vacaville",
+          "state": "CA"
+      },
+      {
+          "zip_code": "95638",
+          "distance": 40.109,
+          "city": "Herald",
+          "state": "CA"
+      },
+      {
+          "zip_code": "95615",
+          "distance": 20.941,
+          "city": "Courtland",
+          "state": "CA"
+      },
+      {
+          "zip_code": "94975",
+          "distance": 48.339,
+          "city": "Petaluma",
+          "state": "CA"
+      },
+      {
+          "zip_code": "94999",
+          "distance": 48.339,
+          "city": "Petaluma",
+          "state": "CA"
+      },
+      {
+          "zip_code": "94951",
+          "distance": 48.641,
+          "city": "Penngrove",
+          "state": "CA"
+      },
+      {
+          "zip_code": "95640",
+          "distance": 48.247,
+          "city": "Ione",
+          "state": "CA"
+      },
+      {
+          "zip_code": "95687",
+          "distance": 16.639,
+          "city": "Vacaville",
+          "state": "CA"
+      },
+      {
+          "zip_code": "95757",
+          "distance": 24.576,
+          "city": "Elk Grove",
+          "state": "CA"
+      },
+      {
+          "zip_code": "95431",
+          "distance": 41.425,
+          "city": "Eldridge",
+          "state": "CA"
+      },
+      {
+          "zip_code": "95625",
+          "distance": 14.872,
+          "city": "Elmira",
+          "state": "CA"
+      },
+      {
+          "zip_code": "95442",
+          "distance": 39.366,
+          "city": "Glen Ellen",
+          "state": "CA"
+      },
+      {
+          "zip_code": "95612",
+          "distance": 16.672,
+          "city": "Clarksburg",
+          "state": "CA"
+      },
+      {
+          "zip_code": "95639",
+          "distance": 19.781,
+          "city": "Hood",
+          "state": "CA"
+      },
+      {
+          "zip_code": "95693",
+          "distance": 33.55,
+          "city": "Wilton",
+          "state": "CA"
+      },
+      {
+          "zip_code": "95759",
+          "distance": 25.484,
+          "city": "Elk Grove",
+          "state": "CA"
+      },
+      {
+          "zip_code": "95688",
+          "distance": 15.772,
+          "city": "Vacaville",
+          "state": "CA"
+      },
+      {
+          "zip_code": "94599",
+          "distance": 32.052,
+          "city": "Yountville",
+          "state": "CA"
+      },
+      {
+          "zip_code": "95620",
+          "distance": 10.036,
+          "city": "Dixon",
+          "state": "CA"
+      },
+      {
+          "zip_code": "94562",
+          "distance": 33.831,
+          "city": "Oakville",
+          "state": "CA"
+      },
+      {
+          "zip_code": "95452",
+          "distance": 40.826,
+          "city": "Kenwood",
+          "state": "CA"
+      },
+      {
+          "zip_code": "95624",
+          "distance": 27.576,
+          "city": "Elk Grove",
+          "state": "CA"
+      },
+      {
+          "zip_code": "95758",
+          "distance": 21.017,
+          "city": "Elk Grove",
+          "state": "CA"
+      },
+      {
+          "zip_code": "95405",
+          "distance": 47.631,
+          "city": "Santa Rosa",
+          "state": "CA"
+      },
+      {
+          "zip_code": "94558",
+          "distance": 25.025,
+          "city": "Napa",
+          "state": "CA"
+      },
+      {
+          "zip_code": "95832",
+          "distance": 17.925,
+          "city": "Sacramento",
+          "state": "CA"
+      },
+      {
+          "zip_code": "94573",
+          "distance": 34.737,
+          "city": "Rutherford",
+          "state": "CA"
+      },
+      {
+          "zip_code": "95409",
+          "distance": 42.722,
+          "city": "Santa Rosa",
+          "state": "CA"
+      },
+      {
+          "zip_code": "95402",
+          "distance": 43.724,
+          "city": "Santa Rosa",
+          "state": "CA"
+      },
+      {
+          "zip_code": "94205",
+          "distance": 20.215,
+          "city": "Sacramento",
+          "state": "CA"
+      },
+      {
+          "zip_code": "94230",
+          "distance": 20.215,
+          "city": "Sacramento",
+          "state": "CA"
+      },
+      {
+          "zip_code": "94283",
+          "distance": 20.215,
+          "city": "Sacramento",
+          "state": "CA"
+      },
+      {
+          "zip_code": "95823",
+          "distance": 19.956,
+          "city": "Sacramento",
+          "state": "CA"
+      },
+      {
+          "zip_code": "95669",
+          "distance": 48.849,
+          "city": "Plymouth",
+          "state": "CA"
+      },
+      {
+          "zip_code": "95828",
+          "distance": 22.207,
+          "city": "Sacramento",
+          "state": "CA"
+      },
+      {
+          "zip_code": "95829",
+          "distance": 26.061,
+          "city": "Sacramento",
+          "state": "CA"
+      },
+      {
+          "zip_code": "94206",
+          "distance": 19.346,
+          "city": "Sacramento",
+          "state": "CA"
+      },
+      {
+          "zip_code": "95830",
+          "distance": 28.128,
+          "city": "Sacramento",
+          "state": "CA"
+      },
+      {
+          "zip_code": "95831",
+          "distance": 15.14,
+          "city": "Sacramento",
+          "state": "CA"
+      },
+      {
+          "zip_code": "95813",
+          "distance": 21.329,
+          "city": "Sacramento",
+          "state": "CA"
+      },
+      {
+          "zip_code": "95683",
+          "distance": 38.047,
+          "city": "Sloughhouse",
+          "state": "CA"
+      },
+      {
+          "zip_code": "95822",
+          "distance": 16.721,
+          "city": "Sacramento",
+          "state": "CA"
+      },
+      {
+          "zip_code": "95824",
+          "distance": 19.488,
+          "city": "Sacramento",
+          "state": "CA"
+      },
+      {
+          "zip_code": "95404",
+          "distance": 48.251,
+          "city": "Santa Rosa",
+          "state": "CA"
+      },
+      {
+          "zip_code": "95799",
+          "distance": 13.511,
+          "city": "West Sacramento",
+          "state": "CA"
+      },
+      {
+          "zip_code": "95820",
+          "distance": 19.181,
+          "city": "Sacramento",
+          "state": "CA"
+      },
+      {
+          "zip_code": "95617",
+          "distance": 4.354,
+          "city": "Davis",
+          "state": "CA"
+      },
+      {
+          "zip_code": "94574",
+          "distance": 33.602,
+          "city": "Saint Helena",
+          "state": "CA"
+      },
+      {
+          "zip_code": "95618",
+          "distance": 6.361,
+          "city": "Davis",
+          "state": "CA"
+      },
+      {
+          "zip_code": "95826",
+          "distance": 22.737,
+          "city": "Sacramento",
+          "state": "CA"
+      },
+      {
+          "zip_code": "95655",
+          "distance": 28.083,
+          "city": "Mather",
+          "state": "CA"
+      },
+      {
+          "zip_code": "94576",
+          "distance": 36.657,
+          "city": "Deer Park",
+          "state": "CA"
+      },
+      {
+          "zip_code": "94232",
+          "distance": 16.659,
+          "city": "Sacramento",
+          "state": "CA"
+      },
+      {
+          "zip_code": "94239",
+          "distance": 16.659,
+          "city": "Sacramento",
+          "state": "CA"
+      },
+      {
+          "zip_code": "94259",
+          "distance": 16.659,
+          "city": "Sacramento",
+          "state": "CA"
+      },
+      {
+          "zip_code": "94269",
+          "distance": 16.659,
+          "city": "Sacramento",
+          "state": "CA"
+      },
+      {
+          "zip_code": "94284",
+          "distance": 16.659,
+          "city": "Sacramento",
+          "state": "CA"
+      },
+      {
+          "zip_code": "94285",
+          "distance": 16.659,
+          "city": "Sacramento",
+          "state": "CA"
+      },
+      {
+          "zip_code": "94286",
+          "distance": 16.659,
+          "city": "Sacramento",
+          "state": "CA"
+      },
+      {
+          "zip_code": "94290",
+          "distance": 16.659,
+          "city": "Sacramento",
+          "state": "CA"
+      },
+      {
+          "zip_code": "94291",
+          "distance": 16.659,
+          "city": "Sacramento",
+          "state": "CA"
+      },
+      {
+          "zip_code": "94293",
+          "distance": 16.659,
+          "city": "Sacramento",
+          "state": "CA"
+      },
+      {
+          "zip_code": "94294",
+          "distance": 16.659,
+          "city": "Sacramento",
+          "state": "CA"
+      },
+      {
+          "zip_code": "94297",
+          "distance": 16.659,
+          "city": "Sacramento",
+          "state": "CA"
+      },
+      {
+          "zip_code": "95894",
+          "distance": 16.659,
+          "city": "Sacramento",
+          "state": "CA"
+      },
+      {
+          "zip_code": "95817",
+          "distance": 18.484,
+          "city": "Sacramento",
+          "state": "CA"
+      },
+      {
+          "zip_code": "95616",
+          "distance": 0,
+          "city": "Davis",
+          "state": "CA"
+      },
+      {
+          "zip_code": "95818",
+          "distance": 16.284,
+          "city": "Sacramento",
+          "state": "CA"
+      },
+      {
+          "zip_code": "95827",
+          "distance": 25.603,
+          "city": "Sacramento",
+          "state": "CA"
+      },
+      {
+          "zip_code": "94299",
+          "distance": 18.27,
+          "city": "Sacramento",
+          "state": "CA"
+      },
+      {
+          "zip_code": "95694",
+          "distance": 15.233,
+          "city": "Winters",
+          "state": "CA"
+      },
+      {
+          "zip_code": "95819",
+          "distance": 19.378,
+          "city": "Sacramento",
+          "state": "CA"
+      },
+      {
+          "zip_code": "95798",
+          "distance": 12.924,
+          "city": "West Sacramento",
+          "state": "CA"
+      },
+      {
+          "zip_code": "95899",
+          "distance": 15.084,
+          "city": "Sacramento",
+          "state": "CA"
+      },
+      {
+          "zip_code": "94296",
+          "distance": 16.165,
+          "city": "Sacramento",
+          "state": "CA"
+      },
+      {
+          "zip_code": "94249",
+          "distance": 18.296,
+          "city": "Sacramento",
+          "state": "CA"
+      },
+      {
+          "zip_code": "94278",
+          "distance": 18.296,
+          "city": "Sacramento",
+          "state": "CA"
+      },
+      {
+          "zip_code": "95816",
+          "distance": 17.963,
+          "city": "Sacramento",
+          "state": "CA"
+      },
+      {
+          "zip_code": "94508",
+          "distance": 34.949,
+          "city": "Angwin",
+          "state": "CA"
+      },
+      {
+          "zip_code": "95742",
+          "distance": 32.264,
+          "city": "Rancho Cordova",
+          "state": "CA"
+      },
+      {
+          "zip_code": "94203",
+          "distance": 16.748,
+          "city": "Sacramento",
+          "state": "CA"
+      },
+      {
+          "zip_code": "94207",
+          "distance": 16.748,
+          "city": "Sacramento",
+          "state": "CA"
+      },
+      {
+          "zip_code": "94208",
+          "distance": 16.748,
+          "city": "Sacramento",
+          "state": "CA"
+      },
+      {
+          "zip_code": "94209",
+          "distance": 16.748,
+          "city": "Sacramento",
+          "state": "CA"
+      },
+      {
+          "zip_code": "94211",
+          "distance": 16.748,
+          "city": "Sacramento",
+          "state": "CA"
+      },
+      {
+          "zip_code": "94229",
+          "distance": 16.748,
+          "city": "Sacramento",
+          "state": "CA"
+      },
+      {
+          "zip_code": "94234",
+          "distance": 16.748,
+          "city": "Sacramento",
+          "state": "CA"
+      },
+      {
+          "zip_code": "94235",
+          "distance": 16.748,
+          "city": "Sacramento",
+          "state": "CA"
+      },
+      {
+          "zip_code": "94236",
+          "distance": 16.748,
+          "city": "Sacramento",
+          "state": "CA"
+      },
+      {
+          "zip_code": "94237",
+          "distance": 16.748,
+          "city": "Sacramento",
+          "state": "CA"
+      },
+      {
+          "zip_code": "94240",
+          "distance": 16.748,
+          "city": "Sacramento",
+          "state": "CA"
+      },
+      {
+          "zip_code": "94244",
+          "distance": 16.748,
+          "city": "Sacramento",
+          "state": "CA"
+      },
+      {
+          "zip_code": "94245",
+          "distance": 16.748,
+          "city": "Sacramento",
+          "state": "CA"
+      },
+      {
+          "zip_code": "94246",
+          "distance": 16.748,
+          "city": "Sacramento",
+          "state": "CA"
+      },
+      {
+          "zip_code": "94247",
+          "distance": 16.748,
+          "city": "Sacramento",
+          "state": "CA"
+      },
+      {
+          "zip_code": "94248",
+          "distance": 16.748,
+          "city": "Sacramento",
+          "state": "CA"
+      },
+      {
+          "zip_code": "94250",
+          "distance": 16.748,
+          "city": "Sacramento",
+          "state": "CA"
+      },
+      {
+          "zip_code": "94252",
+          "distance": 16.748,
+          "city": "Sacramento",
+          "state": "CA"
+      },
+      {
+          "zip_code": "94254",
+          "distance": 16.748,
+          "city": "Sacramento",
+          "state": "CA"
+      },
+      {
+          "zip_code": "94256",
+          "distance": 16.748,
+          "city": "Sacramento",
+          "state": "CA"
+      },
+      {
+          "zip_code": "94257",
+          "distance": 16.748,
+          "city": "Sacramento",
+          "state": "CA"
+      },
+      {
+          "zip_code": "94258",
+          "distance": 16.748,
+          "city": "Sacramento",
+          "state": "CA"
+      },
+      {
+          "zip_code": "94261",
+          "distance": 16.748,
+          "city": "Sacramento",
+          "state": "CA"
+      },
+      {
+          "zip_code": "94262",
+          "distance": 16.748,
+          "city": "Sacramento",
+          "state": "CA"
+      },
+      {
+          "zip_code": "94263",
+          "distance": 16.748,
+          "city": "Sacramento",
+          "state": "CA"
+      },
+      {
+          "zip_code": "94267",
+          "distance": 16.748,
+          "city": "Sacramento",
+          "state": "CA"
+      },
+      {
+          "zip_code": "94268",
+          "distance": 16.748,
+          "city": "Sacramento",
+          "state": "CA"
+      },
+      {
+          "zip_code": "94271",
+          "distance": 16.748,
+          "city": "Sacramento",
+          "state": "CA"
+      },
+      {
+          "zip_code": "94273",
+          "distance": 16.748,
+          "city": "Sacramento",
+          "state": "CA"
+      },
+      {
+          "zip_code": "94274",
+          "distance": 16.748,
+          "city": "Sacramento",
+          "state": "CA"
+      },
+      {
+          "zip_code": "94277",
+          "distance": 16.748,
+          "city": "Sacramento",
+          "state": "CA"
+      },
+      {
+          "zip_code": "94279",
+          "distance": 16.748,
+          "city": "Sacramento",
+          "state": "CA"
+      },
+      {
+          "zip_code": "94280",
+          "distance": 16.748,
+          "city": "Sacramento",
+          "state": "CA"
+      },
+      {
+          "zip_code": "94282",
+          "distance": 16.748,
+          "city": "Sacramento",
+          "state": "CA"
+      },
+      {
+          "zip_code": "94287",
+          "distance": 16.748,
+          "city": "Sacramento",
+          "state": "CA"
+      },
+      {
+          "zip_code": "94288",
+          "distance": 16.748,
+          "city": "Sacramento",
+          "state": "CA"
+      },
+      {
+          "zip_code": "94289",
+          "distance": 16.748,
+          "city": "Sacramento",
+          "state": "CA"
+      },
+      {
+          "zip_code": "94295",
+          "distance": 16.748,
+          "city": "Sacramento",
+          "state": "CA"
+      },
+      {
+          "zip_code": "94298",
+          "distance": 16.748,
+          "city": "Sacramento",
+          "state": "CA"
+      },
+      {
+          "zip_code": "95812",
+          "distance": 16.748,
+          "city": "Sacramento",
+          "state": "CA"
+      },
+      {
+          "zip_code": "95840",
+          "distance": 16.748,
+          "city": "Sacramento",
+          "state": "CA"
+      },
+      {
+          "zip_code": "95867",
+          "distance": 16.748,
+          "city": "Sacramento",
+          "state": "CA"
+      },
+      {
+          "zip_code": "95741",
+          "distance": 26.988,
+          "city": "Rancho Cordova",
+          "state": "CA"
+      },
+      {
+          "zip_code": "95814",
+          "distance": 16.445,
+          "city": "Sacramento",
+          "state": "CA"
+      },
+      {
+          "zip_code": "95811",
+          "distance": 17.419,
+          "city": "Sacramento",
+          "state": "CA"
+      },
+      {
+          "zip_code": "95864",
+          "distance": 22.905,
+          "city": "Sacramento",
+          "state": "CA"
+      },
+      {
+          "zip_code": "95865",
+          "distance": 21.653,
+          "city": "Sacramento",
+          "state": "CA"
+      },
+      {
+          "zip_code": "95866",
+          "distance": 21.653,
+          "city": "Sacramento",
+          "state": "CA"
+      },
+      {
+          "zip_code": "95825",
+          "distance": 21.208,
+          "city": "Sacramento",
+          "state": "CA"
+      },
+      {
+          "zip_code": "95605",
+          "distance": 14.221,
+          "city": "West Sacramento",
+          "state": "CA"
+      },
+      {
+          "zip_code": "94204",
+          "distance": 19.601,
+          "city": "Sacramento",
+          "state": "CA"
+      },
+      {
+          "zip_code": "95851",
+          "distance": 19.601,
+          "city": "Sacramento",
+          "state": "CA"
+      },
+      {
+          "zip_code": "95852",
+          "distance": 19.601,
+          "city": "Sacramento",
+          "state": "CA"
+      },
+      {
+          "zip_code": "95853",
+          "distance": 19.601,
+          "city": "Sacramento",
+          "state": "CA"
+      },
+      {
+          "zip_code": "95670",
+          "distance": 28.19,
+          "city": "Rancho Cordova",
+          "state": "CA"
+      },
+      {
+          "zip_code": "95815",
+          "distance": 19.268,
+          "city": "Sacramento",
+          "state": "CA"
+      },
+      {
+          "zip_code": "95860",
+          "distance": 22.918,
+          "city": "Sacramento",
+          "state": "CA"
+      },
+      {
+          "zip_code": "95887",
+          "distance": 23.987,
+          "city": "Sacramento",
+          "state": "CA"
+      },
+      {
+          "zip_code": "95682",
+          "distance": 45.204,
+          "city": "Shingle Springs",
+          "state": "CA"
+      },
+      {
+          "zip_code": "95833",
+          "distance": 15.813,
+          "city": "Sacramento",
+          "state": "CA"
+      },
+      {
+          "zip_code": "95609",
+          "distance": 26.236,
+          "city": "Carmichael",
+          "state": "CA"
+      },
+      {
+          "zip_code": "95608",
+          "distance": 26.013,
+          "city": "Carmichael",
+          "state": "CA"
+      },
+      {
+          "zip_code": "95821",
+          "distance": 22.851,
+          "city": "Sacramento",
+          "state": "CA"
+      },
+      {
+          "zip_code": "95691",
+          "distance": 12.195,
+          "city": "West Sacramento",
+          "state": "CA"
+      },
+      {
+          "zip_code": "94515",
+          "distance": 44.472,
+          "city": "Calistoga",
+          "state": "CA"
+      },
+      {
+          "zip_code": "95834",
+          "distance": 16.105,
+          "city": "Sacramento",
+          "state": "CA"
+      },
+      {
+          "zip_code": "95838",
+          "distance": 20.081,
+          "city": "Sacramento",
+          "state": "CA"
+      },
+      {
+          "zip_code": "95628",
+          "distance": 30.129,
+          "city": "Fair Oaks",
+          "state": "CA"
+      },
+      {
+          "zip_code": "95841",
+          "distance": 25.429,
+          "city": "Sacramento",
+          "state": "CA"
+      },
+      {
+          "zip_code": "95652",
+          "distance": 22.718,
+          "city": "Mcclellan",
+          "state": "CA"
+      },
+      {
+          "zip_code": "95630",
+          "distance": 36.291,
+          "city": "Folsom",
+          "state": "CA"
+      },
+      {
+          "zip_code": "95763",
+          "distance": 34.835,
+          "city": "Folsom",
+          "state": "CA"
+      },
+      {
+          "zip_code": "95671",
+          "distance": 36.433,
+          "city": "Represa",
+          "state": "CA"
+      },
+      {
+          "zip_code": "95835",
+          "distance": 16.753,
+          "city": "Sacramento",
+          "state": "CA"
+      },
+      {
+          "zip_code": "95660",
+          "distance": 24.161,
+          "city": "North Highlands",
+          "state": "CA"
+      },
+      {
+          "zip_code": "95762",
+          "distance": 40.671,
+          "city": "El Dorado Hills",
+          "state": "CA"
+      },
+      {
+          "zip_code": "95842",
+          "distance": 25.923,
+          "city": "Sacramento",
+          "state": "CA"
+      },
+      {
+          "zip_code": "95695",
+          "distance": 9.718,
+          "city": "Woodland",
+          "state": "CA"
+      },
+      {
+          "zip_code": "95662",
+          "distance": 32.661,
+          "city": "Orangevale",
+          "state": "CA"
+      },
+      {
+          "zip_code": "95673",
+          "distance": 20.553,
+          "city": "Rio Linda",
+          "state": "CA"
+      },
+      {
+          "zip_code": "95837",
+          "distance": 14.454,
+          "city": "Sacramento",
+          "state": "CA"
+      },
+      {
+          "zip_code": "95610",
+          "distance": 30.041,
+          "city": "Citrus Heights",
+          "state": "CA"
+      },
+      {
+          "zip_code": "95621",
+          "distance": 28.194,
+          "city": "Citrus Heights",
+          "state": "CA"
+      },
+      {
+          "zip_code": "95653",
+          "distance": 13.855,
+          "city": "Madison",
+          "state": "CA"
+      },
+      {
+          "zip_code": "95776",
+          "distance": 11.316,
+          "city": "Woodland",
+          "state": "CA"
+      },
+      {
+          "zip_code": "95611",
+          "distance": 29.718,
+          "city": "Citrus Heights",
+          "state": "CA"
+      },
+      {
+          "zip_code": "94567",
+          "distance": 33.849,
+          "city": "Pope Valley",
+          "state": "CA"
+      },
+      {
+          "zip_code": "95836",
+          "distance": 17.62,
+          "city": "Sacramento",
+          "state": "CA"
+      },
+      {
+          "zip_code": "95843",
+          "distance": 25.982,
+          "city": "Antelope",
+          "state": "CA"
+      },
+      {
+          "zip_code": "95672",
+          "distance": 45.721,
+          "city": "Rescue",
+          "state": "CA"
+      },
+      {
+          "zip_code": "95697",
+          "distance": 12.329,
+          "city": "Yolo",
+          "state": "CA"
+      },
+      {
+          "zip_code": "95626",
+          "distance": 21.676,
+          "city": "Elverta",
+          "state": "CA"
+      },
+      {
+          "zip_code": "95627",
+          "distance": 17.47,
+          "city": "Esparto",
+          "state": "CA"
+      },
+      {
+          "zip_code": "95661",
+          "distance": 32.398,
+          "city": "Roseville",
+          "state": "CA"
+      },
+      {
+          "zip_code": "95746",
+          "distance": 35.935,
+          "city": "Granite Bay",
+          "state": "CA"
+      },
+      {
+          "zip_code": "95461",
+          "distance": 43.201,
+          "city": "Middletown",
+          "state": "CA"
+      },
+      {
+          "zip_code": "95606",
+          "distance": 25.565,
+          "city": "Brooks",
+          "state": "CA"
+      },
+      {
+          "zip_code": "95678",
+          "distance": 31.128,
+          "city": "Roseville",
+          "state": "CA"
+      },
+      {
+          "zip_code": "95747",
+          "distance": 27.821,
+          "city": "Roseville",
+          "state": "CA"
+      },
+      {
+          "zip_code": "95677",
+          "distance": 34.511,
+          "city": "Rocklin",
+          "state": "CA"
+      },
+      {
+          "zip_code": "95664",
+          "distance": 44.423,
+          "city": "Pilot Hill",
+          "state": "CA"
+      },
+      {
+          "zip_code": "95467",
+          "distance": 43.701,
+          "city": "Hidden Valley Lake",
+          "state": "CA"
+      },
+      {
+          "zip_code": "95650",
+          "distance": 38.125,
+          "city": "Loomis",
+          "state": "CA"
+      },
+      {
+          "zip_code": "95765",
+          "distance": 33.265,
+          "city": "Rocklin",
+          "state": "CA"
+      },
+      {
+          "zip_code": "95698",
+          "distance": 19.101,
+          "city": "Zamora",
+          "state": "CA"
+      },
+      {
+          "zip_code": "95607",
+          "distance": 26.057,
+          "city": "Capay",
+          "state": "CA"
+      },
+      {
+          "zip_code": "95668",
+          "distance": 25.194,
+          "city": "Pleasant Grove",
+          "state": "CA"
+      },
+      {
+          "zip_code": "95637",
+          "distance": 30.566,
+          "city": "Guinda",
+          "state": "CA"
+      },
+      {
+          "zip_code": "95659",
+          "distance": 23.348,
+          "city": "Nicolaus",
+          "state": "CA"
+      },
+      {
+          "zip_code": "95663",
+          "distance": 39.209,
+          "city": "Penryn",
+          "state": "CA"
+      },
+      {
+          "zip_code": "95658",
+          "distance": 40.753,
+          "city": "Newcastle",
+          "state": "CA"
+      },
+      {
+          "zip_code": "95457",
+          "distance": 45.652,
+          "city": "Lower Lake",
+          "state": "CA"
+      },
+      {
+          "zip_code": "95645",
+          "distance": 22.874,
+          "city": "Knights Landing",
+          "state": "CA"
+      },
+      {
+          "zip_code": "95937",
+          "distance": 25.303,
+          "city": "Dunnigan",
+          "state": "CA"
+      },
+      {
+          "zip_code": "95679",
+          "distance": 37.95,
+          "city": "Rumsey",
+          "state": "CA"
+      },
+      {
+          "zip_code": "95604",
+          "distance": 46.403,
+          "city": "Auburn",
+          "state": "CA"
+      },
+      {
+          "zip_code": "95603",
+          "distance": 46.062,
+          "city": "Auburn",
+          "state": "CA"
+      },
+      {
+          "zip_code": "95648",
+          "distance": 36.552,
+          "city": "Lincoln",
+          "state": "CA"
+      },
+      {
+          "zip_code": "95676",
+          "distance": 26.844,
+          "city": "Robbins",
+          "state": "CA"
+      },
+      {
+          "zip_code": "95674",
+          "distance": 32.468,
+          "city": "Rio Oso",
+          "state": "CA"
+      },
+      {
+          "zip_code": "95602",
+          "distance": 47.567,
+          "city": "Auburn",
+          "state": "CA"
+      },
+      {
+          "zip_code": "95991",
+          "distance": 32.314,
+          "city": "Yuba City",
+          "state": "CA"
+      },
+      {
+          "zip_code": "95681",
+          "distance": 38.778,
+          "city": "Sheridan",
+          "state": "CA"
+      },
+      {
+          "zip_code": "95912",
+          "distance": 34.982,
+          "city": "Arbuckle",
+          "state": "CA"
+      },
+      {
+          "zip_code": "95992",
+          "distance": 33.748,
+          "city": "Yuba City",
+          "state": "CA"
+      },
+      {
+          "zip_code": "95961",
+          "distance": 35.948,
+          "city": "Olivehurst",
+          "state": "CA"
+      },
+      {
+          "zip_code": "95692",
+          "distance": 39.732,
+          "city": "Wheatland",
+          "state": "CA"
+      },
+      {
+          "zip_code": "95950",
+          "distance": 34.417,
+          "city": "Grimes",
+          "state": "CA"
+      },
+      {
+          "zip_code": "95957",
+          "distance": 35.051,
+          "city": "Meridian",
+          "state": "CA"
+      },
+      {
+          "zip_code": "95993",
+          "distance": 37.053,
+          "city": "Yuba City",
+          "state": "CA"
+      },
+      {
+          "zip_code": "95987",
+          "distance": 46.149,
+          "city": "Williams",
+          "state": "CA"
+      },
+      {
+          "zip_code": "95903",
+          "distance": 44.617,
+          "city": "Beale Afb",
+          "state": "CA"
+      },
+      {
+          "zip_code": "95982",
+          "distance": 42.741,
+          "city": "Sutter",
+          "state": "CA"
+      },
+      {
+          "zip_code": "95953",
+          "distance": 48.714,
+          "city": "Live Oak",
+          "state": "CA"
+      }
+  ],
   "SMASH UC Berkeley": [
         {
             "zip_code": "95006",
