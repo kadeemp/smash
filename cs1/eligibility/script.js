@@ -7,8 +7,22 @@
   let sites;
   let validSites;
 
-  loadData();
+  //loadData();
 
+  let http = new XMLHttpRequest();
+  let url = "https://ahob85.github.io/smash/cs1/eligibility/smashzips.json";
+  http.onreadystatechange = function() {
+    if(this.readyState == 4 && this.status == 200) {
+        sites = JSON.parse(this.responseText);
+        submitButton.addEventListener("click", showMessage);
+        submitButton.style.display = "block";
+    }
+  };
+  
+  http.open("GET", url, true);
+  http.send();
+  
+  /* IE 11 doesn't understand "fetch" of course...
   function loadData() {
     fetch("https://ahob85.github.io/smash/cs1/eligibility/smashzips.json")
     .then(function(response) {
@@ -21,6 +35,7 @@
       })
     });
   }
+  */
 
   function getDistances() {
     for(let site in sites) {
