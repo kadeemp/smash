@@ -109,7 +109,6 @@
         message += "<p>Please enter zip code as 5 numbers: #####</p>";
       }
       document.getElementById("message-area").innerHTML = message;
-    }
     else {
       getDistances();
     }
