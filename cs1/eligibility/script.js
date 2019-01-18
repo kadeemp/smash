@@ -106,9 +106,8 @@
     document.getElementById("message-area").innerHTML = "Loading...";
     let zipCodeOkay = zipCode.length === 5 && !isNaN(Number(zipCode));
     if(!zipCodeOkay) {
-        message += "<p>Please enter zip code as 5 numbers: #####</p>";
-      }
-      document.getElementById("message-area").innerHTML = message;
+      document.getElementById("message-area").innerHTML = "<p>Please enter zip code as 5 numbers: #####</p>";
+    }
     else {
       getDistances();
     }
