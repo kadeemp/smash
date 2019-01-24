@@ -1,6 +1,7 @@
 (function() {
   let submitButton = document.getElementById("form-submit");
   let zipCode;
+  let zipCodeArea = document.getElementById("zip");
   let school;
   let grade;
   let message;
@@ -22595,9 +22596,16 @@
     ]
 };
   let validSites;
-  submitButton.addEventListener("click", showMessage);
   submitButton.style.display = "block";
+  submitButton.addEventListener("click", showMessage);
+  zipCodeArea.addEventListener("keypress", checkKey);
 
+  function checkKey(e) {
+    var key = e.which || e.keyCode;
+    if(key == 13) {
+      showMessage();
+    }
+  }                             
   //loadData();
 /*
   let http = new XMLHttpRequest();
@@ -22627,6 +22635,8 @@
     });
   }
   */
+                                
+                                
 
   function getDistances() {
     let containsIL = false;
