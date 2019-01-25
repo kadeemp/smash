@@ -22596,6 +22596,7 @@
     ]
 };
   let validSites;
+  document.getElementsByName("form")[0].onsubmit = function() { return false;};
   submitButton.style.display = "block";
   submitButton.addEventListener("click", showMessage);
   zipCodeArea.addEventListener("keypress", checkKey);
