@@ -2,6 +2,8 @@
   let submitButton = document.getElementById("form-submit");
   let zipCode;
   let zipCodeArea = document.getElementById("zip");
+  let gradeCheck = document.getElementById("school");
+  let schoolCheck = document.getElementById("grade");
   let school;
   let grade;
   let message;
@@ -22596,17 +22598,32 @@
     ]
 };
   let validSites;
-  document.getElementsByName("form")[0].onsubmit = function() { return false;};
-  submitButton.style.display = "block";
-  submitButton.addEventListener("click", showMessage);
-  zipCodeArea.addEventListener("keypress", checkKey);
+  let formbox = document.getElementById("test");
 
+
+
+  document.getElementsByName("form")[0].onsubmit = function() { return false;};
+  submitButton.style.display = "none";
+  submitButton.addEventListener("click", showMessage);
+  schoolCheck.addEventListener("click", isChecked);
+  gradeCheck.addEventListener("click", isChecked);
+  zipCodeArea.addEventListener("keydown", checkKey);
+
+function isChecked(e) {
+  console.log();
+  if (schoolCheck.checked == true && gradeCheck.checked == true && zipCodeArea.value.length > 3) {
+    submitButton.style.display = "block";
+  } else {
+    submitButton.style.display = "none";
+  }
+}
   function checkKey(e) {
     var key = e.which || e.keyCode;
     if(key == 13) {
       showMessage();
     }
-  }                             
+    isChecked()
+  }
   //loadData();
 /*
   let http = new XMLHttpRequest();
@@ -22618,7 +22635,7 @@
         submitButton.style.display = "block";
     }
   };
-  
+
   http.open("GET", url, true);
   http.send();
 */
@@ -22636,9 +22653,6 @@
     });
   }
   */
-                                
-                                
-
   function getDistances() {
     let containsIL = false;
     for(let site in sites) {
