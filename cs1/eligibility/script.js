@@ -22598,6 +22598,8 @@
     ]
 };
   let validSites;
+  let formbox = document.getElementById("test");
+
 
 
   document.getElementsByName("form")[0].onsubmit = function() { return false;};
