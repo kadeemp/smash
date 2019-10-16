@@ -26089,6 +26089,7 @@ function test() {
   gradeCheck.addEventListener("click", isChecked);
   gpaCheck.addEventListener("click", isChecked);
   zipCodeArea.addEventListener("keydown", checkKey);
+    selectedSchool.addEventListener("change", test);
 
 
 function isChecked(e) {
