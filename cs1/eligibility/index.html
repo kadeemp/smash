@@ -34,7 +34,57 @@
             <td><label for="grade">Check if you are currently in 9th grade.</label></td>
             <td><input type="checkbox" name="check-grade" value="" id="grade"></td>
           </tr>
-
+          <tr>
+            <td><label for="grade">Check if you have a GPA of 3.0 or above.</label></td>
+            <td><input type="checkbox" name="check-gpa" value="" id="gpa"></td>
+          </tr>              
+            <tr>
+                <td><label style="width: 400px" for="zip">Please see if your school is on this list</label></td>
+                <td> 
+                  <select size="5" for="school" name="school" id="selectedSchool">
+                    <option>My school is not on this list</option>  
+                    <option>Advanced Technology High School</option>
+                    <option>Belleville High School</option>
+                    <option>Benjamin Carson School for Science and Medicine</option>
+                    <option>Cass Technical High School</option>
+                    <option>Cesar Chavez Academy High School</option>
+                    <option>Chandler Park Academy High School</option>
+                    <option>Cody High School</option>
+                    <option>Detroit Edison Public School Academy - High School</option>
+                    <option>Detroit International Academy</option>
+                    <option>Detroit Leadership Academy</option>
+                    <option>East English Village</option>
+                    <option>Ecorse Community High School</option>
+                    <option>Fordson High School</option>
+                    <option>Frederick Douglass</option>
+                    <option>Hamtramck High School</option>
+                    <option>Henry Ford Academy - Dearborn</option>
+                    <option>Henry Ford Academy: School for Creative Studies (PSAD)</option>
+                    <option>International Academy of Flint</option>
+                    <option>Jalen Rose Leadership Academy</option>
+                    <option>John Glenn High School</option>
+                    <option>Martin Luther King Jr. Senior High School</option>
+                    <option>Melvindale High School</option>
+                    <option>Mumford High School</option>
+                    <option>Oak Park High School</option>
+                    <option>Pontiac High School</option>
+                    <option>Renaissance High School</option>
+                    <option>River Rouge High School</option>
+                    <option>Robichaud High School</option>
+                    <option>Romulus Senior High School</option>
+                    <option>School at Marygrove</option>
+                    <option>Southeastern High School</option>
+                    <option>Southfield A&T</option>
+                    <option>Southwestern Classical Academy</option>
+                    <option>Truman High School</option>
+                    <option>University High School Academy</option>
+                    <option>University Preparatory Academy (PSAD) - High School</option>
+                    <option>University Preparatory Science and Math (PSAD) High School</option>
+                    <option>Western International High School</option>
+                    <option>Ypsilanti Community High School </option>
+                </select>
+            </td>
+            </tr>
             <tr>
               <td><label for="zip">Enter your five-digit zip code.</label><br>
               <td><input type="text" name="zipcode" maxlength="5" pattern="[0-9]{5}" id="zip" placeholder="e.g., 54321"></td>
@@ -47,3 +97,6 @@
       <script src="script.js"></script>
     </body>
 </html>
+<link href="//netdna.bootstrapcdn.com/bootstrap/3.1.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+<script src="//netdna.bootstrapcdn.com/bootstrap/3.1.0/js/bootstrap.min.js"></script>
+<script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
