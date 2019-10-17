@@ -5,7 +5,7 @@
   let gradeCheck = document.getElementById("school");
   let schoolCheck = document.getElementById("grade");
   let gpaCheck = document.getElementById("gpa");
-    let selectedSchool = document.getElementById("selectedSchool");
+  let selectedSchool = document.getElementById("selectedSchool");
   let school;
   let grade;
   let message;
@@ -26089,7 +26089,7 @@ function test() {
   gradeCheck.addEventListener("click", isChecked);
   gpaCheck.addEventListener("click", isChecked);
   zipCodeArea.addEventListener("keydown", checkKey);
-    selectedSchool.addEventListener("change", test);
+  selectedSchool.addEventListener("change", test);
 
 
 function isChecked(e) {
@@ -26165,8 +26165,8 @@ function isChecked(e) {
         }
       }
     }
-      
-      
+
+
     // rewrote this part to account for students applying to SMASH Illinois Tech
       if ((selectedSchool.value == "My school is not on this list") || (selectedSchool.value == "")) {
         if(!grade || (!school && !containsIL) || validSites.length === 0) {
@@ -26209,7 +26209,7 @@ function isChecked(e) {
                }
       }
   }
- 
+
 
   function getFormData() {
     zipCode = document.getElementById("zip").value;
@@ -26247,14 +26247,12 @@ function hasWayneState(selectedSchool) {
 }
 function hasMichigan(selectedSchool) {
     var schools = ["Advanced Technology High School", "Belleville High School", "Ecorse Community High School", "Fordson High School", "Henry Ford Academy - Dearborn", "International Academy of Flint", "John Glenn High School", "Melvindale High School", "Pontiac High School", "River Rouge High School", "Robichaud High School", "Romulus Senior High School", "Southwestern Classical Academy", "Truman High School", "Ypsilanti Community High School", "Southfield A&T", "Oak Park High School", "Chandler Park Academy High School", "University High School Academy"]
-    
+
         for (i = 0;i< schools.length - 1;i++) {
        if (selectedSchool == schools[i]) {
            console.log("hasMichiganState")
            return true
-       } 
+       }
     }
      return false
 }
-
-
