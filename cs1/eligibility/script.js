@@ -26076,12 +26076,6 @@
 
 };
   let validSites;
-function test() {
-    console.log("1")
-    console.log(selectedSchool.value)
-}
-
-
   document.getElementsByName("form")[0].onsubmit = function() { return false;};
   submitButton.style.display = "none";
   submitButton.addEventListener("click", showMessage);
@@ -26089,7 +26083,7 @@ function test() {
   gradeCheck.addEventListener("click", isChecked);
   gpaCheck.addEventListener("click", isChecked);
   zipCodeArea.addEventListener("keydown", checkKey);
-  selectedSchool.addEventListener("change", test);
+
 
 
 function isChecked(e) {
@@ -26239,7 +26233,6 @@ function hasWayneState(selectedSchool) {
 
     for (i = 0;i< schools.length - 1;i++) {
        if (selectedSchool == schools[i]) {
-           console.log("hasWayneState")
            return true
        }
     }
@@ -26250,7 +26243,6 @@ function hasMichigan(selectedSchool) {
 
         for (i = 0;i< schools.length - 1;i++) {
        if (selectedSchool == schools[i]) {
-           console.log("hasMichiganState")
            return true
        }
     }
