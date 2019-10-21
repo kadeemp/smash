@@ -42,7 +42,7 @@ input[type=checkbox] {
 }
 
 #form-submit {
-    display: none;
+    display: block;
     margin: 10px auto;
     transform: scale(1.25);
 }

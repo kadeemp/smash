@@ -26077,23 +26077,11 @@
 };
   let validSites;
   document.getElementsByName("form")[0].onsubmit = function() { return false;};
-  submitButton.style.display = "none";
+
   submitButton.addEventListener("click", showMessage);
-  schoolCheck.addEventListener("click", isChecked);
-  gradeCheck.addEventListener("click", isChecked);
-  gpaCheck.addEventListener("click", isChecked);
-  zipCodeArea.addEventListener("keydown", checkKey);
 
 
 
-function isChecked(e) {
-
-  if (schoolCheck.checked == true && gradeCheck.checked == true && gpaCheck.checked == true && zipCodeArea.value.length > 3) {
-    submitButton.style.display = "block";
-  } else {
-    submitButton.style.display = "none";
-  }
-}
   function checkKey(e) {
     var key = e.which || e.keyCode;
     if(key == 13) {
@@ -26163,7 +26151,10 @@ function isChecked(e) {
 
     // rewrote this part to account for students applying to SMASH Illinois Tech
       if ((selectedSchool.value == "My school is not on this list") || (selectedSchool.value == "")) {
-        if(!grade || (!school && !containsIL) || validSites.length === 0) {
+        if(!grade || !gpaCheck.checked ||(!school && !containsIL) || validSites.length === 0) {
+            if(!gpaCheck.checked) {
+                message += "<p>Sorry, only students with a GPA of 3.0 or above are eligible to apply.</p>"
+            }
         if(!grade) {
           message += "<p>Sorry, only 9th graders are eligible to apply.</p>";
         }
