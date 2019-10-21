@@ -26150,7 +26150,6 @@
       }
     }
 console.log(selectedSchool)
-console.log(selectedSchool.value)
 console.log(1)
     // rewrote this part to account for students applying to SMASH Illinois Tech
     /*
