@@ -26120,6 +26120,7 @@
   }
   */
   function getDistances() {
+    selectedSchool = document.getElementById("selectedSchool");
     let containsIL = false;
     for(let site in sites) {
       let found = false;
@@ -26148,7 +26149,9 @@
         }
       }
     }
-
+console.log(selectedSchool)
+console.log(selectedSchool.value)
+console.log(1)
     // rewrote this part to account for students applying to SMASH Illinois Tech
       if ((selectedSchool.value == "My school is not on this list") || (selectedSchool.value == "") || (selectedSchool.value == null)) {
         if(!grade || !gpaCheck.checked ||(!school && !containsIL) || validSites.length === 0) {
