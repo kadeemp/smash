@@ -26149,8 +26149,7 @@
         }
       }
     }
-console.log(selectedSchool)
-console.log(1)
+
     // rewrote this part to account for students applying to SMASH Illinois Tech
   if (selectedSchool == null) {
     if(!grade || !gpaCheck.checked ||(!school && !containsIL) || validSites.length === 0) {
@@ -26179,6 +26178,8 @@ console.log(1)
     message += "<p><a href=\"https://app.smarterselect.com/programs/53973-Smash\">Click here to apply!</a></p>";
 }
   } else {
+    console.log(selectedSchool.value)
+
     if ((selectedSchool.value == "My school is not on this list") || (selectedSchool.value == "") || (selectedSchool.value == null)) {
       if(!grade || !gpaCheck.checked ||(!school && !containsIL) || validSites.length === 0) {
           if(!gpaCheck.checked) {
@@ -26209,12 +26210,14 @@ console.log(1)
   document.getElementById("message-area").innerHTML = message;
     } else {
          if (hasWayneState(selectedSchool.value)) {
+           console.log("Wayne State School")
              message += "<p>You can apply to <b>Wayne State</b>";
              message += "<p>Please be sure to select this site in your application.</p>";
              message += "<p><a href=\"https://app.smarterselect.com/programs/53973-Smash\">Click here to apply!</a></p>";
              window.scrollTo(0, 0);
              document.getElementById("message-area").innerHTML = message;
              } else if (hasMichigan(selectedSchool.value)) {
+              console.log("Michigan state school")
              message += "<p>You can apply to <b>University of Michigan</b></p>";
              message += "<p>Please be sure to select this site in your application.</p>";
              message += "<p><a href=\"https://app.smarterselect.com/programs/53973-Smash\">Click here to apply!</a></p>";
@@ -26223,8 +26226,6 @@ console.log(1)
              }
     }
   }
-
-
   }
 
   function getFormData() {
@@ -26258,6 +26259,9 @@ function hasWayneState(selectedSchool) {
            return true
        }
     }
+    console.log(schools)
+    console.log(selectedSchool)
+    console.log()
     return false
 }
 function hasMichigan(selectedSchool) {
@@ -26269,5 +26273,8 @@ function hasMichigan(selectedSchool) {
            return true
        }
     }
+    console.log(schools)
+    console.log(selectedSchool)
+    console.log()
      return false
 }
