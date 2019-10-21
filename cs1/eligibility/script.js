@@ -9,6 +9,7 @@
   let school;
   let grade;
   let message;
+
   let sites = {
   "SMASH UC Davis": [
       {
@@ -26148,9 +26149,8 @@
       }
     }
 
-
     // rewrote this part to account for students applying to SMASH Illinois Tech
-      if ((selectedSchool.value == "My school is not on this list") || (selectedSchool.value == "")) {
+      if ((selectedSchool.value == "My school is not on this list") || (selectedSchool.value == "") || (selectedSchool.value == null)) {
         if(!grade || !gpaCheck.checked ||(!school && !containsIL) || validSites.length === 0) {
             if(!gpaCheck.checked) {
                 message += "<p>Sorry, only students with a GPA of 3.0 or above are eligible to apply.</p>"
@@ -26219,7 +26219,7 @@
 })();
 
 function hasWayneState(selectedSchool) {
-    var schools = ["Benjamin Carson School for Science and Medicine", "Cass Technical High School", "Central High School", "Cesar Chavez Academy High School", "Cody High School", "Communication and Media Arts High School", "Davis Aerospace Technical High School at Golightly", "Denby High School", "Detroit College PreparatoryHigh School at Northwestern", "Detroit Edison Public School Academy - High School", "Detroit International Academy", "Detroit Leadership Academy", "Detroit School of Arts", "East English Village Preparatory Academy", "Frederick Douglass Academy", "Hamtramck High School", "Henry Ford Academy: School for Creative Studies", "Henry Ford High School", "Jalen Rose Leadership Academy", "Martin Luther King Jr. Senior High School", "Mumford High School", "Osborn High School", "Pershing High School", "Renaissance High School", "Southeastern High School", "University Preparatory Academy High School", "University Preparatory Science and Math High School", "Western International High School"]
+    var schools = ["Academy of the Americas","Benjamin Carson School for Science and Medicine", "Cass Technical High School", "Central High School", "Cesar Chavez Academy High School", "Cody High School", "Communication and Media Arts High School", "Davis Aerospace Technical High School at Golightly", "Denby High School", "Detroit College Preparatory High School at Northwestern", "Detroit Edison Public School Academy - High School", "Detroit International Academy", "Detroit Leadership Academy", "Detroit School of Arts", "East English Village Preparatory Academy", "Frederick Douglass Academy", "Hamtramck High School", "Henry Ford Academy: School for Creative Studies", "Henry Ford High School", "Jalen Rose Leadership Academy", "Martin Luther King Jr. Senior High School", "Mumford High School", "Osborn High School", "Pershing High School", "Renaissance High School", "Southeastern High School", "University Preparatory Academy High School", "University Preparatory Science and Math High School", "Western International High School"]
     var i;
 
     for (i = 0;i< schools.length - 1;i++) {
@@ -26230,7 +26230,7 @@ function hasWayneState(selectedSchool) {
     return false
 }
 function hasMichigan(selectedSchool) {
-    var schools = ["Advanced Technology High School ", "Belleville High School", "Carman-Ainsworth High School", "Chandler Park Academy High School", "Ecorse Community HighSchool", "Fordson High School", "Henry Ford Academy - Dearborn", "International Academy of Flint", "John Glenn High School", "Melvindale High School"
+    var schools = ["Advanced Technology High School", "Belleville High School", "Carman-Ainsworth High School", "Chandler Park Academy High School", "Ecorse Community High School", "Fordson High School", "Henry Ford Academy - Dearborn", "International Academy of Flint", "John Glenn High School", "Melvindale High School"
     , "Oak Park High School", "Pontiac High School", "River Rouge High School", "Robichaud High School", "Romulus Senior High School", "Southfield A&T", "Southwestern Classical Academy", "The School at Marygrove", "Truman High School", "University High School Academy", "Ypsilanti Community High School"]
 
         for (i = 0;i< schools.length - 1;i++) {
