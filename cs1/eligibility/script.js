@@ -26171,10 +26171,7 @@
         for(let i = 0; i < validSites.length; i++) {
             message += "<p>You can apply to <b>" + validSites[i].name + " </b>(" + (Math.round(validSites[i].distance * 10) / 10) + " mi)</p>";
         } 
-           } else {
-            console.log(selectedSchool.value)
-            console.log(0)
-        }
+           } 
              if (hasWayneState(selectedSchool.value)) {
                  console.log("Wayne State School")
                   message += "<p>You can apply to <b>Wayne State</b>";
@@ -26226,6 +26223,8 @@ function hasWayneState(selectedSchool) {
     var i;
 
     for (i = 0;i< schools.length - 1;i++) {
+        console.log(selectedSchool)
+        console.log(schools[i])
        if (selectedSchool == schools[i]) {
            return true
        }
