@@ -26149,40 +26149,10 @@
         }
       }
     }
-
+//selected school wont be null anymore because it has an id. refactor later
     // rewrote this part to account for students applying to SMASH Illinois Tech
-  if (selectedSchool == null) {
-    console.log("a")
-    if(!grade || !gpaCheck.checked ||(!school && !containsIL) || validSites.length === 0) {
-        if(!gpaCheck.checked) {
-            message += "<p>Sorry, only students with a GPA of 3.0 or above are eligible to apply.</p>"
-        }
-        if(!grade) {
-          message += "<p>Sorry, only 9th graders are eligible to apply.</p>";
-        }
-        if(!school && !containsIL) {
-          message += "<p>Sorry, only students attending public schools, or who receive financial assistance at private schools, are eligible to apply.</p>";
-        }
-        if(validSites.length === 0) {
-          message += "<p>Sorry, your zip code is not within 50 miles of a SMASH site, or in the case of SMASH Illinois, 25 miles from all eligible areas.</p>";
-        }
-    } else {
-      for(let i = 0; i < validSites.length; i++) {
-          message += "<p>You can apply to <b>" + validSites[i].name + " </b>(" + (Math.round(validSites[i].distance * 10) / 10) + " mi)</p>";
-      }
-      if(validSites.length === 1) {
-          message += "<p>Please be sure to select this site in your application.</p>";
-      }
-      else {
-          message += "<p>Please be sure to select <strong>ONE</strong> of the above sites in your application.</p>";
-      }
-      message += "<p><a href=\"https://app.smarterselect.com/programs/53973-Smash\">Click here to apply!</a></p>";
-    }
-  } else {
-    console.log("b")
-    console.log(selectedSchool.value)
 
-    if ((selectedSchool.value == "My school is not on this list") || (selectedSchool.value == "") || (selectedSchool.value == null)) {
+ 
       if(!grade || !gpaCheck.checked ||(!school && !containsIL) || validSites.length === 0) {
           if(!gpaCheck.checked) {
               message += "<p>Sorry, only students with a GPA of 3.0 or above are eligible to apply.</p>"
@@ -26197,9 +26167,22 @@
         message += "<p>Sorry, your zip code is not within 50 miles of a SMASH site, or in the case of SMASH Illinois, 25 miles from all eligible areas.</p>";
       }
     } else {
+           if ((selectedSchool.value == "My school is not on this list") || (selectedSchool.value == "") || (selectedSchool.value == null)) {
         for(let i = 0; i < validSites.length; i++) {
             message += "<p>You can apply to <b>" + validSites[i].name + " </b>(" + (Math.round(validSites[i].distance * 10) / 10) + " mi)</p>";
+        } 
+           } else {
+            console.log(selectedSchool.value)
+            console.log(0)
         }
+             if (hasWayneState(selectedSchool.value)) {
+                 console.log("Wayne State School")
+                  message += "<p>You can apply to <b>Wayne State</b>";
+
+             } else if (hasMichigan(selectedSchool.value)) {
+                 console.log("Michigan state school")
+                 message += "<p>You can apply to <b>University of Michigan</b></p>";
+         }
         if(validSites.length === 1) {
             message += "<p>Please be sure to select this site in your application.</p>";
         }
@@ -26208,21 +26191,10 @@
         }
         message += "<p><a href=\"https://app.smarterselect.com/programs/53973-Smash\">Click here to apply!</a></p>";
     }
-    } else {
-      console.log("c")
-         if (hasWayneState(selectedSchool.value)) {
-           console.log("Wayne State School")
-             message += "<p>You can apply to <b>Wayne State</b>";
-             message += "<p>Please be sure to select this site in your application.</p>";
-             message += "<p><a href=\"https://app.smarterselect.com/programs/53973-Smash\">Click here to apply!</a></p>";
-             } else if (hasMichigan(selectedSchool.value)) {
-              console.log("Michigan state school")
-             message += "<p>You can apply to <b>University of Michigan</b></p>";
-             message += "<p>Please be sure to select this site in your application.</p>";
-             message += "<p><a href=\"https://app.smarterselect.com/programs/53973-Smash\">Click here to apply!</a></p>";
-             }
-    }
-  }
+ 
+
+    
+  
 window.scrollTo(0, 0);
 document.getElementById("message-area").innerHTML = message;
   }
@@ -26258,9 +26230,6 @@ function hasWayneState(selectedSchool) {
            return true
        }
     }
-    console.log(schools)
-    console.log(selectedSchool)
-    console.log()
     return false
 }
 function hasMichigan(selectedSchool) {
@@ -26272,8 +26241,5 @@ function hasMichigan(selectedSchool) {
            return true
        }
     }
-    console.log(schools)
-    console.log(selectedSchool)
-    console.log()
      return false
 }
