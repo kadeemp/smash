@@ -26152,7 +26152,7 @@
 //selected school wont be null anymore because it has an id. refactor later
     // rewrote this part to account for students applying to SMASH Illinois Tech
 
- 
+
       if(!grade || !gpaCheck.checked ||(!school && !containsIL) || validSites.length === 0) {
           if(!gpaCheck.checked) {
               message += "<p>Sorry, only students with a GPA of 3.0 or above are eligible to apply.</p>"
@@ -26170,13 +26170,13 @@
            if ((selectedSchool.value == "My school is not on this list") || (selectedSchool.value == "") || (selectedSchool.value == null)) {
         for(let i = 0; i < validSites.length; i++) {
             message += "<p>You can apply to <b>" + validSites[i].name + " </b>(" + (Math.round(validSites[i].distance * 10) / 10) + " mi)</p>";
-        } 
-           } 
-             if (hasWayneState(selectedSchool.value)) {
+        }
+           }
+             if (containsWayneState(selectedSchool.value)) {
                  console.log("Wayne State School")
                   message += "<p>You can apply to <b>Wayne State</b>";
 
-             } else if (hasMichigan(selectedSchool.value)) {
+             } else if (containsMichigan(selectedSchool.value)) {
                  console.log("Michigan state school")
                  message += "<p>You can apply to <b>University of Michigan</b></p>";
          }
@@ -26186,13 +26186,9 @@
         else {
             message += "<p>Please be sure to select <strong>ONE</strong> of the above sites in your application.</p>";
         }
-        message += "<p><a href=\"https://app.smarterselect.com/programs/53973-Smash\">Click here to apply!</a></p>";
+        message += "<p><a href=\"https://app.smarterselect.com/programs/61809-Smash\">Click here to apply!</a></p>";
     }
- 
-"Detroit Edison Public School Academy - High School"
-"Detroit Edison Public School Academy – High School"
-    
-  
+
 window.scrollTo(0, 0);
 document.getElementById("message-area").innerHTML = message;
   }
@@ -26219,10 +26215,10 @@ document.getElementById("message-area").innerHTML = message;
 
 })();
 
-function hasWayneState(selectedSchool) {
+function containsWayneState(selectedSchool) {
     var schools = ["Academy of the Americas","Benjamin Carson School for Science and Medicine", "Cass Technical High School", "Central High School", "Cesar Chavez Academy High School", "Cody High School", "Communication and Media Arts High School", "Davis Aerospace Technical High School at Golightly", "Denby High School",
                    "Detroit College Preparatory High School at Northwestern", "Detroit Edison Public School Academy - High School", "Detroit International Academy", "Detroit Leadership Academy", "Detroit School of Arts", "East English Village Preparatory Academy", "Frederick Douglass Academy", "Hamtramck High School", "Henry Ford Academy: School for Creative Studies", "Henry Ford High School", "Jalen Rose Leadership Academy", "Martin Luther King Jr. Senior High School", "Mumford High School",
-                   "Osborn High School", "Pershing High School", "Renaissance High School", "Southeastern High School", "University Preparatory Academy High School", "University Preparatory Science and Math High School", "Western International High School"]
+                   "Osborn High School", "Pershing High School", "Renaissance High School", "Southeastern High School", "University Preparatory Academy High School", "University Preparatory Science and Math High School"]
     var i;
 
     for (i = 0;i< schools.length - 1;i++) {
@@ -26234,10 +26230,10 @@ function hasWayneState(selectedSchool) {
     }
     return false
 }
-function hasMichigan(selectedSchool) {
+function containsMichigan(selectedSchool) {
     var schools = ["Advanced Technology High School", "Belleville High School", "Carman-Ainsworth High School", "Chandler Park Academy High School", "Ecorse Community High School", "Fordson High School", "Henry Ford Academy - Dearborn", "International Academy of Flint", "John Glenn High School",
                    "Melvindale High School"
-    , "Oak Park High School", "Pontiac High School", "River Rouge High School", "Robichaud High School", "Romulus Senior High School", "Southfield A&T", "Southwestern Classical Academy", "The School at Marygrove", "Truman High School", "University High School Academy", "Ypsilanti Community High School"]
+    , "Oak Park High School", "Pontiac High School", "River Rouge High School", "Robichaud High School", "Romulus Senior High School", "Southfield A&T", "Southwestern Classical Academy", "The School at Marygrove", "Truman High School", "University High School Academy","Western International High School", "Ypsilanti Community High School"]
 
         for (i = 0;i< schools.length - 1;i++) {
        if (selectedSchool === schools[i]) {
