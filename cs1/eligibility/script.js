@@ -26217,8 +26217,8 @@ function containsWayneState(selectedSchool) {
     var i;
 
     for (i = 0;i< schools.length - 1;i++) {
-        console.log(selectedSchool)
-        console.log(schools[i])
+      console.log(typeof selectedSchool)
+      console.log(typeof schools[i])
        if (selectedSchool === schools[i]) {
            return true
        }
