@@ -26216,9 +26216,10 @@ function containsWayneState(selectedSchool) {
                    "Osborn High School", "Pershing High School", "Renaissance High School", "Southeastern High School", "University Preparatory Academy High School", "University Preparatory Science and Math High School"]
     var i;
 
-    for (i = 0;i< schools.length - 1;i++) {
-      console.log(typeof selectedSchool)
-      console.log(typeof schools[i])
+    for (i = 0;i< schools.length;i++) {
+      console.log(selectedSchool)
+      console.log(schools[i])
+      console.log("waynestate")
        if (selectedSchool === schools[i]) {
            return true
        }
@@ -26230,7 +26231,10 @@ function containsMichigan(selectedSchool) {
                    "Melvindale High School"
     , "Oak Park High School", "Pontiac High School", "River Rouge High School", "Robichaud High School", "Romulus Senior High School", "Southfield A&T", "Southwestern Classical Academy", "The School at Marygrove", "Truman High School", "University High School Academy","Western International High School", "Ypsilanti Community High School"]
 
-        for (i = 0;i< schools.length - 1;i++) {
+        for (i = 0;i< schools.length;i++) {
+          console.log(selectedSchool)
+          console.log(schools[i])
+          console.log("mich")
        if (selectedSchool === schools[i]) {
            return true
        }
