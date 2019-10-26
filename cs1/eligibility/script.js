@@ -26174,6 +26174,11 @@
          } else if (containsMichigan(selectedSchool.value)) {
                console.log("Michigan state school")
                message += "<p>You can apply to <b>University of Michigan</b></p>";
+      } else {
+          console.log("could not find school \n")
+          console.log(selectedSchool.value)
+          console.log("\n")
+          
       }
       if(validSites.length === 1) {
           message += "<p>Please be sure to select this site in your application.</p>";
