@@ -20789,7 +20789,9 @@
             "distance": 21.281,
             "city": "Glencoe",
             "state": "IL"
-        }, "SMASH Northeastern University": [
+        }
+  ]
+      , "SMASH Northeastern University": [
         {
                 "zip_code": "02740",
                 "distance": 49.098,
