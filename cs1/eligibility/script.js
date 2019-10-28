@@ -12939,1814 +12939,6 @@
             "state": "GA"
         }
     ],
-  "SMASH Wayne State": [
-        {
-            "zip_code": "43446",
-            "distance": 49.891,
-            "city": "Middle Bass",
-            "state": "OH"
-        },
-        {
-            "zip_code": "43436",
-            "distance": 47.139,
-            "city": "Isle Saint George",
-            "state": "OH"
-        },
-        {
-            "zip_code": "48133",
-            "distance": 45.983,
-            "city": "Erie",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48182",
-            "distance": 48.025,
-            "city": "Temperance",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48177",
-            "distance": 47.126,
-            "city": "Samaria",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48157",
-            "distance": 42.889,
-            "city": "Luna Pier",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48145",
-            "distance": 41.564,
-            "city": "La Salle",
-            "state": "MI"
-        },
-        {
-            "zip_code": "49270",
-            "distance": 46.421,
-            "city": "Petersburg",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48140",
-            "distance": 42.697,
-            "city": "Ida",
-            "state": "MI"
-        },
-        {
-            "zip_code": "49238",
-            "distance": 48.79,
-            "city": "Deerfield",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48161",
-            "distance": 38.115,
-            "city": "Monroe",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48162",
-            "distance": 33.826,
-            "city": "Monroe",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48131",
-            "distance": 41.38,
-            "city": "Dundee",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48166",
-            "distance": 29.279,
-            "city": "Newport",
-            "state": "MI"
-        },
-        {
-            "zip_code": "49229",
-            "distance": 46.799,
-            "city": "Britton",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48110",
-            "distance": 39.029,
-            "city": "Azalia",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48159",
-            "distance": 34.402,
-            "city": "Maybee",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48179",
-            "distance": 25.17,
-            "city": "South Rockwood",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48117",
-            "distance": 28.145,
-            "city": "Carleton",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48173",
-            "distance": 21.927,
-            "city": "Rockwood",
-            "state": "MI"
-        },
-        {
-            "zip_code": "49236",
-            "distance": 48.791,
-            "city": "Clinton",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48160",
-            "distance": 36.786,
-            "city": "Milan",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48134",
-            "distance": 21.632,
-            "city": "Flat Rock",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48191",
-            "distance": 30.678,
-            "city": "Willis",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48164",
-            "distance": 23.439,
-            "city": "New Boston",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48183",
-            "distance": 18.27,
-            "city": "Trenton",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48190",
-            "distance": 31.298,
-            "city": "Whittaker",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48138",
-            "distance": 17.089,
-            "city": "Grosse Ile",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48176",
-            "distance": 41.81,
-            "city": "Saline",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48115",
-            "distance": 44.112,
-            "city": "Bridgewater",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48193",
-            "distance": 15.48,
-            "city": "Riverview",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48111",
-            "distance": 25.046,
-            "city": "Belleville",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48197",
-            "distance": 31.328,
-            "city": "Ypsilanti",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48112",
-            "distance": 23.844,
-            "city": "Belleville",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48195",
-            "distance": 13.457,
-            "city": "Southgate",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48192",
-            "distance": 12.262,
-            "city": "Wyandotte",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48242",
-            "distance": 17.31,
-            "city": "Detroit",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48108",
-            "distance": 35.072,
-            "city": "Ann Arbor",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48180",
-            "distance": 14.186,
-            "city": "Taylor",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48174",
-            "distance": 18.877,
-            "city": "Romulus",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48146",
-            "distance": 10.517,
-            "city": "Lincoln Park",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48229",
-            "distance": 9.212,
-            "city": "Ecorse",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48101",
-            "distance": 10.47,
-            "city": "Allen Park",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48103",
-            "distance": 40.057,
-            "city": "Ann Arbor",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48104",
-            "distance": 33.446,
-            "city": "Ann Arbor",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48106",
-            "distance": 34.087,
-            "city": "Ann Arbor",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48107",
-            "distance": 34.087,
-            "city": "Ann Arbor",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48113",
-            "distance": 34.087,
-            "city": "Ann Arbor",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48218",
-            "distance": 7.48,
-            "city": "River Rouge",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48184",
-            "distance": 17.661,
-            "city": "Wayne",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48198",
-            "distance": 26.889,
-            "city": "Ypsilanti",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48125",
-            "distance": 11.702,
-            "city": "Dearborn Heights",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48217",
-            "distance": 7.79,
-            "city": "Detroit",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48122",
-            "distance": 8.518,
-            "city": "Melvindale",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48188",
-            "distance": 21.568,
-            "city": "Canton",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48109",
-            "distance": 32.759,
-            "city": "Ann Arbor",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48186",
-            "distance": 15.969,
-            "city": "Westland",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48141",
-            "distance": 13.581,
-            "city": "Inkster",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48124",
-            "distance": 10.157,
-            "city": "Dearborn",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48209",
-            "distance": 5.173,
-            "city": "Detroit",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48120",
-            "distance": 6.907,
-            "city": "Dearborn",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48121",
-            "distance": 8.108,
-            "city": "Dearborn",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48123",
-            "distance": 8.108,
-            "city": "Dearborn",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48118",
-            "distance": 49.026,
-            "city": "Chelsea",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48136",
-            "distance": 13.925,
-            "city": "Garden City",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48128",
-            "distance": 10.034,
-            "city": "Dearborn",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48233",
-            "distance": 3.625,
-            "city": "Detroit",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48135",
-            "distance": 13.902,
-            "city": "Garden City",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48187",
-            "distance": 20.991,
-            "city": "Canton",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48126",
-            "distance": 6.361,
-            "city": "Dearborn",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48216",
-            "distance": 3.338,
-            "city": "Detroit",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48105",
-            "distance": 31.764,
-            "city": "Ann Arbor",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48243",
-            "distance": 3.667,
-            "city": "Detroit",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48226",
-            "distance": 3.302,
-            "city": "Detroit",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48185",
-            "distance": 15.905,
-            "city": "Westland",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48127",
-            "distance": 10.843,
-            "city": "Dearborn Heights",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48210",
-            "distance": 3.708,
-            "city": "Detroit",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48201",
-            "distance": 2.123,
-            "city": "Detroit",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48208",
-            "distance": 1.959,
-            "city": "Detroit",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48207",
-            "distance": 3.48,
-            "city": "Detroit",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48228",
-            "distance": 7.232,
-            "city": "Detroit",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48130",
-            "distance": 42.445,
-            "city": "Dexter",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48214",
-            "distance": 4.64,
-            "city": "Detroit",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48204",
-            "distance": 3.392,
-            "city": "Detroit",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48170",
-            "distance": 23.315,
-            "city": "Plymouth",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48150",
-            "distance": 15.268,
-            "city": "Livonia",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48202",
-            "distance": 0,
-            "city": "Detroit",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48215",
-            "distance": 6.288,
-            "city": "Detroit",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48206",
-            "distance": 1.55,
-            "city": "Detroit",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48239",
-            "distance": 10.499,
-            "city": "Redford",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48222",
-            "distance": 1.196,
-            "city": "Detroit",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48231",
-            "distance": 1.196,
-            "city": "Detroit",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48232",
-            "distance": 1.196,
-            "city": "Detroit",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48244",
-            "distance": 1.196,
-            "city": "Detroit",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48255",
-            "distance": 1.196,
-            "city": "Detroit",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48260",
-            "distance": 1.196,
-            "city": "Detroit",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48264",
-            "distance": 1.196,
-            "city": "Detroit",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48265",
-            "distance": 1.196,
-            "city": "Detroit",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48266",
-            "distance": 1.196,
-            "city": "Detroit",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48267",
-            "distance": 1.196,
-            "city": "Detroit",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48268",
-            "distance": 1.196,
-            "city": "Detroit",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48269",
-            "distance": 1.196,
-            "city": "Detroit",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48272",
-            "distance": 1.196,
-            "city": "Detroit",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48275",
-            "distance": 1.196,
-            "city": "Detroit",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48277",
-            "distance": 1.196,
-            "city": "Detroit",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48278",
-            "distance": 1.196,
-            "city": "Detroit",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48279",
-            "distance": 1.196,
-            "city": "Detroit",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48288",
-            "distance": 1.196,
-            "city": "Detroit",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48211",
-            "distance": 1.699,
-            "city": "Detroit",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48230",
-            "distance": 7.971,
-            "city": "Grosse Pointe",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48227",
-            "distance": 5.911,
-            "city": "Detroit",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48151",
-            "distance": 14.95,
-            "city": "Livonia",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48153",
-            "distance": 14.95,
-            "city": "Livonia",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48223",
-            "distance": 8.692,
-            "city": "Detroit",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48238",
-            "distance": 3.569,
-            "city": "Detroit",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48154",
-            "distance": 15.108,
-            "city": "Livonia",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48213",
-            "distance": 4.503,
-            "city": "Detroit",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48175",
-            "distance": 25.702,
-            "city": "Salem",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48168",
-            "distance": 23.718,
-            "city": "Northville",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48212",
-            "distance": 2.643,
-            "city": "Hamtramck",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48224",
-            "distance": 7.387,
-            "city": "Detroit",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48189",
-            "distance": 36.084,
-            "city": "Whitmore Lake",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48203",
-            "distance": 3.448,
-            "city": "Highland Park",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48240",
-            "distance": 11.906,
-            "city": "Redford",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48152",
-            "distance": 15.534,
-            "city": "Livonia",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48219",
-            "distance": 9.521,
-            "city": "Detroit",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48236",
-            "distance": 10.04,
-            "city": "Grosse Pointe",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48221",
-            "distance": 5.113,
-            "city": "Detroit",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48235",
-            "distance": 6.971,
-            "city": "Detroit",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48234",
-            "distance": 4.36,
-            "city": "Detroit",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48167",
-            "distance": 23.145,
-            "city": "Northville",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48205",
-            "distance": 6.376,
-            "city": "Detroit",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48225",
-            "distance": 8.774,
-            "city": "Harper Woods",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48178",
-            "distance": 29.933,
-            "city": "South Lyon",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48139",
-            "distance": 37.533,
-            "city": "Hamburg",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48220",
-            "distance": 6.452,
-            "city": "Ferndale",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48033",
-            "distance": 12.444,
-            "city": "Southfield",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48143",
-            "distance": 39.919,
-            "city": "Lakeland",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48332",
-            "distance": 16.025,
-            "city": "Farmington",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48333",
-            "distance": 16.025,
-            "city": "Farmington",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48169",
-            "distance": 44.77,
-            "city": "Pinckney",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48030",
-            "distance": 6.104,
-            "city": "Hazel Park",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48075",
-            "distance": 9.838,
-            "city": "Southfield",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48335",
-            "distance": 17.762,
-            "city": "Farmington",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48336",
-            "distance": 15.031,
-            "city": "Farmington",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48375",
-            "distance": 20.642,
-            "city": "Novi",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48080",
-            "distance": 11.143,
-            "city": "Saint Clair Shores",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48237",
-            "distance": 8.209,
-            "city": "Oak Park",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48021",
-            "distance": 9.196,
-            "city": "Eastpointe",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48089",
-            "distance": 7.729,
-            "city": "Warren",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48091",
-            "distance": 6.525,
-            "city": "Warren",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48376",
-            "distance": 22.044,
-            "city": "Novi",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48037",
-            "distance": 10.982,
-            "city": "Southfield",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48086",
-            "distance": 10.982,
-            "city": "Southfield",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48069",
-            "distance": 7.479,
-            "city": "Pleasant Ridge",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48374",
-            "distance": 23.702,
-            "city": "Novi",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48015",
-            "distance": 7.743,
-            "city": "Center Line",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48070",
-            "distance": 8.721,
-            "city": "Huntington Woods",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48090",
-            "distance": 8.487,
-            "city": "Warren",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48067",
-            "distance": 8.555,
-            "city": "Royal Oak",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48081",
-            "distance": 12.468,
-            "city": "Saint Clair Shores",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48397",
-            "distance": 8.513,
-            "city": "Warren",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48034",
-            "distance": 13.761,
-            "city": "Southfield",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48076",
-            "distance": 11.522,
-            "city": "Southfield",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48072",
-            "distance": 10.139,
-            "city": "Berkley",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48068",
-            "distance": 9.401,
-            "city": "Royal Oak",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48165",
-            "distance": 28.853,
-            "city": "New Hudson",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48331",
-            "distance": 19.051,
-            "city": "Farmington",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48334",
-            "distance": 16.502,
-            "city": "Farmington",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48377",
-            "distance": 22.112,
-            "city": "Novi",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48116",
-            "distance": 37.084,
-            "city": "Brighton",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48071",
-            "distance": 9.247,
-            "city": "Madison Heights",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48066",
-            "distance": 11.653,
-            "city": "Roseville",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48092",
-            "distance": 9.637,
-            "city": "Warren",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48088",
-            "distance": 10.859,
-            "city": "Warren",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48093",
-            "distance": 10.236,
-            "city": "Warren",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48073",
-            "distance": 10.908,
-            "city": "Royal Oak",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48025",
-            "distance": 13.869,
-            "city": "Franklin",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48393",
-            "distance": 25.911,
-            "city": "Wixom",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48082",
-            "distance": 14.376,
-            "city": "Saint Clair Shores",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48391",
-            "distance": 22.701,
-            "city": "Walled Lake",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48017",
-            "distance": 11.783,
-            "city": "Clawson",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48026",
-            "distance": 13.089,
-            "city": "Fraser",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48322",
-            "distance": 19.262,
-            "city": "West Bloomfield",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48012",
-            "distance": 13.258,
-            "city": "Birmingham",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48301",
-            "distance": 15.582,
-            "city": "Bloomfield Hills",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48009",
-            "distance": 13.694,
-            "city": "Birmingham",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48390",
-            "distance": 23.582,
-            "city": "Walled Lake",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48035",
-            "distance": 15.265,
-            "city": "Clinton Township",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48083",
-            "distance": 12.745,
-            "city": "Troy",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48312",
-            "distance": 13.148,
-            "city": "Sterling Heights",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48381",
-            "distance": 29.104,
-            "city": "Milford",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48325",
-            "distance": 20.036,
-            "city": "West Bloomfield",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48084",
-            "distance": 13.775,
-            "city": "Troy",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48310",
-            "distance": 13.041,
-            "city": "Sterling Heights",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48303",
-            "distance": 15.818,
-            "city": "Bloomfield Hills",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48323",
-            "distance": 20.433,
-            "city": "West Bloomfield",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48114",
-            "distance": 36.854,
-            "city": "Brighton",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48843",
-            "distance": 45.273,
-            "city": "Howell",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48007",
-            "distance": 14.529,
-            "city": "Troy",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48099",
-            "distance": 14.529,
-            "city": "Troy",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48311",
-            "distance": 14.382,
-            "city": "Sterling Heights",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48028",
-            "distance": 27.456,
-            "city": "Harsens Island",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48380",
-            "distance": 33.284,
-            "city": "Milford",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48302",
-            "distance": 18.227,
-            "city": "Bloomfield Hills",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48045",
-            "distance": 19.715,
-            "city": "Harrison Township",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48304",
-            "distance": 16.773,
-            "city": "Bloomfield Hills",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48046",
-            "distance": 17.96,
-            "city": "Mount Clemens",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48382",
-            "distance": 26.513,
-            "city": "Commerce Township",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48324",
-            "distance": 22.056,
-            "city": "West Bloomfield",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48036",
-            "distance": 17.493,
-            "city": "Clinton Township",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48043",
-            "distance": 18.373,
-            "city": "Mount Clemens",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48098",
-            "distance": 16.283,
-            "city": "Troy",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48844",
-            "distance": 46.113,
-            "city": "Howell",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48313",
-            "distance": 16.067,
-            "city": "Sterling Heights",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48085",
-            "distance": 15.998,
-            "city": "Troy",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48038",
-            "distance": 17.513,
-            "city": "Clinton Township",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48387",
-            "distance": 24.585,
-            "city": "Union Lake",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48320",
-            "distance": 21.074,
-            "city": "Keego Harbor",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48314",
-            "distance": 16.439,
-            "city": "Sterling Heights",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48318",
-            "distance": 17.194,
-            "city": "Utica",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48341",
-            "distance": 20.697,
-            "city": "Pontiac",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48863",
-            "distance": 45.926,
-            "city": "Howell",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48327",
-            "distance": 24.79,
-            "city": "Waterford",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48001",
-            "distance": 31.185,
-            "city": "Algonac",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48343",
-            "distance": 21.019,
-            "city": "Pontiac",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48342",
-            "distance": 21.002,
-            "city": "Pontiac",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48317",
-            "distance": 18.704,
-            "city": "Utica",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48328",
-            "distance": 23.613,
-            "city": "Waterford",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48353",
-            "distance": 37.551,
-            "city": "Hartland",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48044",
-            "distance": 20.487,
-            "city": "Macomb",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48356",
-            "distance": 32.579,
-            "city": "Highland",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48383",
-            "distance": 29.952,
-            "city": "White Lake",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48309",
-            "distance": 20.285,
-            "city": "Rochester",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48357",
-            "distance": 34.986,
-            "city": "Highland",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48307",
-            "distance": 19.791,
-            "city": "Rochester",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48386",
-            "distance": 28.432,
-            "city": "White Lake",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48321",
-            "distance": 22.004,
-            "city": "Auburn Hills",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48315",
-            "distance": 20.925,
-            "city": "Utica",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48340",
-            "distance": 23.165,
-            "city": "Pontiac",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48047",
-            "distance": 25.81,
-            "city": "New Baltimore",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48330",
-            "distance": 25.809,
-            "city": "Drayton Plains",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48308",
-            "distance": 21.199,
-            "city": "Rochester",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48855",
-            "distance": 46.785,
-            "city": "Howell",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48042",
-            "distance": 22.997,
-            "city": "Macomb",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48329",
-            "distance": 26.763,
-            "city": "Waterford",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48326",
-            "distance": 23.248,
-            "city": "Auburn Hills",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48004",
-            "distance": 29.399,
-            "city": "Anchorville",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48316",
-            "distance": 21.814,
-            "city": "Utica",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48039",
-            "distance": 34.847,
-            "city": "Marine City",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48051",
-            "distance": 25.615,
-            "city": "New Baltimore",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48023",
-            "distance": 31.195,
-            "city": "Fair Haven",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48346",
-            "distance": 29.691,
-            "city": "Clarkston",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48359",
-            "distance": 25.934,
-            "city": "Lake Orion",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48306",
-            "distance": 24.405,
-            "city": "Rochester",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48347",
-            "distance": 30.089,
-            "city": "Clarkston",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48094",
-            "distance": 24.85,
-            "city": "Washington",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48350",
-            "distance": 34.158,
-            "city": "Davisburg",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48048",
-            "distance": 29.371,
-            "city": "New Haven",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48360",
-            "distance": 27.374,
-            "city": "Lake Orion",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48430",
-            "distance": 43.007,
-            "city": "Fenton",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48096",
-            "distance": 27.928,
-            "city": "Ray",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48064",
-            "distance": 34.092,
-            "city": "Casco",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48348",
-            "distance": 31.882,
-            "city": "Clarkston",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48054",
-            "distance": 39.077,
-            "city": "East China",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48363",
-            "distance": 27.814,
-            "city": "Oakland",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48095",
-            "distance": 27.951,
-            "city": "Washington",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48361",
-            "distance": 29.187,
-            "city": "Lake Orion",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48362",
-            "distance": 29.804,
-            "city": "Lake Orion",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48050",
-            "distance": 31.84,
-            "city": "New Haven",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48442",
-            "distance": 39.241,
-            "city": "Holly",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48451",
-            "distance": 47.857,
-            "city": "Linden",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48366",
-            "distance": 30.234,
-            "city": "Lakeville",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48367",
-            "distance": 32.021,
-            "city": "Leonard",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48371",
-            "distance": 33.993,
-            "city": "Oxford",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48370",
-            "distance": 32.935,
-            "city": "Oxford",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48065",
-            "distance": 32.56,
-            "city": "Romeo",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48462",
-            "distance": 37.103,
-            "city": "Ortonville",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48005",
-            "distance": 33.807,
-            "city": "Armada",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48062",
-            "distance": 35.971,
-            "city": "Richmond",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48079",
-            "distance": 42.931,
-            "city": "Saint Clair",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48063",
-            "distance": 39.032,
-            "city": "Columbus",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48040",
-            "distance": 47.85,
-            "city": "Marysville",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48438",
-            "distance": 42.573,
-            "city": "Goodrich",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48439",
-            "distance": 46.759,
-            "city": "Grand Blanc",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48480",
-            "distance": 46.976,
-            "city": "Grand Blanc",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48003",
-            "distance": 38.424,
-            "city": "Almont",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48411",
-            "distance": 44.798,
-            "city": "Atlas",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48002",
-            "distance": 39.564,
-            "city": "Allenton",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48041",
-            "distance": 41.182,
-            "city": "Memphis",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48455",
-            "distance": 40.39,
-            "city": "Metamora",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48428",
-            "distance": 39.122,
-            "city": "Dryden",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48027",
-            "distance": 43.915,
-            "city": "Goodells",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48074",
-            "distance": 47.63,
-            "city": "Smiths Creek",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48440",
-            "distance": 43.295,
-            "city": "Hadley",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48519",
-            "distance": 49.764,
-            "city": "Burton",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48022",
-            "distance": 46.947,
-            "city": "Emmett",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48014",
-            "distance": 45.579,
-            "city": "Capac",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48446",
-            "distance": 48.739,
-            "city": "Lapeer",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48444",
-            "distance": 47.265,
-            "city": "Imlay City",
-            "state": "MI"
-        },
-        {
-            "zip_code": "48412",
-            "distance": 48.32,
-            "city": "Attica",
-            "state": "MI"
-        }
-    ],
   "SMASH Wharton": [
         {
             "zip_code": "08316",
@@ -22597,7 +20789,3482 @@
             "distance": 21.281,
             "city": "Glencoe",
             "state": "IL"
-        }
+        }, "SMASH Northeastern University": [
+        {
+                "zip_code": "02740",
+                "distance": 49.098,
+                "city": "New Bedford",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02741",
+                "distance": 47.648,
+                "city": "New Bedford",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02742",
+                "distance": 47.648,
+                "city": "New Bedford",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02746",
+                "distance": 47.481,
+                "city": "New Bedford",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02747",
+                "distance": 46.689,
+                "city": "North Dartmouth",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02739",
+                "distance": 48.733,
+                "city": "Mattapoisett",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02721",
+                "distance": 45.791,
+                "city": "Fall River",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02809",
+                "distance": 46.496,
+                "city": "Bristol",
+                "state": "RI"
+            },
+            {
+                "zip_code": "02724",
+                "distance": 45.279,
+                "city": "Fall River",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02723",
+                "distance": 44.541,
+                "city": "Fall River",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02887",
+                "distance": 46.879,
+                "city": "Warwick",
+                "state": "RI"
+            },
+            {
+                "zip_code": "02889",
+                "distance": 46.125,
+                "city": "Warwick",
+                "state": "RI"
+            },
+            {
+                "zip_code": "02745",
+                "distance": 44.686,
+                "city": "New Bedford",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02886",
+                "distance": 47.291,
+                "city": "Warwick",
+                "state": "RI"
+            },
+            {
+                "zip_code": "02738",
+                "distance": 47.347,
+                "city": "Marion",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02722",
+                "distance": 43.33,
+                "city": "Fall River",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02553",
+                "distance": 49.827,
+                "city": "Monument Beach",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02743",
+                "distance": 44.032,
+                "city": "Acushnet",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02725",
+                "distance": 42.846,
+                "city": "Somerset",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02720",
+                "distance": 42.299,
+                "city": "Fall River",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02885",
+                "distance": 43.006,
+                "city": "Warren",
+                "state": "RI"
+            },
+            {
+                "zip_code": "02823",
+                "distance": 47.5,
+                "city": "Fiskeville",
+                "state": "RI"
+            },
+            {
+                "zip_code": "02806",
+                "distance": 43.039,
+                "city": "Barrington",
+                "state": "RI"
+            },
+            {
+                "zip_code": "02558",
+                "distance": 47.029,
+                "city": "Onset",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02888",
+                "distance": 43.544,
+                "city": "Warwick",
+                "state": "RI"
+            },
+            {
+                "zip_code": "02532",
+                "distance": 48.12,
+                "city": "Buzzards Bay",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02777",
+                "distance": 40.387,
+                "city": "Swansea",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02726",
+                "distance": 39.946,
+                "city": "Somerset",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02770",
+                "distance": 42.181,
+                "city": "Rochester",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02717",
+                "distance": 40.448,
+                "city": "East Freetown",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02571",
+                "distance": 45.003,
+                "city": "Wareham",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02561",
+                "distance": 48.919,
+                "city": "Sagamore",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02920",
+                "distance": 43.479,
+                "city": "Cranston",
+                "state": "RI"
+            },
+            {
+                "zip_code": "02921",
+                "distance": 44.573,
+                "city": "Cranston",
+                "state": "RI"
+            },
+            {
+                "zip_code": "02576",
+                "distance": 42.805,
+                "city": "West Wareham",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02915",
+                "distance": 41.029,
+                "city": "Riverside",
+                "state": "RI"
+            },
+            {
+                "zip_code": "02815",
+                "distance": 47.786,
+                "city": "Clayville",
+                "state": "RI"
+            },
+            {
+                "zip_code": "02831",
+                "distance": 46.972,
+                "city": "Hope",
+                "state": "RI"
+            },
+            {
+                "zip_code": "02910",
+                "distance": 42.369,
+                "city": "Cranston",
+                "state": "RI"
+            },
+            {
+                "zip_code": "02538",
+                "distance": 45.392,
+                "city": "East Wareham",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02825",
+                "distance": 49.857,
+                "city": "Foster",
+                "state": "RI"
+            },
+            {
+                "zip_code": "02905",
+                "distance": 40.972,
+                "city": "Providence",
+                "state": "RI"
+            },
+            {
+                "zip_code": "02702",
+                "distance": 38.215,
+                "city": "Assonet",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02562",
+                "distance": 48.235,
+                "city": "Sagamore Beach",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02907",
+                "distance": 40.638,
+                "city": "Providence",
+                "state": "RI"
+            },
+            {
+                "zip_code": "02715",
+                "distance": 36.941,
+                "city": "Dighton",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02914",
+                "distance": 38.461,
+                "city": "East Providence",
+                "state": "RI"
+            },
+            {
+                "zip_code": "02903",
+                "distance": 39.075,
+                "city": "Providence",
+                "state": "RI"
+            },
+            {
+                "zip_code": "02901",
+                "distance": 38.986,
+                "city": "Providence",
+                "state": "RI"
+            },
+            {
+                "zip_code": "02902",
+                "distance": 38.986,
+                "city": "Providence",
+                "state": "RI"
+            },
+            {
+                "zip_code": "02918",
+                "distance": 38.986,
+                "city": "Providence",
+                "state": "RI"
+            },
+            {
+                "zip_code": "02940",
+                "distance": 38.986,
+                "city": "Providence",
+                "state": "RI"
+            },
+            {
+                "zip_code": "02909",
+                "distance": 39.834,
+                "city": "Providence",
+                "state": "RI"
+            },
+            {
+                "zip_code": "02857",
+                "distance": 44.668,
+                "city": "North Scituate",
+                "state": "RI"
+            },
+            {
+                "zip_code": "02912",
+                "distance": 38.47,
+                "city": "Providence",
+                "state": "RI"
+            },
+            {
+                "zip_code": "02919",
+                "distance": 41.124,
+                "city": "Johnston",
+                "state": "RI"
+            },
+            {
+                "zip_code": "02347",
+                "distance": 35.558,
+                "city": "Lakeville",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02779",
+                "distance": 34.511,
+                "city": "Berkley",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02908",
+                "distance": 38.325,
+                "city": "Providence",
+                "state": "RI"
+            },
+            {
+                "zip_code": "02906",
+                "distance": 37.31,
+                "city": "Providence",
+                "state": "RI"
+            },
+            {
+                "zip_code": "02771",
+                "distance": 35.957,
+                "city": "Seekonk",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02916",
+                "distance": 36.425,
+                "city": "Rumford",
+                "state": "RI"
+            },
+            {
+                "zip_code": "06243",
+                "distance": 49.408,
+                "city": "East Killingly",
+                "state": "CT"
+            },
+            {
+                "zip_code": "02769",
+                "distance": 34.615,
+                "city": "Rehoboth",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02366",
+                "distance": 40.777,
+                "city": "South Carver",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02764",
+                "distance": 33.611,
+                "city": "North Dighton",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02911",
+                "distance": 38.269,
+                "city": "North Providence",
+                "state": "RI"
+            },
+            {
+                "zip_code": "02904",
+                "distance": 37.168,
+                "city": "Providence",
+                "state": "RI"
+            },
+            {
+                "zip_code": "02344",
+                "distance": 34.61,
+                "city": "Middleboro",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02348",
+                "distance": 34.61,
+                "city": "Lakeville",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02349",
+                "distance": 34.61,
+                "city": "Middleboro",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02718",
+                "distance": 33.146,
+                "city": "East Taunton",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02862",
+                "distance": 35.001,
+                "city": "Pawtucket",
+                "state": "RI"
+            },
+            {
+                "zip_code": "02860",
+                "distance": 35.351,
+                "city": "Pawtucket",
+                "state": "RI"
+            },
+            {
+                "zip_code": "02346",
+                "distance": 33.961,
+                "city": "Middleboro",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02861",
+                "distance": 34.128,
+                "city": "Pawtucket",
+                "state": "RI"
+            },
+            {
+                "zip_code": "02330",
+                "distance": 36.73,
+                "city": "Carver",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02828",
+                "distance": 39.367,
+                "city": "Greenville",
+                "state": "RI"
+            },
+            {
+                "zip_code": "02829",
+                "distance": 40.81,
+                "city": "Harmony",
+                "state": "RI"
+            },
+            {
+                "zip_code": "02360",
+                "distance": 39.747,
+                "city": "Plymouth",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02863",
+                "distance": 34.224,
+                "city": "Central Falls",
+                "state": "RI"
+            },
+            {
+                "zip_code": "02814",
+                "distance": 43.108,
+                "city": "Chepachet",
+                "state": "RI"
+            },
+            {
+                "zip_code": "02783",
+                "distance": 30.212,
+                "city": "Taunton",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02917",
+                "distance": 36.692,
+                "city": "Smithfield",
+                "state": "RI"
+            },
+            {
+                "zip_code": "06260",
+                "distance": 49.148,
+                "city": "Putnam",
+                "state": "CT"
+            },
+            {
+                "zip_code": "02780",
+                "distance": 29.579,
+                "city": "Taunton",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02355",
+                "distance": 33.656,
+                "city": "North Carver",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02865",
+                "distance": 34.045,
+                "city": "Lincoln",
+                "state": "RI"
+            },
+            {
+                "zip_code": "02345",
+                "distance": 40.167,
+                "city": "Manomet",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02768",
+                "distance": 28.329,
+                "city": "Raynham Center",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02381",
+                "distance": 38.59,
+                "city": "White Horse Beach",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02703",
+                "distance": 29.634,
+                "city": "Attleboro",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02839",
+                "distance": 38.773,
+                "city": "Mapleville",
+                "state": "RI"
+            },
+            {
+                "zip_code": "02767",
+                "distance": 27.528,
+                "city": "Raynham",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02361",
+                "distance": 35.168,
+                "city": "Plymouth",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02362",
+                "distance": 35.168,
+                "city": "Plymouth",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02802",
+                "distance": 32.096,
+                "city": "Albion",
+                "state": "RI"
+            },
+            {
+                "zip_code": "06277",
+                "distance": 45.976,
+                "city": "Thompson",
+                "state": "CT"
+            },
+            {
+                "zip_code": "02859",
+                "distance": 42.378,
+                "city": "Pascoag",
+                "state": "RI"
+            },
+            {
+                "zip_code": "02367",
+                "distance": 30.386,
+                "city": "Plympton",
+                "state": "MA"
+            },
+            {
+                "zip_code": "06246",
+                "distance": 47.89,
+                "city": "Grosvenor Dale",
+                "state": "CT"
+            },
+            {
+                "zip_code": "02858",
+                "distance": 37.995,
+                "city": "Oakland",
+                "state": "RI"
+            },
+            {
+                "zip_code": "02838",
+                "distance": 31.948,
+                "city": "Manville",
+                "state": "RI"
+            },
+            {
+                "zip_code": "02766",
+                "distance": 25.983,
+                "city": "Norton",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02763",
+                "distance": 27.611,
+                "city": "Attleboro Falls",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02864",
+                "distance": 30.467,
+                "city": "Cumberland",
+                "state": "RI"
+            },
+            {
+                "zip_code": "02824",
+                "distance": 34.068,
+                "city": "Forestdale",
+                "state": "RI"
+            },
+            {
+                "zip_code": "02761",
+                "distance": 27.839,
+                "city": "North Attleboro",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02712",
+                "distance": 25.649,
+                "city": "Chartley",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02324",
+                "distance": 26.03,
+                "city": "Bridgewater",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02760",
+                "distance": 27.782,
+                "city": "North Attleboro",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02830",
+                "distance": 37.506,
+                "city": "Harrisville",
+                "state": "RI"
+            },
+            {
+                "zip_code": "02896",
+                "distance": 33.606,
+                "city": "North Smithfield",
+                "state": "RI"
+            },
+            {
+                "zip_code": "02325",
+                "distance": 25.636,
+                "city": "Bridgewater",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02826",
+                "distance": 37.214,
+                "city": "Glendale",
+                "state": "RI"
+            },
+            {
+                "zip_code": "02364",
+                "distance": 30.523,
+                "city": "Kingston",
+                "state": "MA"
+            },
+            {
+                "zip_code": "06255",
+                "distance": 47.277,
+                "city": "North Grosvenordale",
+                "state": "CT"
+            },
+            {
+                "zip_code": "02876",
+                "distance": 34.123,
+                "city": "Slatersville",
+                "state": "RI"
+            },
+            {
+                "zip_code": "02895",
+                "distance": 30.734,
+                "city": "Woonsocket",
+                "state": "RI"
+            },
+            {
+                "zip_code": "02338",
+                "distance": 26.222,
+                "city": "Halifax",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02375",
+                "distance": 23.13,
+                "city": "South Easton",
+                "state": "MA"
+            },
+            {
+                "zip_code": "06245",
+                "distance": 48.327,
+                "city": "Fabyan",
+                "state": "CT"
+            },
+            {
+                "zip_code": "02337",
+                "distance": 23.797,
+                "city": "Elmwood",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02762",
+                "distance": 25.335,
+                "city": "Plainville",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02048",
+                "distance": 22.812,
+                "city": "Mansfield",
+                "state": "MA"
+            },
+            {
+                "zip_code": "06262",
+                "distance": 48.42,
+                "city": "Quinebaug",
+                "state": "CT"
+            },
+            {
+                "zip_code": "02031",
+                "distance": 22.157,
+                "city": "East Mansfield",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02350",
+                "distance": 25.796,
+                "city": "Monponsett",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02379",
+                "distance": 22.17,
+                "city": "West Bridgewater",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02334",
+                "distance": 21.221,
+                "city": "Easton",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01529",
+                "distance": 31.906,
+                "city": "Millville",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02333",
+                "distance": 22.383,
+                "city": "East Bridgewater",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01504",
+                "distance": 29.983,
+                "city": "Blackstone",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02331",
+                "distance": 30.327,
+                "city": "Duxbury",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02332",
+                "distance": 28.781,
+                "city": "Duxbury",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01570",
+                "distance": 42.904,
+                "city": "Webster",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01538",
+                "distance": 33.775,
+                "city": "North Uxbridge",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02070",
+                "distance": 23.444,
+                "city": "Sheldonville",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02341",
+                "distance": 23.262,
+                "city": "Hanson",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02093",
+                "distance": 23.477,
+                "city": "Wrentham",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01516",
+                "distance": 38.465,
+                "city": "Douglas",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01571",
+                "distance": 46.736,
+                "city": "Dudley",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02357",
+                "distance": 19.536,
+                "city": "North Easton",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01569",
+                "distance": 33.178,
+                "city": "Uxbridge",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02327",
+                "distance": 24.734,
+                "city": "Bryantville",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02356",
+                "distance": 19.122,
+                "city": "North Easton",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02035",
+                "distance": 20.353,
+                "city": "Foxboro",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02359",
+                "distance": 24.131,
+                "city": "Pembroke",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02019",
+                "distance": 26.083,
+                "city": "Bellingham",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02301",
+                "distance": 18.172,
+                "city": "Brockton",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02382",
+                "distance": 19.758,
+                "city": "Whitman",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02303",
+                "distance": 18.299,
+                "city": "Brockton",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02304",
+                "distance": 18.299,
+                "city": "Brockton",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02305",
+                "distance": 18.299,
+                "city": "Brockton",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02020",
+                "distance": 29.729,
+                "city": "Brant Rock",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02038",
+                "distance": 23.391,
+                "city": "Franklin",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02302",
+                "distance": 18.005,
+                "city": "Brockton",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02358",
+                "distance": 23.872,
+                "city": "North Pembroke",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01756",
+                "distance": 28.05,
+                "city": "Mendon",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02041",
+                "distance": 26.053,
+                "city": "Green Harbor",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02059",
+                "distance": 26.053,
+                "city": "North Marshfield",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02065",
+                "distance": 26.053,
+                "city": "Ocean Bluff",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02071",
+                "distance": 18.29,
+                "city": "South Walpole",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01525",
+                "distance": 31.215,
+                "city": "Linwood",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02067",
+                "distance": 16.331,
+                "city": "Sharon",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02340",
+                "distance": 21.796,
+                "city": "Hanover",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02056",
+                "distance": 19.476,
+                "city": "Norfolk",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02050",
+                "distance": 25.384,
+                "city": "Marshfield",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01540",
+                "distance": 41.377,
+                "city": "Oxford",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01588",
+                "distance": 32.68,
+                "city": "Whitinsville",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02072",
+                "distance": 15.071,
+                "city": "Stoughton",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02351",
+                "distance": 16.815,
+                "city": "Abington",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01526",
+                "distance": 36.683,
+                "city": "Manchaug",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02339",
+                "distance": 19.534,
+                "city": "Hanover",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01747",
+                "distance": 26.329,
+                "city": "Hopedale",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01508",
+                "distance": 45.986,
+                "city": "Charlton City",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01509",
+                "distance": 45.986,
+                "city": "Charlton Depot",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02370",
+                "distance": 17.433,
+                "city": "Rockland",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01590",
+                "distance": 35.889,
+                "city": "Sutton",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02322",
+                "distance": 14.385,
+                "city": "Avon",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01507",
+                "distance": 46.291,
+                "city": "Charlton",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02047",
+                "distance": 25.664,
+                "city": "Humarock",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02343",
+                "distance": 14.687,
+                "city": "Holbrook",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01534",
+                "distance": 30.616,
+                "city": "Northbridge",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02081",
+                "distance": 15.63,
+                "city": "Walpole",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02051",
+                "distance": 23.168,
+                "city": "Marshfield Hills",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02053",
+                "distance": 20.768,
+                "city": "Medway",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02032",
+                "distance": 13.678,
+                "city": "East Walpole",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01757",
+                "distance": 24.563,
+                "city": "Milford",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01537",
+                "distance": 42.299,
+                "city": "North Oxford",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02061",
+                "distance": 18.911,
+                "city": "Norwell",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02190",
+                "distance": 14.152,
+                "city": "South Weymouth",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02018",
+                "distance": 16.329,
+                "city": "Accord",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02054",
+                "distance": 17.387,
+                "city": "Millis",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01560",
+                "distance": 31.14,
+                "city": "South Grafton",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02021",
+                "distance": 11.192,
+                "city": "Canton",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02368",
+                "distance": 11.444,
+                "city": "Randolph",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01568",
+                "distance": 27.775,
+                "city": "Upton",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02052",
+                "distance": 14.663,
+                "city": "Medfield",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02062",
+                "distance": 11.324,
+                "city": "Norwood",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01586",
+                "distance": 34.968,
+                "city": "West Millbury",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02040",
+                "distance": 20.382,
+                "city": "Greenbush",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02055",
+                "distance": 20.382,
+                "city": "Minot",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01527",
+                "distance": 35.793,
+                "city": "Millbury",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01746",
+                "distance": 20.282,
+                "city": "Holliston",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01501",
+                "distance": 39.039,
+                "city": "Auburn",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02185",
+                "distance": 10.914,
+                "city": "Braintree",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02066",
+                "distance": 20.074,
+                "city": "Scituate",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01519",
+                "distance": 30.772,
+                "city": "Grafton",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01542",
+                "distance": 42.083,
+                "city": "Rochdale",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02188",
+                "distance": 11.873,
+                "city": "Weymouth",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02184",
+                "distance": 10.485,
+                "city": "Braintree",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01515",
+                "distance": 48.58,
+                "city": "East Brookfield",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02189",
+                "distance": 12.642,
+                "city": "East Weymouth",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02060",
+                "distance": 19.727,
+                "city": "North Scituate",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02043",
+                "distance": 14.203,
+                "city": "Hingham",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02090",
+                "distance": 9.907,
+                "city": "Westwood",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01748",
+                "distance": 23.562,
+                "city": "Hopkinton",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01607",
+                "distance": 35.747,
+                "city": "Worcester",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01784",
+                "distance": 23.874,
+                "city": "Woodville",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02044",
+                "distance": 13.708,
+                "city": "Hingham",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01536",
+                "distance": 30.869,
+                "city": "North Grafton",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01770",
+                "distance": 15.461,
+                "city": "Sherborn",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02030",
+                "distance": 11.86,
+                "city": "Dover",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02025",
+                "distance": 16.423,
+                "city": "Cohasset",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01611",
+                "distance": 39.956,
+                "city": "Cherry Valley",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02027",
+                "distance": 7.469,
+                "city": "Dedham",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02186",
+                "distance": 6.711,
+                "city": "Milton",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02191",
+                "distance": 10.585,
+                "city": "North Weymouth",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01603",
+                "distance": 38.265,
+                "city": "Worcester",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02026",
+                "distance": 7.29,
+                "city": "Dedham",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01610",
+                "distance": 36.438,
+                "city": "Worcester",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01562",
+                "distance": 45.726,
+                "city": "Spencer",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02169",
+                "distance": 8.105,
+                "city": "Quincy",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01524",
+                "distance": 42.019,
+                "city": "Leicester",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02137",
+                "distance": 6.062,
+                "city": "Readville",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01604",
+                "distance": 34.343,
+                "city": "Worcester",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02136",
+                "distance": 5.795,
+                "city": "Hyde Park",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01721",
+                "distance": 19.582,
+                "city": "Ashland",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01601",
+                "distance": 35.886,
+                "city": "Worcester",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01613",
+                "distance": 35.886,
+                "city": "Worcester",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01614",
+                "distance": 35.886,
+                "city": "Worcester",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01615",
+                "distance": 35.886,
+                "city": "Worcester",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01653",
+                "distance": 35.886,
+                "city": "Worcester",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01654",
+                "distance": 35.886,
+                "city": "Worcester",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01655",
+                "distance": 35.886,
+                "city": "Worcester",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01580",
+                "distance": 26.312,
+                "city": "Westborough",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01582",
+                "distance": 26.312,
+                "city": "Westborough",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02187",
+                "distance": 5.489,
+                "city": "Milton Village",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02269",
+                "distance": 7.598,
+                "city": "Quincy",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01608",
+                "distance": 35.923,
+                "city": "Worcester",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02170",
+                "distance": 6.708,
+                "city": "Quincy",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01535",
+                "distance": 49.335,
+                "city": "North Brookfield",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01581",
+                "distance": 26.372,
+                "city": "Westborough",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01602",
+                "distance": 38.35,
+                "city": "Worcester",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02126",
+                "distance": 4.369,
+                "city": "Mattapan",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02492",
+                "distance": 8.247,
+                "city": "Needham",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02132",
+                "distance": 4.854,
+                "city": "West Roxbury",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01702",
+                "distance": 17.31,
+                "city": "Framingham",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02131",
+                "distance": 3.795,
+                "city": "Roslindale",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01545",
+                "distance": 31.3,
+                "city": "Shrewsbury",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01760",
+                "distance": 12.928,
+                "city": "Natick",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01609",
+                "distance": 37.178,
+                "city": "Worcester",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02124",
+                "distance": 3.971,
+                "city": "Dorchester Center",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01605",
+                "distance": 34.99,
+                "city": "Worcester",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02122",
+                "distance": 4.532,
+                "city": "Dorchester",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01745",
+                "distance": 20.35,
+                "city": "Fayville",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02045",
+                "distance": 9.784,
+                "city": "Hull",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02482",
+                "distance": 10.295,
+                "city": "Wellesley",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02171",
+                "distance": 5.404,
+                "city": "Quincy",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01612",
+                "distance": 42.156,
+                "city": "Paxton",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02457",
+                "distance": 8.992,
+                "city": "Babson Park",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02494",
+                "distance": 6.972,
+                "city": "Needham Heights",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01546",
+                "distance": 30.988,
+                "city": "Shrewsbury",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01703",
+                "distance": 16.765,
+                "city": "Framingham",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01704",
+                "distance": 16.765,
+                "city": "Framingham",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01705",
+                "distance": 16.765,
+                "city": "Framingham",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01772",
+                "distance": 21.848,
+                "city": "Southborough",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02121",
+                "distance": 2.363,
+                "city": "Dorchester",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02130",
+                "distance": 1.975,
+                "city": "Jamaica Plain",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02481",
+                "distance": 8.836,
+                "city": "Wellesley Hills",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02464",
+                "distance": 6.002,
+                "city": "Newton Upper Falls",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02467",
+                "distance": 2.871,
+                "city": "Chestnut Hill",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02459",
+                "distance": 4.681,
+                "city": "Newton Center",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01606",
+                "distance": 35.271,
+                "city": "Worcester",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02125",
+                "distance": 2.971,
+                "city": "Dorchester",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02461",
+                "distance": 5.329,
+                "city": "Newton Highlands",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01701",
+                "distance": 17.252,
+                "city": "Framingham",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01532",
+                "distance": 27.614,
+                "city": "Northborough",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02119",
+                "distance": 1.387,
+                "city": "Roxbury",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02445",
+                "distance": 1.695,
+                "city": "Brookline",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02468",
+                "distance": 6.349,
+                "city": "Waban",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02462",
+                "distance": 7.689,
+                "city": "Newton Lower Falls",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02456",
+                "distance": 4.825,
+                "city": "New Town",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02495",
+                "distance": 4.825,
+                "city": "Nonantum",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02447",
+                "distance": 1.323,
+                "city": "Brookline Village",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02120",
+                "distance": 0.584,
+                "city": "Roxbury Crossing",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02127",
+                "distance": 3.398,
+                "city": "Boston",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01520",
+                "distance": 38.042,
+                "city": "Holden",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02115",
+                "distance": 0,
+                "city": "Boston",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02118",
+                "distance": 1.815,
+                "city": "Boston",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02216",
+                "distance": 1.825,
+                "city": "Boston",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02298",
+                "distance": 2.845,
+                "city": "Boston",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02446",
+                "distance": 0.956,
+                "city": "Brookline",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01778",
+                "distance": 14.082,
+                "city": "Wayland",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02466",
+                "distance": 7.304,
+                "city": "Auburndale",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02199",
+                "distance": 1.397,
+                "city": "Boston",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02210",
+                "distance": 3.469,
+                "city": "Boston",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02215",
+                "distance": 0.743,
+                "city": "Boston",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02465",
+                "distance": 6.198,
+                "city": "West Newton",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01752",
+                "distance": 22.547,
+                "city": "Marlborough",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02135",
+                "distance": 2.606,
+                "city": "Brighton",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02112",
+                "distance": 2.505,
+                "city": "Boston",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02117",
+                "distance": 2.505,
+                "city": "Boston",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02123",
+                "distance": 2.505,
+                "city": "Boston",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02133",
+                "distance": 2.505,
+                "city": "Boston",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02196",
+                "distance": 2.505,
+                "city": "Boston",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02201",
+                "distance": 2.505,
+                "city": "Boston",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02204",
+                "distance": 2.505,
+                "city": "Boston",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02205",
+                "distance": 2.505,
+                "city": "Boston",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02206",
+                "distance": 2.505,
+                "city": "Boston",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02211",
+                "distance": 2.505,
+                "city": "Boston",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02212",
+                "distance": 2.505,
+                "city": "Boston",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02217",
+                "distance": 2.505,
+                "city": "Boston",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02222",
+                "distance": 2.505,
+                "city": "Boston",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02228",
+                "distance": 2.505,
+                "city": "East Boston",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02241",
+                "distance": 2.505,
+                "city": "Boston",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02266",
+                "distance": 2.505,
+                "city": "Boston",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02283",
+                "distance": 2.505,
+                "city": "Boston",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02284",
+                "distance": 2.505,
+                "city": "Boston",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02293",
+                "distance": 2.505,
+                "city": "Boston",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02295",
+                "distance": 2.505,
+                "city": "Boston",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02297",
+                "distance": 2.505,
+                "city": "Boston",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02207",
+                "distance": 2.975,
+                "city": "Boston",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02111",
+                "distance": 2.572,
+                "city": "Boston",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02116",
+                "distance": 1.758,
+                "city": "Boston",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01068",
+                "distance": 47.937,
+                "city": "Oakham",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02460",
+                "distance": 5.335,
+                "city": "Newtonville",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02458",
+                "distance": 4.365,
+                "city": "Newton",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01505",
+                "distance": 31.185,
+                "city": "Boylston",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02108",
+                "distance": 2.519,
+                "city": "Boston",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02134",
+                "distance": 1.86,
+                "city": "Allston",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02471",
+                "distance": 3.638,
+                "city": "Watertown",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02477",
+                "distance": 3.638,
+                "city": "Watertown",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02239",
+                "distance": 1.606,
+                "city": "Cambridge",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02493",
+                "distance": 10.222,
+                "city": "Weston",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02203",
+                "distance": 2.896,
+                "city": "Boston",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02128",
+                "distance": 5.298,
+                "city": "Boston",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02142",
+                "distance": 2.083,
+                "city": "Cambridge",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02110",
+                "distance": 3.418,
+                "city": "Boston",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02139",
+                "distance": 1.793,
+                "city": "Cambridge",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02114",
+                "distance": 2.619,
+                "city": "Boston",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02113",
+                "distance": 3.231,
+                "city": "Boston",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02163",
+                "distance": 2.191,
+                "city": "Boston",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02109",
+                "distance": 3.511,
+                "city": "Boston",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01583",
+                "distance": 34.769,
+                "city": "West Boylston",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02472",
+                "distance": 4.31,
+                "city": "Watertown",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02453",
+                "distance": 7.231,
+                "city": "Waltham",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02238",
+                "distance": 2.281,
+                "city": "Cambridge",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02141",
+                "distance": 2.587,
+                "city": "Cambridge",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02152",
+                "distance": 7.144,
+                "city": "Winthrop",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01522",
+                "distance": 38.969,
+                "city": "Jefferson",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02138",
+                "distance": 3.295,
+                "city": "Cambridge",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02129",
+                "distance": 3.705,
+                "city": "Charlestown",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02454",
+                "distance": 7.46,
+                "city": "Waltham",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02143",
+                "distance": 3.096,
+                "city": "Somerville",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01776",
+                "distance": 16.403,
+                "city": "Sudbury",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01503",
+                "distance": 27.172,
+                "city": "Berlin",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01543",
+                "distance": 44.252,
+                "city": "Rutland",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01749",
+                "distance": 22.75,
+                "city": "Hudson",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02455",
+                "distance": 6.873,
+                "city": "North Waltham",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02479",
+                "distance": 4.907,
+                "city": "Waverley",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02145",
+                "distance": 3.853,
+                "city": "Somerville",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02140",
+                "distance": 4.065,
+                "city": "Cambridge",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02452",
+                "distance": 6.709,
+                "city": "Waltham",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02478",
+                "distance": 5.535,
+                "city": "Belmont",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02150",
+                "distance": 5.61,
+                "city": "Chelsea",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02451",
+                "distance": 8.737,
+                "city": "Waltham",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02144",
+                "distance": 4.405,
+                "city": "Somerville",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02149",
+                "distance": 5.42,
+                "city": "Everett",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02475",
+                "distance": 6.31,
+                "city": "Arlington Heights",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01510",
+                "distance": 30.274,
+                "city": "Clinton",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02476",
+                "distance": 6.495,
+                "city": "Arlington",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02151",
+                "distance": 7.733,
+                "city": "Revere",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02156",
+                "distance": 5.859,
+                "city": "West Medford",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02153",
+                "distance": 5.736,
+                "city": "Medford",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02474",
+                "distance": 6.338,
+                "city": "Arlington",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02155",
+                "distance": 5.994,
+                "city": "Medford",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01773",
+                "distance": 12.12,
+                "city": "Lincoln",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01754",
+                "distance": 18.92,
+                "city": "Maynard",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01908",
+                "distance": 11.134,
+                "city": "Nahant",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02148",
+                "distance": 6.81,
+                "city": "Malden",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01775",
+                "distance": 21.725,
+                "city": "Stow",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02421",
+                "distance": 9.794,
+                "city": "Lexington",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01740",
+                "distance": 26.299,
+                "city": "Bolton",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01561",
+                "distance": 30.496,
+                "city": "South Lancaster",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01564",
+                "distance": 35.054,
+                "city": "Sterling",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01890",
+                "distance": 8.225,
+                "city": "Winchester",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01541",
+                "distance": 40.202,
+                "city": "Princeton",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02176",
+                "distance": 8.538,
+                "city": "Melrose",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01731",
+                "distance": 12.116,
+                "city": "Hanscom Afb",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02420",
+                "distance": 9.992,
+                "city": "Lexington",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01517",
+                "distance": 40.912,
+                "city": "East Princeton",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01901",
+                "distance": 11.774,
+                "city": "Lynn",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01742",
+                "distance": 15.817,
+                "city": "Concord",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01905",
+                "distance": 11.104,
+                "city": "Lynn",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01906",
+                "distance": 10.208,
+                "city": "Saugus",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01806",
+                "distance": 9.452,
+                "city": "Woburn",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01903",
+                "distance": 11.807,
+                "city": "Lynn",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01910",
+                "distance": 11.807,
+                "city": "Lynn",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01902",
+                "distance": 12.489,
+                "city": "Lynn",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01907",
+                "distance": 13.898,
+                "city": "Swampscott",
+                "state": "MA"
+            },
+            {
+                "zip_code": "02180",
+                "distance": 9.482,
+                "city": "Stoneham",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01807",
+                "distance": 10.126,
+                "city": "Woburn",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01813",
+                "distance": 10.126,
+                "city": "Woburn",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01815",
+                "distance": 10.126,
+                "city": "Woburn",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01888",
+                "distance": 10.126,
+                "city": "Woburn",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01523",
+                "distance": 30.765,
+                "city": "Lancaster",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01720",
+                "distance": 19.782,
+                "city": "Acton",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01719",
+                "distance": 23.555,
+                "city": "Boxborough",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01801",
+                "distance": 10.769,
+                "city": "Woburn",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01452",
+                "distance": 46.967,
+                "city": "Hubbardston",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01467",
+                "distance": 27.768,
+                "city": "Still River",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01904",
+                "distance": 12.664,
+                "city": "Lynn",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01730",
+                "distance": 14.356,
+                "city": "Bedford",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01805",
+                "distance": 12.233,
+                "city": "Burlington",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01808",
+                "distance": 11.279,
+                "city": "Woburn",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01880",
+                "distance": 11.529,
+                "city": "Wakefield",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01945",
+                "distance": 16.954,
+                "city": "Marblehead",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01451",
+                "distance": 26.188,
+                "city": "Harvard",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01803",
+                "distance": 12.471,
+                "city": "Burlington",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01971",
+                "distance": 16.249,
+                "city": "Salem",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01718",
+                "distance": 20.783,
+                "city": "Village Of Nagog Woods",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01453",
+                "distance": 35.819,
+                "city": "Leominster",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01970",
+                "distance": 17.635,
+                "city": "Salem",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01866",
+                "distance": 14.76,
+                "city": "Pinehurst",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01961",
+                "distance": 15.021,
+                "city": "Peabody",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01940",
+                "distance": 14.044,
+                "city": "Lynnfield",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01960",
+                "distance": 15.281,
+                "city": "Peabody",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01867",
+                "distance": 13.685,
+                "city": "Reading",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01460",
+                "distance": 23.962,
+                "city": "Littleton",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01741",
+                "distance": 18.989,
+                "city": "Carlisle",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01434",
+                "distance": 29.35,
+                "city": "Devens",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01865",
+                "distance": 15.834,
+                "city": "Nutting Lake",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01821",
+                "distance": 16.447,
+                "city": "Billerica",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01822",
+                "distance": 16.678,
+                "city": "Billerica",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01473",
+                "distance": 43.461,
+                "city": "Westminster",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01889",
+                "distance": 15.576,
+                "city": "North Reading",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01965",
+                "distance": 19.854,
+                "city": "Prides Crossing",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01438",
+                "distance": 49.7,
+                "city": "East Templeton",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01887",
+                "distance": 16.005,
+                "city": "Wilmington",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01432",
+                "distance": 28.7,
+                "city": "Ayer",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01915",
+                "distance": 20.199,
+                "city": "Beverly",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01464",
+                "distance": 31.8,
+                "city": "Shirley",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01923",
+                "distance": 18.193,
+                "city": "Danvers",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01944",
+                "distance": 23.912,
+                "city": "Manchester",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01864",
+                "distance": 16.694,
+                "city": "North Reading",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01862",
+                "distance": 19.281,
+                "city": "North Billerica",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01441",
+                "distance": 47.623,
+                "city": "Westminster",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01462",
+                "distance": 35.634,
+                "city": "Lunenburg",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01440",
+                "distance": 48.135,
+                "city": "Gardner",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01420",
+                "distance": 40.084,
+                "city": "Fitchburg",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01886",
+                "distance": 24.198,
+                "city": "Westford",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01937",
+                "distance": 18.259,
+                "city": "Hathorne",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01824",
+                "distance": 21.646,
+                "city": "Chelmsford",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01470",
+                "distance": 29.822,
+                "city": "Groton",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01471",
+                "distance": 29.822,
+                "city": "Groton",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01984",
+                "distance": 21.444,
+                "city": "Wenham",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01949",
+                "distance": 19.254,
+                "city": "Middleton",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01472",
+                "distance": 32.273,
+                "city": "West Groton",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01936",
+                "distance": 22.637,
+                "city": "Hamilton",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01450",
+                "distance": 30.142,
+                "city": "Groton",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01876",
+                "distance": 19.971,
+                "city": "Tewksbury",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01930",
+                "distance": 29.131,
+                "city": "Gloucester",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01931",
+                "distance": 29.966,
+                "city": "Gloucester",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01982",
+                "distance": 23.655,
+                "city": "South Hamilton",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01851",
+                "distance": 23.25,
+                "city": "Lowell",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01853",
+                "distance": 22.995,
+                "city": "Lowell",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01852",
+                "distance": 22.556,
+                "city": "Lowell",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01863",
+                "distance": 25.08,
+                "city": "North Chelmsford",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01929",
+                "distance": 27.016,
+                "city": "Essex",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01966",
+                "distance": 32.425,
+                "city": "Rockport",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01983",
+                "distance": 22.586,
+                "city": "Topsfield",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01810",
+                "distance": 21.674,
+                "city": "Andover",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01854",
+                "distance": 24.865,
+                "city": "Lowell",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01812",
+                "distance": 21.689,
+                "city": "Andover",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01899",
+                "distance": 21.689,
+                "city": "Andover",
+                "state": "MA"
+            },
+            {
+                "zip_code": "05501",
+                "distance": 21.689,
+                "city": "Andover",
+                "state": "MA"
+            },
+            {
+                "zip_code": "05544",
+                "distance": 21.689,
+                "city": "Andover",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01850",
+                "distance": 24.227,
+                "city": "Lowell",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01430",
+                "distance": 47.152,
+                "city": "Ashburnham",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01469",
+                "distance": 37.613,
+                "city": "Townsend",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01879",
+                "distance": 28.158,
+                "city": "Tyngsboro",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01474",
+                "distance": 40.17,
+                "city": "West Townsend",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01885",
+                "distance": 23.321,
+                "city": "West Boxford",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01463",
+                "distance": 34.246,
+                "city": "Pepperell",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01845",
+                "distance": 23.281,
+                "city": "North Andover",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01827",
+                "distance": 30.852,
+                "city": "Dunstable",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01431",
+                "distance": 43.802,
+                "city": "Ashby",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01826",
+                "distance": 25.669,
+                "city": "Dracut",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01921",
+                "distance": 24.32,
+                "city": "Boxford",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01938",
+                "distance": 27.449,
+                "city": "Ipswich",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01843",
+                "distance": 24.539,
+                "city": "Lawrence",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01842",
+                "distance": 25.228,
+                "city": "Lawrence",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01840",
+                "distance": 25.692,
+                "city": "Lawrence",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01841",
+                "distance": 26.076,
+                "city": "Lawrence",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01969",
+                "distance": 28.673,
+                "city": "Rowley",
+                "state": "MA"
+            },
+            {
+                "zip_code": "03062",
+                "distance": 33.37,
+                "city": "Nashua",
+                "state": "NH"
+            },
+            {
+                "zip_code": "01833",
+                "distance": 27.724,
+                "city": "Georgetown",
+                "state": "MA"
+            },
+            {
+                "zip_code": "03076",
+                "distance": 29.658,
+                "city": "Pelham",
+                "state": "NH"
+            },
+            {
+                "zip_code": "03061",
+                "distance": 34.03,
+                "city": "Nashua",
+                "state": "NH"
+            },
+            {
+                "zip_code": "03060",
+                "distance": 33.18,
+                "city": "Nashua",
+                "state": "NH"
+            },
+            {
+                "zip_code": "01844",
+                "distance": 28.256,
+                "city": "Methuen",
+                "state": "MA"
+            },
+            {
+                "zip_code": "03048",
+                "distance": 43.605,
+                "city": "Greenville",
+                "state": "NH"
+            },
+            {
+                "zip_code": "03071",
+                "distance": 48.283,
+                "city": "New Ipswich",
+                "state": "NH"
+            },
+            {
+                "zip_code": "03033",
+                "distance": 40.658,
+                "city": "Brookline",
+                "state": "NH"
+            },
+            {
+                "zip_code": "03049",
+                "distance": 37.529,
+                "city": "Hollis",
+                "state": "NH"
+            },
+            {
+                "zip_code": "01835",
+                "distance": 28.62,
+                "city": "Haverhill",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01834",
+                "distance": 29.158,
+                "city": "Groveland",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01922",
+                "distance": 30.624,
+                "city": "Byfield",
+                "state": "MA"
+            },
+            {
+                "zip_code": "03051",
+                "distance": 33.088,
+                "city": "Hudson",
+                "state": "NH"
+            },
+            {
+                "zip_code": "01951",
+                "distance": 32.828,
+                "city": "Newbury",
+                "state": "MA"
+            },
+            {
+                "zip_code": "03064",
+                "distance": 35.867,
+                "city": "Nashua",
+                "state": "NH"
+            },
+            {
+                "zip_code": "01831",
+                "distance": 30.629,
+                "city": "Haverhill",
+                "state": "MA"
+            },
+            {
+                "zip_code": "03063",
+                "distance": 37.228,
+                "city": "Nashua",
+                "state": "NH"
+            },
+            {
+                "zip_code": "03079",
+                "distance": 31.723,
+                "city": "Salem",
+                "state": "NH"
+            },
+            {
+                "zip_code": "01832",
+                "distance": 31.399,
+                "city": "Haverhill",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01830",
+                "distance": 31.84,
+                "city": "Haverhill",
+                "state": "MA"
+            },
+            {
+                "zip_code": "01985",
+                "distance": 32.753,
+                "city": "West Newbury",
+                "state": "MA"
+            },
+            {
+                "zip_code": "03087",
+                "distance": 34.252,
+                "city": "Windham",
+                "state": "NH"
+            },
+            {
+                "zip_code": "01950",
+                "distance": 34.61,
+                "city": "Newburyport",
+                "state": "MA"
+            },
+            {
+                "zip_code": "03055",
+                "distance": 44.061,
+                "city": "Milford",
+                "state": "NH"
+            },
+            {
+                "zip_code": "03073",
+                "distance": 34.544,
+                "city": "North Salem",
+                "state": "NH"
+            },
+            {
+                "zip_code": "03086",
+                "distance": 47.712,
+                "city": "Wilton",
+                "state": "NH"
+            },
+            {
+                "zip_code": "01860",
+                "distance": 34.979,
+                "city": "Merrimac",
+                "state": "MA"
+            },
+            {
+                "zip_code": "03811",
+                "distance": 34.823,
+                "city": "Atkinson",
+                "state": "NH"
+            },
+            {
+                "zip_code": "01952",
+                "distance": 37.563,
+                "city": "Salisbury",
+                "state": "MA"
+            },
+            {
+                "zip_code": "03865",
+                "distance": 35.14,
+                "city": "Plaistow",
+                "state": "NH"
+            },
+            {
+                "zip_code": "03052",
+                "distance": 39.711,
+                "city": "Litchfield",
+                "state": "NH"
+            },
+            {
+                "zip_code": "01913",
+                "distance": 36.337,
+                "city": "Amesbury",
+                "state": "MA"
+            },
+            {
+                "zip_code": "03054",
+                "distance": 41.349,
+                "city": "Merrimack",
+                "state": "NH"
+            },
+            {
+                "zip_code": "03859",
+                "distance": 36.283,
+                "city": "Newton Junction",
+                "state": "NH"
+            },
+            {
+                "zip_code": "03053",
+                "distance": 39.502,
+                "city": "Londonderry",
+                "state": "NH"
+            },
+            {
+                "zip_code": "03858",
+                "distance": 36.969,
+                "city": "Newton",
+                "state": "NH"
+            },
+            {
+                "zip_code": "03031",
+                "distance": 44.866,
+                "city": "Amherst",
+                "state": "NH"
+            },
+            {
+                "zip_code": "03041",
+                "distance": 38.43,
+                "city": "East Derry",
+                "state": "NH"
+            },
+            {
+                "zip_code": "03841",
+                "distance": 37.842,
+                "city": "Hampstead",
+                "state": "NH"
+            },
+            {
+                "zip_code": "03874",
+                "distance": 39.734,
+                "city": "Seabrook",
+                "state": "NH"
+            },
+            {
+                "zip_code": "03826",
+                "distance": 38.222,
+                "city": "East Hampstead",
+                "state": "NH"
+            },
+            {
+                "zip_code": "03038",
+                "distance": 39.361,
+                "city": "Derry",
+                "state": "NH"
+            },
+            {
+                "zip_code": "03827",
+                "distance": 39.546,
+                "city": "East Kingston",
+                "state": "NH"
+            },
+            {
+                "zip_code": "03057",
+                "distance": 49.553,
+                "city": "Mont Vernon",
+                "state": "NH"
+            },
+            {
+                "zip_code": "03848",
+                "distance": 39.874,
+                "city": "Kingston",
+                "state": "NH"
+            },
+            {
+                "zip_code": "03844",
+                "distance": 42.109,
+                "city": "Hampton Falls",
+                "state": "NH"
+            },
+            {
+                "zip_code": "03819",
+                "distance": 40.825,
+                "city": "Danville",
+                "state": "NH"
+            },
+            {
+                "zip_code": "03873",
+                "distance": 41.432,
+                "city": "Sandown",
+                "state": "NH"
+            },
+            {
+                "zip_code": "03110",
+                "distance": 46.791,
+                "city": "Bedford",
+                "state": "NH"
+            },
+            {
+                "zip_code": "03842",
+                "distance": 43.819,
+                "city": "Hampton",
+                "state": "NH"
+            },
+            {
+                "zip_code": "03843",
+                "distance": 44.116,
+                "city": "Hampton",
+                "state": "NH"
+            },
+            {
+                "zip_code": "03103",
+                "distance": 45.787,
+                "city": "Manchester",
+                "state": "NH"
+            },
+            {
+                "zip_code": "03109",
+                "distance": 45.81,
+                "city": "Manchester",
+                "state": "NH"
+            },
+            {
+                "zip_code": "03833",
+                "distance": 44.714,
+                "city": "Exeter",
+                "state": "NH"
+            },
+            {
+                "zip_code": "03862",
+                "distance": 46.577,
+                "city": "North Hampton",
+                "state": "NH"
+            },
+            {
+                "zip_code": "03871",
+                "distance": 47.509,
+                "city": "Rye Beach",
+                "state": "NH"
+            },
+            {
+                "zip_code": "03036",
+                "distance": 45.375,
+                "city": "Chester",
+                "state": "NH"
+            },
+            {
+                "zip_code": "03101",
+                "distance": 48.622,
+                "city": "Manchester",
+                "state": "NH"
+            },
+            {
+                "zip_code": "03105",
+                "distance": 48.384,
+                "city": "Manchester",
+                "state": "NH"
+            },
+            {
+                "zip_code": "03107",
+                "distance": 48.384,
+                "city": "Manchester",
+                "state": "NH"
+            },
+            {
+                "zip_code": "03108",
+                "distance": 48.384,
+                "city": "Manchester",
+                "state": "NH"
+            },
+            {
+                "zip_code": "03111",
+                "distance": 48.384,
+                "city": "Manchester",
+                "state": "NH"
+            },
+            {
+                "zip_code": "03032",
+                "distance": 47.456,
+                "city": "Auburn",
+                "state": "NH"
+            },
+            {
+                "zip_code": "03044",
+                "distance": 45.831,
+                "city": "Fremont",
+                "state": "NH"
+            },
+            {
+                "zip_code": "03870",
+                "distance": 49.64,
+                "city": "Rye",
+                "state": "NH"
+            },
+            {
+                "zip_code": "03104",
+                "distance": 49.462,
+                "city": "Manchester",
+                "state": "NH"
+            },
+            {
+                "zip_code": "03885",
+                "distance": 47.962,
+                "city": "Stratham",
+                "state": "NH"
+            },
+            {
+                "zip_code": "03077",
+                "distance": 48.688,
+                "city": "Raymond",
+                "state": "NH"
+            },
+            {
+                "zip_code": "03856",
+                "distance": 48.968,
+                "city": "Newfields",
+                "state": "NH"
+            },
+            {
+                "zip_code": "03040",
+                "distance": 49.958,
+                "city": "East Candia",
+                "state": "NH"
+            },
+            {
+                "zip_code": "03042",
+                "distance": 49.556,
+                "city": "Epping",
+                "state": "NH"
+            }
+
     ]
 };
   let validSites;
